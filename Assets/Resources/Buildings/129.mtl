@@ -1,0 +1,330 @@
+newmtl kago_a_
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kago_a_.png
+map_d kago_a_.png
+newmtl kago_a
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kago_a.png
+map_d kago_a.png
+newmtl kago_b
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kago_b.png
+map_d kago_b.png
+newmtl kago_c_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kago_c_1.png
+map_d kago_c_1.png
+newmtl kago_d
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kago_d.png
+map_d kago_d.png
+newmtl kago_a_
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kago_a_.png
+map_d kago_a_.png
+newmtl kago_a
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kago_a.png
+map_d kago_a.png
+newmtl kago_b
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kago_b.png
+map_d kago_b.png
+newmtl kago_c_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kago_c_1.png
+map_d kago_c_1.png
+newmtl kago_d
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kago_d.png
+map_d kago_d.png
+newmtl kago_a_
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kago_a_.png
+map_d kago_a_.png
+newmtl kago_a
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kago_a.png
+map_d kago_a.png
+newmtl kago_b
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kago_b.png
+map_d kago_b.png
+newmtl kago_c_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kago_c_1.png
+map_d kago_c_1.png
+newmtl kago_d
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kago_d.png
+map_d kago_d.png
+newmtl kago_a_
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kago_a_.png
+map_d kago_a_.png
+newmtl kago_a
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kago_a.png
+map_d kago_a.png
+newmtl kago_b
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kago_b.png
+map_d kago_b.png
+newmtl kago_c_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kago_c_1.png
+map_d kago_c_1.png
+newmtl kago_d
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kago_d.png
+map_d kago_d.png
+newmtl kago_a_
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kago_a_.png
+map_d kago_a_.png
+newmtl kago_a
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kago_a.png
+map_d kago_a.png
+newmtl kago_b
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kago_b.png
+map_d kago_b.png
+newmtl kago_c_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kago_c_1.png
+map_d kago_c_1.png
+newmtl kago_d
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kago_d.png
+map_d kago_d.png
+newmtl kago_a_
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kago_a_.png
+map_d kago_a_.png
+newmtl kago_a
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kago_a.png
+map_d kago_a.png
+newmtl kago_b
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kago_b.png
+map_d kago_b.png
+newmtl kago_c_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kago_c_1.png
+map_d kago_c_1.png
+newmtl kago_d
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kago_d.png
+map_d kago_d.png
+newmtl kago_a_
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kago_a_.png
+map_d kago_a_.png
+newmtl kago_a
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kago_a.png
+map_d kago_a.png
+newmtl kago_b
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kago_b.png
+map_d kago_b.png
+newmtl kago_c_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kago_c_1.png
+map_d kago_c_1.png
+newmtl kago_d
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kago_d.png
+map_d kago_d.png
+newmtl wheel_a
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd wheel_a.png
+map_d wheel_a.png
+newmtl wheel_a
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd wheel_a.png
+map_d wheel_a.png
+newmtl wheel_b
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd wheel_b.png
+map_d wheel_b.png
+newmtl wheel_b_
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd wheel_b_.png
+map_d wheel_b_.png
+newmtl wheel_c
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd wheel_c.png
+map_d wheel_c.png
+newmtl h_kage
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h_kage.png
+map_d h_kage.png
+newmtl wbase_d
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd wbase_d.png
+map_d wbase_d.png
+newmtl wheel_b_
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd wheel_b_.png
+map_d wheel_b_.png
+newmtl wheel_e
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd wheel_e.png
+map_d wheel_e.png
+newmtl wheel_b
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd wheel_b.png
+map_d wheel_b.png
+newmtl wheel_f
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd wheel_f.png
+map_d wheel_f.png
+newmtl wbase_b
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd wbase_b.png
+map_d wbase_b.png
+newmtl wbase_c
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd wbase_c.png
+map_d wbase_c.png
+newmtl wbase_a
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd wbase_a.png
+map_d wbase_a.png
+newmtl wbase_d_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd wbase_d_1.png
+map_d wbase_d_1.png
+newmtl kago_a_
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kago_a_.png
+map_d kago_a_.png
+newmtl kago_a
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kago_a.png
+map_d kago_a.png
+newmtl kago_b
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kago_b.png
+map_d kago_b.png
+newmtl kago_c_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kago_c_1.png
+map_d kago_c_1.png
+newmtl kago_d
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kago_d.png
+map_d kago_d.png

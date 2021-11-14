@@ -1,0 +1,12 @@
+newmtl dtree_01_01
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd dtree_01_01.png
+map_d dtree_01_01.png
+newmtl dtree_02_02
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd dtree_02_02.png
+map_d dtree_02_02.png

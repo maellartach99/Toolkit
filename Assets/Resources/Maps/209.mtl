@@ -1,0 +1,138 @@
+newmtl out32_u_kaida_3
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out32_u_kaida_3.png
+map_d out32_u_kaida_3.png
+newmtl out38_t08_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out38_t08_1.png
+map_d out38_t08_1.png
+newmtl in38_hasira_2
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in38_hasira_2.png
+map_d in38_hasira_2.png
+newmtl in38_hasira_1
+Ka 0.5020 0.5020 0.5020
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in38_hasira_1.png
+map_d in38_hasira_1.png
+newmtl in38colum_b_1
+Ka 0.4078 0.4078 0.4078
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in38colum_b_1.png
+map_d in38colum_b_1.png
+newmtl in38_kage_1
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in38_kage_1.png
+map_d in38_kage_1.png
+newmtl pk_l_yane_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd pk_l_yane_1.png
+map_d pk_l_yane_1.png
+newmtl pk_l_yane2_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd pk_l_yane2_1.png
+map_d pk_l_yane2_1.png
+newmtl h_kage_3
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h_kage_3.png
+map_d h_kage_3.png
+newmtl pk_l_le2_3
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd pk_l_le2_3.png
+map_d pk_l_le2_3.png
+newmtl pk_l_kabe_3
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd pk_l_kabe_3.png
+map_d pk_l_kabe_3.png
+newmtl pk_l_mado2_3
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd pk_l_mado2_3.png
+map_d pk_l_mado2_3.png
+newmtl pk_l_mado4_3
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd pk_l_mado4_3.png
+map_d pk_l_mado4_3.png
+newmtl pk_l_mado3_3
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd pk_l_mado3_3.png
+map_d pk_l_mado3_3.png
+newmtl kage
+Ka 0.3451 0.3451 0.3451
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kage.png
+map_d kage.png
+newmtl out32_sanbo
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out32_sanbo.png
+map_d out32_sanbo.png
+newmtl pk_l_iwa6_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd pk_l_iwa6_1.png
+map_d pk_l_iwa6_1.png
+newmtl out32_u_k1_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out32_u_k1_1.png
+map_d out32_u_k1_1.png
+newmtl pk_l_iwa7_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd pk_l_iwa7_1.png
+map_d pk_l_iwa7_1.png
+newmtl out32_u_k5_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out32_u_k5_1.png
+map_d out32_u_k5_1.png
+newmtl out32_u_k4_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out32_u_k4_1.png
+map_d out32_u_k4_1.png
+newmtl out32_u_k3_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out32_u_k3_1.png
+map_d out32_u_k3_1.png
+newmtl out32_u_k2_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out32_u_k2_1.png
+map_d out32_u_k2_1.png

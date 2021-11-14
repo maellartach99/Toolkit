@@ -1,0 +1,48 @@
+newmtl out56_Fount04_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out56_Fount04_1.png
+map_d out56_Fount04_1.png
+newmtl out56_Fount02_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out56_Fount02_1.png
+map_d out56_Fount02_1.png
+newmtl out56_Fount03_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out56_Fount03_1.png
+map_d out56_Fount03_1.png
+newmtl out56_Fount01_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out56_Fount01_1.png
+map_d out56_Fount01_1.png
+newmtl kage_out_3
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kage_out_3.png
+map_d kage_out_3.png
+newmtl wbt_foun_02_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd wbt_foun_02_1.png
+map_d wbt_foun_02_1.png
+newmtl wbt_foun_01_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd wbt_foun_01_1.png
+map_d wbt_foun_01_1.png
+newmtl wbt_foun_01_2
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd wbt_foun_01_2.png
+map_d wbt_foun_01_2.png

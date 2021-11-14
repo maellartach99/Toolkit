@@ -1,0 +1,18 @@
+newmtl c8lb_bigice04
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c8lb_bigice04.png
+map_d c8lb_bigice04.png
+newmtl c8lb_bigice02
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c8lb_bigice02.png
+map_d c8lb_bigice02.png
+newmtl c8lb_bigice01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c8lb_bigice01.png
+map_d c8lb_bigice01.png

@@ -1,0 +1,18 @@
+newmtl wh1d
+Ka 0.7843 0.7843 0.7843
+Kd 0.9725 0.9725 0.9725
+d 1.0000
+map_Kd wh1d.png
+map_d wh1d.png
+newmtl s
+Ka 0.9725 0.9725 0.9725
+Kd 0.9725 0.9725 0.9725
+d 1.0000
+map_Kd s.png
+map_d s.png
+newmtl wh1a
+Ka 0.7843 0.7843 0.7843
+Kd 0.9725 0.9725 0.9725
+d 1.0000
+map_Kd wh1a.png
+map_d wh1a.png

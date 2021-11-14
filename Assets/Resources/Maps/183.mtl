@@ -1,0 +1,66 @@
+newmtl kawa_fuchi_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kawa_fuchi_1.png
+map_d kawa_fuchi_1.png
+newmtl h03_01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h03_01.png
+map_d h03_01.png
+newmtl h03_05
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 0.5484
+map_Kd h03_05.png
+map_d h03_05.png
+newmtl h03_04
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h03_04.png
+map_d h03_04.png
+newmtl kawa_soko
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kawa_soko.png
+map_d kawa_soko.png
+newmtl h03_10
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h03_10.png
+map_d h03_10.png
+newmtl h03_02
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h03_02.png
+map_d h03_02.png
+newmtl h03_03
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h03_03.png
+map_d h03_03.png
+newmtl h03_12
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h03_12.png
+map_d h03_12.png
+newmtl h03_13
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h03_13.png
+map_d h03_13.png
+newmtl h03_14
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h03_14.png
+map_d h03_14.png

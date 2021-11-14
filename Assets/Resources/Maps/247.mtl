@@ -1,0 +1,120 @@
+newmtl sea_mizu1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd sea_mizu1.png
+map_d sea_mizu1.png
+newmtl sea_mizu1_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 0.5161
+map_Kd sea_mizu1_1.png
+map_d sea_mizu1_1.png
+newmtl grass01ax
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd grass01ax.png
+map_d grass01ax.png
+newmtl gake01a_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd gake01a_1.png
+map_d gake01a_1.png
+newmtl yamagake01
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd yamagake01.png
+map_d yamagake01.png
+newmtl gake1_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd gake1_1.png
+map_d gake1_1.png
+newmtl gake_futa
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd gake_futa.png
+map_d gake_futa.png
+newmtl gake1_0
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd gake1_0.png
+map_d gake1_0.png
+newmtl gake01a
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd gake01a.png
+map_d gake01a.png
+newmtl gake_michi
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd gake_michi.png
+map_d gake_michi.png
+newmtl gake1_3
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd gake1_3.png
+map_d gake1_3.png
+newmtl sea_gake01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd sea_gake01.png
+map_d sea_gake01.png
+newmtl sea_gake02
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd sea_gake02.png
+map_d sea_gake02.png
+newmtl sea_jimen
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd sea_jimen.png
+map_d sea_jimen.png
+newmtl sea_zanami2
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd sea_zanami2.png
+map_d sea_zanami2.png
+newmtl sea_asase02
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd sea_asase02.png
+map_d sea_asase02.png
+newmtl sea_simi_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd sea_simi_1.png
+map_d sea_simi_1.png
+newmtl sea_zanami
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd sea_zanami.png
+map_d sea_zanami.png
+newmtl sea_diving
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd sea_diving.png
+map_d sea_diving.png
+newmtl ue_grass00
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd ue_grass00.png
+map_d ue_grass00.png

@@ -1,0 +1,36 @@
+newmtl azi_ship01
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd azi_ship01.png
+map_d azi_ship01.png
+newmtl azi_ship02
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd azi_ship02.png
+map_d azi_ship02.png
+newmtl azito_wa
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd azito_wa.png
+map_d azito_wa.png
+newmtl azito_a_3
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd azito_a_3.png
+map_d azito_a_3.png
+newmtl azito_a_1
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd azito_a_1.png
+map_d azito_a_1.png
+newmtl h_mado
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h_mado.png
+map_d h_mado.png

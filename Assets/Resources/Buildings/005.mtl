@@ -1,0 +1,42 @@
+newmtl h_kage
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h_kage.png
+map_d h_kage.png
+newmtl h_mado
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h_mado.png
+map_d h_mado.png
+newmtl t1h03
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd t1h03.png
+map_d t1h03.png
+newmtl t1h04
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd t1h04.png
+map_d t1h04.png
+newmtl h_mado_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h_mado_1.png
+map_d h_mado_1.png
+newmtl t1hy1
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd t1hy1.png
+map_d t1hy1.png
+newmtl t1_h_post01
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd t1_h_post01.png
+map_d t1_h_post01.png

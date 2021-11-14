@@ -1,0 +1,18 @@
+newmtl c5fve3
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c5fve3.png
+map_d c5fve3.png
+newmtl c5fve2
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c5fve2.png
+map_d c5fve2.png
+newmtl c5fve1
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c5fve1.png
+map_d c5fve1.png

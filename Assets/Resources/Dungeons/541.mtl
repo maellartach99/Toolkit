@@ -1,0 +1,102 @@
+newmtl yuka_g
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd yuka_g.png
+map_d yuka_g.png
+newmtl yuka_a
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd yuka_a.png
+map_d yuka_a.png
+newmtl lambert28
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd dragon28.png
+map_d dragon28.png
+newmtl round_wall_1
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd round_wall_1.png
+map_d round_wall_1.png
+newmtl round_wall_
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd round_wall_.png
+map_d round_wall_.png
+newmtl lambert20
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd dragon20.png
+map_d dragon20.png
+newmtl lambert21
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd dragon21.png
+map_d dragon21.png
+newmtl lambert27
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd dragon27.png
+map_d dragon27.png
+newmtl lambert25
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd dragon25.png
+map_d dragon25.png
+newmtl lambert26
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd dragon26.png
+map_d dragon26.png
+newmtl lambert31
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 0.8065
+map_Kd dragon31.png
+map_d dragon31.png
+newmtl lambert32
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 0.6129
+map_Kd dragon32.png
+map_d dragon32.png
+newmtl lambert33
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 0.3871
+map_Kd dragon33.png
+map_d dragon33.png
+newmtl lambert34
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 0.8065
+map_Kd dragon34.png
+map_d dragon34.png
+newmtl lambert35
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 0.6129
+map_Kd dragon35.png
+map_d dragon35.png
+newmtl lambert36
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 0.3871
+map_Kd dragon36.png
+map_d dragon36.png
+newmtl kage_2
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kage_2.png
+map_d kage_2.png

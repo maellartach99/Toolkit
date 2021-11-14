@@ -1,0 +1,42 @@
+newmtl lambert2
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd lambert2.png
+map_d lambert2.png
+newmtl entotu
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd entotu.png
+map_d entotu.png
+newmtl lambert5
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd lambert5.png
+map_d lambert5.png
+newmtl lambert6
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 0.6452
+map_Kd lambert6.png
+map_d lambert6.png
+newmtl lambert7
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 0.4194
+map_Kd lambert7.png
+map_d lambert7.png
+newmtl pasted__lambert7
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 0.2581
+map_Kd pasted__lambert7.png
+map_d pasted__lambert7.png
+newmtl lambert11
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd lambert11.png
+map_d lambert11.png

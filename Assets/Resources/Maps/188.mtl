@@ -1,0 +1,162 @@
+newmtl grass01ax
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd grass01ax.png
+map_d grass01ax.png
+newmtl grass_ishi
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd grass_ishi.png
+map_d grass_ishi.png
+newmtl gake_ishi
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd gake_ishi.png
+map_d gake_ishi.png
+newmtl gake01a2
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd gake01a2.png
+map_d gake01a2.png
+newmtl kawa_soko
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kawa_soko.png
+map_d kawa_soko.png
+newmtl kawa_fuchi_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kawa_fuchi_1.png
+map_d kawa_fuchi_1.png
+newmtl gake01a2_1
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd gake01a2_1.png
+map_d gake01a2_1.png
+newmtl gake_ishi2
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd gake_ishi2.png
+map_d gake_ishi2.png
+newmtl ue_grass00
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd ue_grass00.png
+map_d ue_grass00.png
+newmtl kage_out
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kage_out.png
+map_d kage_out.png
+newmtl michi02a
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd michi02a.png
+map_d michi02a.png
+newmtl michi02b
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd michi02b.png
+map_d michi02b.png
+newmtl out16_fence01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out16_fence01.png
+map_d out16_fence01.png
+newmtl out16_goal01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out16_goal01.png
+map_d out16_goal01.png
+newmtl saku01a
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd saku01a.png
+map_d saku01a.png
+newmtl ki02ax
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd ki02ax.png
+map_d ki02ax.png
+newmtl ki02c
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd ki02c.png
+map_d ki02c.png
+newmtl ki02bx
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd ki02bx.png
+map_d ki02bx.png
+newmtl ki02dx
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd ki02dx.png
+map_d ki02dx.png
+newmtl lab02_tesu
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd lab02_tesu.png
+map_d lab02_tesu.png
+newmtl plant01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd plant01.png
+map_d plant01.png
+newmtl lab02_tesu2
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd lab02_tesu2.png
+map_d lab02_tesu2.png
+newmtl h04_kabe4
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h04_kabe4.png
+map_d h04_kabe4.png
+newmtl h04_stair
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h04_stair.png
+map_d h04_stair.png
+newmtl h04_fuch2
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h04_fuch2.png
+map_d h04_fuch2.png
+newmtl h04_yuka4
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h04_yuka4.png
+map_d h04_yuka4.png
+newmtl h04_fuch3
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h04_fuch3.png
+map_d h04_fuch3.png

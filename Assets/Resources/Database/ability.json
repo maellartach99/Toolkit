@@ -1,0 +1,1806 @@
+﻿/*
+Ratings and how they work:
+-1: Perjudicial
+	  La habilidad perjudica al usuario.
+	ex. Flaqueza, Inicio Lento
+ 0: Inútil
+	  No supone ningún beneficio en el combate.
+	ex. Cambio Color, Más
+ 1: Ineficaz
+	  Puede ser útil en situaciones muy especificas.
+	ex. Metal Liviano, Ventosas
+ 2: Útil
+	  Suele tener alguna utilidad en términos generales.
+	ex. Cuerpo Llama, Funda
+ 3: Eficaz
+	  Habilidad con efectos muy relevantes durante la batalla.
+	ex. Clorofila, Cura Natural
+ 4: Muy Útil
+	  Las habilidades más populares. Requiere escaso soporte para funcionar.
+	ex. Adaptable, Muro Mágico
+ 5: Esencial
+	  La clase de habilidades que definen el meta.
+	ex. Impostor, Sombra Trampa
+*/
+{
+	"noability": {
+		"description": "Does nothing.",
+		"isNonstandard": "Past",
+		"name": "",
+		"rating": 0.1,
+		"num": 0
+	},
+	"stench": {
+		"name": "Hedor",
+		"rating": 0.5,
+		"num": 1,
+		"description": "Puede amedrentar al rival al atacarlo debido al mal olor que emana.",
+		"onModifyMovePriority": -1
+	},
+	"drizzle": {
+		"name": "Llovizna",
+		"rating": 4.5,
+		"num": 2,
+		"description": "Hace que llueva al entrar en combate."
+	},
+	"speedboost": {
+		"name": "Impulso",
+		"rating": 4.5,
+		"num": 3,
+		"description": "Aumenta su velocidad en cada turno.",
+		"onResidualOrder": 26,
+		"onResidualSubOrder": 1
+	},
+	"battlearmor": {
+		"name": "Armadura Batalla",
+		"rating": 1,
+		"num": 4,
+		"description": "La robusta coraza que lo protege bloquea los golpes críticos.",
+		"onCriticalHit": false
+	},
+	"sturdy": {
+		"name": "Robustez",
+		"rating": 3,
+		"num": 5,
+		"description": "Evita que el rival pueda debilitarlo de un solo golpe cuando tiene los PS al máximo. También evita los movimientos fulminantes.",
+		"onDamagePriority": -100
+	},
+	"damp": {
+		"name": "Humedad",
+		"rating": 1,
+		"num": 6,
+		"description": "Aumenta la humedad del entorno y evita que se puedan utilizar movimientos explosivos, tales como Autodestrucción."
+	},
+	"limber": {
+		"name": "Flexibilidad",
+		"rating": 2,
+		"num": 7,
+		"description": "Evita ser paralizado gracias a la flexibilidad de su cuerpo."
+	},
+	"sandveil": {
+		"name": "Velo Arena",
+		"rating": 1.5,
+		"num": 8,
+		"description": "Aumenta su evasión durante las tormentas de arena.",
+		"onModifyAccuracyPriority": 8
+	},
+	"static": {
+		"name": "Electricidad Estática",
+		"rating": 2,
+		"num": 9,
+		"description": "La electricidad estática que lo envuelve puede paralizar al mínimo contacto."
+	},
+	"voltabsorb": {
+		"name": "Absorbe Electricidad",
+		"rating": 3.5,
+		"num": 10,
+		"description": "Si le alcanza un movimiento de tipo eléctrico, recupera PS en vez de sufrir daño."
+	},
+	"waterabsorb": {
+		"name": "Absorbe Agua",
+		"rating": 3.5,
+		"num": 11,
+		"description": "Si le alcanza un movimiento de tipo agua, recupera PS en vez de sufrir daño."
+	},
+	"oblivious": {
+		"name": "Despiste",
+		"rating": 1.5,
+		"num": 12,
+		"description": "Su indiferencia evita que sea provocado o caiga presa del enamoramiento."
+	},
+	"cloudnine": {
+		"name": "Aclimatación",
+		"rating": 2,
+		"num": 13,
+		"description": "Anula todos los efectos del tiempo atmosférico.",
+		"suppressWeather": true
+	},
+	"compoundeyes": {
+		"name": "Ojo Compuesto",
+		"rating": 3,
+		"num": 14,
+		"description": "Aumenta la precisión de sus movimientos.",
+		"onSourceModifyAccuracyPriority": 9
+	},
+	"insomnia": {
+		"name": "Insomnio",
+		"rating": 2,
+		"num": 15,
+		"description": "Su resistencia al sueño le impide quedarse dormido."
+	},
+	"colorchange": {
+		"name": "Cambio Color",
+		"rating": 0,
+		"num": 16,
+		"description": "Adopta el tipo del último movimiento del que es blanco."
+	},
+	"immunity": {
+		"name": "Inmunidad",
+		"rating": 2,
+		"num": 17,
+		"description": "Su sistema inmunitario evita el envenenamiento."
+	},
+	"flashfire": {
+		"name": "Absorbe Fuego",
+		"rating": 3.5,
+		"num": 18,
+		"description": "Si le alcanza algún movimiento de tipo fuego, potencia sus propios movimientos de dicho tipo.",
+		"condition": {}
+	},
+	"shielddust": {
+		"name": "Polvo Escudo",
+		"rating": 2,
+		"num": 19,
+		"description": "El polvo de escamas que lo envuelve lo protege de los efectos secundarios de los ataques recibidos."
+	},
+	"owntempo": {
+		"name": "Ritmo Propio",
+		"rating": 1.5,
+		"num": 20,
+		"description": "Como le gusta hacer las cosas a su manera, los rivales no logran confundirlo."
+	},
+	"suctioncups": {
+		"name": "Ventosas",
+		"rating": 1,
+		"num": 21,
+		"description": "Sus ventosas se aferran al suelo, con lo cual anula movimientos y objetos que fuerzan el relevo.",
+		"onDragOutPriority": 1
+	},
+	"intimidate": {
+		"name": "Intimidación",
+		"rating": 3.5,
+		"num": 22,
+		"description": "Al entrar en combate amilana al rival de tal manera que su ataque disminuye."
+	},
+	"shadowtag": {
+		"name": "Sombra Trampa",
+		"rating": 5,
+		"num": 23,
+		"description": "Impide que el enemigo huya o sea cambiado por otro."
+	},
+	"roughskin": {
+		"name": "Piel Tosca",
+		"rating": 2.5,
+		"num": 24,
+		"description": "Hiere con su piel áspera al rival que lo ataque con un movimiento de contacto.",
+		"onDamagingHitOrder": 1
+	},
+	"wonderguard": {
+		"name": "Superguarda",
+		"rating": 5,
+		"num": 25,
+		"description": "Gracias a un poder misterioso, solo le hacen daño los movimientos supereficaces."
+	},
+	"levitate": {
+		"name": "Levitación",
+		"rating": 3.5,
+		"num": 26,
+		"description": "Su capacidad de flotar sobre el suelo le proporciona inmunidad frente a los movimientos de tipo tierra.",
+		// airborneness implemented in sim/pokemon.js:Pokemon#isGrounded
+	},
+	"effectspore": {
+		"name": "Efecto Espora",
+		"rating": 2,
+		"num": 27,
+		"description": "Puede dormir, envenenar o paralizar al Pokémon con el que entre en contacto al recibir un ataque."
+	},
+	"synchronize": {
+		"name": "Sincronía",
+		"rating": 2,
+		"num": 28,
+		"description": "Contagia el envenenamiento, las quemaduras o la parálisis al Pokémon que le cause ese estado."
+	},
+	"clearbody": {
+		"name": "Cuerpo Puro",
+		"rating": 2,
+		"num": 29,
+		"description": "Evita que bajen sus características a causa de movimientos o habilidades de otros Pokémon."
+	},
+	"naturalcure": {
+		"name": "Cura Natural",
+		"rating": 3,
+		"num": 30,
+		"description": "Cura sus problemas de estado al cambiarse con otro Pokémon."
+	},
+	"lightningrod": {
+		"name": "Pararrayos",
+		"rating": 3,
+		"num": 31,
+		"description": "Atrae y neutraliza los movimientos de tipo eléctrico, que además le suben el ataque especial."
+	},
+	"serenegrace": {
+		"name": "Dicha",
+		"rating": 3.5,
+		"num": 32,
+		"description": "Aumenta la probabilidad de que los movimientos causen efectos secundarios.",
+		"onModifyMovePriority": -2
+	},
+	"swiftswim": {
+		"name": "Nado Rápido",
+		"rating": 3,
+		"num": 33,
+		"description": "Sube su velocidad cuando llueve."
+	},
+	"chlorophyll": {
+		"name": "Clorofila",
+		"rating": 3,
+		"num": 34,
+		"description": "Sube su velocidad cuando hace sol."
+	},
+	"illuminate": {
+		"name": "Iluminación",
+		"rating": 0,
+		"num": 35,
+		"description": "Aumenta la probabilidad de encontrar Pokémon al iluminar el entorno."
+	},
+	"trace": {
+		"name": "Rastro",
+		"rating": 2.5,
+		"num": 36,
+		"description": "Al entrar en combate copia la habilidad del rival."
+	},
+	"hugepower": {
+		"name": "Potencia",
+		"rating": 5,
+		"num": 37,
+		"description": "Duplica la potencia de sus ataques físicos.",
+		"onModifyAtkPriority": 5
+	},
+	"poisonpoint": {
+		"name": "Punto Tóxico",
+		"rating": 1.5,
+		"num": 38,
+		"description": "Puede envenenar al mínimo contacto."
+	},
+	"innerfocus": {
+		"name": "Foco Interno",
+		"rating": 1.5,
+		"num": 39,
+		"description": "Gracias a su profunda concentración, no se amedrenta ante los ataques del rival."
+	},
+	"magmaarmor": {
+		"name": "Escudo Magma",
+		"rating": 1,
+		"num": 40,
+		"description": "Gracias al magma candente que lo envuelve, no puede ser congelado."
+	},
+	"waterveil": {
+		"name": "Velo Agua",
+		"rating": 2,
+		"num": 41,
+		"description": "Evita las quemaduras gracias a la capa de agua que lo envuelve."
+	},
+	"magnetpull": {
+		"name": "Imán",
+		"rating": 4.5,
+		"num": 42,
+		"description": "Su magnetismo atrae a los Pokémon de tipo acero y les impide huir."
+	},
+	"soundproof": {
+		"name": "Insonorizar",
+		"rating": 1.5,
+		"num": 43,
+		"description": "Su aislamiento acústico lo protege de movimientos que usan sonido."
+	},
+	"raindish": {
+		"name": "Cura Lluvia",
+		"rating": 1.5,
+		"num": 44,
+		"description": "Recupera PS de forma gradual cuando llueve."
+	},
+	"sandstream": {
+		"name": "Chorro Arena",
+		"rating": 4,
+		"num": 45,
+		"description": "Crea una tormenta de arena al entrar en combate."
+	},
+	"pressure": {
+		"name": "Presión",
+		"rating": 2.5,
+		"num": 46,
+		"description": "Presiona al rival para que sus PP se acaben antes."
+	},
+	"thickfat": {
+		"name": "Sebo",
+		"rating": 3.5,
+		"num": 47,
+		"description": "Gracias a la gruesa capa de grasa que lo protege, reduce a la mitad el daño que recibe de ataques de tipo fuego y hielo.",
+		"onSourceModifyAtkPriority": 6,
+		"onSourceModifySpAPriority": 5
+	},
+	"earlybird": {
+		"name": "Madrugar",
+		"rating": 1.5,
+		"num": 48,
+		"description": "Si se duerme, tardará la mitad de tiempo en despertarse.",
+		// Implemented in statuses.js
+	},
+	"flamebody": {
+		"name": "Cuerpo Llama",
+		"rating": 2,
+		"num": 49,
+		"description": "Puede quemar al mínimo contacto."
+	},
+	"runaway": {
+		"name": "Fuga",
+		"rating": 0,
+		"num": 50,
+		"description": "Puede escaparse de todos los Pokémon salvajes."
+	},
+	"keeneye": {
+		"name": "Vista Lince",
+		"rating": 0.5,
+		"num": 51,
+		"description": "Su aguda vista evita que le disminuya la precisión."
+	},
+	"hypercutter": {
+		"name": "Corte Fuerte",
+		"rating": 1.5,
+		"num": 52,
+		"description": "Evita que el rival le baje el ataque."
+	},
+	"pickup": {
+		"name": "Recogida",
+		"rating": 0.5,
+		"num": 53,
+		"description": "Puede recoger objetos que el rival haya usado, o bien otros que encuentre en plena aventura.",
+		"onResidualOrder": 26,
+		"onResidualSubOrder": 1
+	},
+	"truant": {
+		"name": "Ausente",
+		"rating": -1,
+		"num": 54,
+		"description": "Al ejecutar un movimiento, descansará en el turno siguiente.",
+		"onBeforeMovePriority": 9,
+		"condition": {}
+	},
+	"hustle": {
+		"name": "Entusiasmo",
+		"rating": 3.5,
+		"num": 55,
+		"description": "Aumenta su ataque, pero reduce su precisión.",
+		// This should be applied directly to the stat as opposed to chaining with the others
+		"onModifyAtkPriority": 5,
+		"onSourceModifyAccuracyPriority": 7
+	},
+	"cutecharm": {
+		"name": "Gran Encanto",
+		"rating": 0.5,
+		"num": 56,
+		"description": "Puede causar enamoramiento al rival que lo toque."
+	},
+	"plus": {
+		"name": "Más",
+		"rating": 0,
+		"num": 57,
+		"description": "Potencia su ataque especial si un Pokémon aliado tiene la habilidad más o menos.",
+		"onModifySpAPriority": 5
+	},
+	"minus": {
+		"name": "Menos",
+		"rating": 0,
+		"num": 58,
+		"description": "Potencia su ataque especial si un Pokémon aliado tiene la habilidad más o menos.",
+		"onModifySpAPriority": 5
+	},
+	"forecast": {
+		"name": "Predicción",
+		"rating": 2,
+		"num": 59,
+		"description": "Cambia a tipo agua, fuego o hielo en función del tiempo atmosférico."
+	},
+	"stickyhold": {
+		"name": "Viscosidad",
+		"rating": 1.5,
+		"num": 60,
+		"description": "Los objetos se quedan pegados a su cuerpo, por lo que no pueden robárselos."
+	},
+	"shedskin": {
+		"name": "Mudar",
+		"rating": 3,
+		"num": 61,
+		"description": "Puede curar sus problemas de estado al mudar la piel.",
+		"onResidualOrder": 5,
+		"onResidualSubOrder": 4
+	},
+	"guts": {
+		"name": "Agallas",
+		"rating": 3,
+		"num": 62,
+		"description": "Si sufre un problemas de estado, se viene arriba y aumenta su ataque.",
+		"onModifyAtkPriority": 5
+	},
+	"marvelscale": {
+		"name": "Escama Especial",
+		"rating": 2.5,
+		"num": 63,
+		"description": "Sube su defensa si sufre un problemas de estado.",
+		"onModifyDefPriority": 6
+	},
+	"liquidooze": {
+		"name": "Lodo Líquido",
+		"rating": 1.5,
+		"num": 64,
+		"description": "Exuda una sustancia tóxica de intenso hedor que hiere a quienes intentan drenarle PS."
+	},
+	"overgrow": {
+		"name": "Espesura",
+		"rating": 2,
+		"num": 65,
+		"description": "Potencia sus movimientos de tipo planta cuando le quedan pocos PS.",
+		"onModifyAtkPriority": 5,
+		"onModifySpAPriority": 5
+	},
+	"blaze": {
+		"name": "Mar Llamas",
+		"rating": 2,
+		"num": 66,
+		"description": "Potencia sus movimientos de tipo fuego cuando le quedan pocos PS.",
+		"onModifyAtkPriority": 5,
+		"onModifySpAPriority": 5
+	},
+	"torrent": {
+		"name": "Torrente",
+		"rating": 2,
+		"num": 67,
+		"description": "Potencia sus movimientos de tipo agua cuando le quedan pocos PS.",
+		"onModifyAtkPriority": 5,
+		"onModifySpAPriority": 5
+	},
+	"swarm": {
+		"name": "Enjambre",
+		"rating": 2,
+		"num": 68,
+		"description": "Potencia sus movimientos de tipo bicho cuando le quedan pocos PS.",
+		"onModifyAtkPriority": 5,
+		"onModifySpAPriority": 5
+	},
+	"rockhead": {
+		"name": "Cabeza Roca",
+		"rating": 3,
+		"num": 69,
+		"description": "No puede dañarse con sus propios movimientos."
+	},
+	"drought": {
+		"name": "Sequía",
+		"rating": 4.5,
+		"num": 70,
+		"description": "Cuando entra en combate, el tiempo pasa a ser soleado."
+	},
+	"arenatrap": {
+		"name": "Trampa Arena",
+		"rating": 5,
+		"num": 71,
+		"description": "Evita que el rival huya."
+	},
+	"vitalspirit": {
+		"name": "Espíritu Vital",
+		"rating": 2,
+		"num": 72,
+		"description": "Su determinación le impide quedarse dormido."
+	},
+	"whitesmoke": {
+		"name": "Humo Blanco",
+		"rating": 2,
+		"num": 73,
+		"description": "El humo blanco que lo protege evita que otros Pokémon le bajen las características."
+	},
+	"purepower": {
+		"name": "Energía Pura",
+		"rating": 5,
+		"num": 74,
+		"description": "Duplica la potencia de sus ataques físicos gracias al yoga.",
+		"onModifyAtkPriority": 5
+	},
+	"shellarmor": {
+		"name": "Caparazón",
+		"rating": 1,
+		"num": 75,
+		"description": "La robusta coraza que lo protege bloquea los golpes críticos.",
+		"onCriticalHit": false
+	},
+	"airlock": {
+		"name": "Bucle Aire",
+		"rating": 2,
+		"num": 76,
+		"description": "Neutraliza todos los efectos del tiempo atmosférico.",
+		"suppressWeather": true
+	},
+	/*****************************************************************************/
+	// Gen 4
+	/*****************************************************************************/
+	"tangledfeet": {
+		"name": "Tumbos",
+		"rating": 1,
+		"num": 77,
+		"description": "Sube su evasión si está confuso.",
+		"onModifyAccuracyPriority": 6
+	},
+	"motordrive": {
+		"name": "Electromotor",
+		"rating": 3,
+		"num": 78,
+		"description": "Si le alcanza un movimiento de tipo eléctrico, le sube la velocidad en vez de sufrir daño."
+	},
+	"rivalry": {
+		"name": "Rivalidad",
+		"rating": 0,
+		"num": 79,
+		"description": "Si el objetivo es del mismo sexo, su competitividad le lleva a infligir más daño. Si es del sexo contrario, en cambio, el daño será menor.",
+		"onBasePowerPriority": 24
+	},
+	"steadfast": {
+		"name": "Impasible",
+		"rating": 1,
+		"num": 80,
+		"description": "Cada vez que se amedrenta sube su velocidad, debido a su voluntad inquebrantable."
+	},
+	"snowcloak": {
+		"name": "Manto Níveo",
+		"rating": 1.5,
+		"num": 81,
+		"description": "Sube la evasión cuando graniza.",
+		"onModifyAccuracyPriority": 8
+	},
+	"gluttony": {
+		"name": "Gula",
+		"rating": 1.5,
+		"num": 82,
+		"description": "Cuando sus PS se ven reducidos a la mitad, engulle la baya que normalmente solo se comería cuando le quedasen pocos PS."
+	},
+	"angerpoint": {
+		"name": "Irascible",
+		"rating": 1.5,
+		"num": 83,
+		"description": "Si recibe un golpe crítico, monta en cólera y sube su ataque hasta el máximo."
+	},
+	"unburden": {
+		"name": "Liviano",
+		"rating": 3.5,
+		"num": 84,
+		"description": "Sube su velocidad si usa o pierde el objeto que lleva.",
+		"condition": {}
+	},
+	"heatproof": {
+		"name": "Ignífugo",
+		"rating": 2,
+		"num": 85,
+		"description": "Su cuerpo, resistente al calor, reduce a la mitad el daño recibido por movimientos de tipo fuego.",
+		"onSourceBasePowerPriority": 18
+	},
+	"simple": {
+		"name": "Simple",
+		"rating": 4.5,
+		"num": 86,
+		"description": "Duplica los cambios en las características."
+	},
+	"dryskin": {
+		"name": "Piel Seca",
+		"rating": 3,
+		"num": 87,
+		"description": "Pierde PS si hace sol y los recupera si llueve o recibe un movimiento de tipo agua. Los movimientos de tipo fuego, por su parte, le hacen más daño de lo normal.",
+		"onFoeBasePowerPriority": 17
+	},
+	"download": {
+		"name": "Descarga",
+		"rating": 3.5,
+		"num": 88,
+		"description": "Compara la defensa y la defensa especial del rival para ver cuál es inferior y aumenta su propio ataque o ataque especial, según sea lo más eficaz."
+	},
+	"ironfist": {
+		"name": "Puño Férreo",
+		"rating": 3,
+		"num": 89,
+		"description": "Aumenta la potencia de los puñetazos.",
+		"onBasePowerPriority": 23
+	},
+	"poisonheal": {
+		"name": "Antídoto",
+		"rating": 4,
+		"num": 90,
+		"description": "Si resulta envenenado, recupera PS en vez de perderlos.",
+		"onDamagePriority": 1
+	},
+	"adaptability": {
+		"name": "Adaptable",
+		"rating": 4,
+		"num": 91,
+		"description": "Potencia aún más los movimientos cuyo tipo coincida con el suyo."
+	},
+	"skilllink": {
+		"name": "Encadenado",
+		"rating": 3,
+		"num": 92,
+		"description": "Ejecuta siempre los movimientos múltiples con el número máximo de golpes."
+	},
+	"hydration": {
+		"name": "Hidratación",
+		"rating": 1.5,
+		"num": 93,
+		"description": "Cura los problemas de estado si está lloviendo.",
+		"onResidualOrder": 5,
+		"onResidualSubOrder": 4
+	},
+	"solarpower": {
+		"name": "Poder Solar",
+		"rating": 2,
+		"num": 94,
+		"description": "Si hace sol, aumenta su ataque especial, pero pierde PS en cada turno.",
+		"onModifySpAPriority": 5
+	},
+	"quickfeet": {
+		"name": "Piés Rápidos",
+		"rating": 2.5,
+		"num": 95,
+		"description": "Aumenta la velocidad si sufre problemas de estado."
+	},
+	"normalize": {
+		"name": "Normalizar",
+		"rating": 0,
+		"num": 96,
+		"description": "Hace que todos sus movimientos se vuelvan de tipo normal y aumenten ligeramente su potencia.",
+		"onModifyTypePriority": 1,
+		"onBasePowerPriority": 23
+	},
+	"sniper": {
+		"name": "Francotirador",
+		"rating": 2,
+		"num": 97,
+		"description": "Potencia los golpes críticos que asesta aún más de lo normal."
+	},
+	"magicguard": {
+		"name": "Muro Mágico",
+		"rating": 4,
+		"num": 98,
+		"description": "Solo recibe daño de ataques."
+	},
+	"noguard": {
+		"name": "Indefenso",
+		"rating": 4,
+		"num": 99,
+		"description": "Al quedar ambos expuestos, tanto sus movimientos como los del rival acertarán siempre.",
+		"onAnyInvulnerabilityPriority": 1
+	},
+	"stall": {
+		"name": "Rezagado",
+		"rating": -1,
+		"num": 100,
+		"description": "Ejecuta su movimiento tras todos los demás.",
+		"onFractionalPriority": -0.1
+	},
+	"technician": {
+		"name": "Experto",
+		"rating": 3.5,
+		"num": 101,
+		"description": "Potencia sus movimientos más débiles.",
+		"onBasePowerPriority": 30
+	},
+	"leafguard": {
+		"name": "Defensa Hoja",
+		"rating": 0.5,
+		"num": 102,
+		"description": "Evita los problemas de estado si hace sol."
+	},
+	"klutz": {
+		"name": "Zoquete",
+		"rating": -1,
+		"num": 103,
+		"description": "No puede usar objetos equipados.",
+		// Item suppression implemented in Pokemon.ignoringItem() within sim/pokemon.js
+	},
+	"moldbreaker": {
+		"name": "Rompemoldes",
+		"rating": 3.5,
+		"num": 104,
+		"description": "Las habilidades del objetivo no afectan a los movimientos que emplea."
+	},
+	"superluck": {
+		"name": "Afortunado",
+		"rating": 1.5,
+		"num": 105,
+		"description": "Su buena suerte aumenta la probabilidad de asestar golpes críticos."
+	},
+	"aftermath": {
+		"name": "Detonación",
+		"rating": 2.5,
+		"num": 106,
+		"description": "Daña al agresor que le ha dado el golpe de gracia con un movimiento de contacto.",
+		"onDamagingHitOrder": 1
+	},
+	"anticipation": {
+		"name": "Anticipación",
+		"rating": 0.5,
+		"num": 107,
+		"description": "Prevé los movimientos peligrosos del rival."
+	},
+	"forewarn": {
+		"name": "Alerta",
+		"rating": 0.5,
+		"num": 108,
+		"description": "Indica el movimiento más potente del rival al entrar en combate."
+	},
+	"unaware": {
+		"name": "Ignorante",
+		"rating": 3.5,
+		"num": 109,
+		"description": "Pasa por alto las mejoras en las características del rival al atacar."
+	},
+	"tintedlens": {
+		"name": "Cromolente",
+		"rating": 4,
+		"num": 110,
+		"description": "Potencia los movimientos que no son muy eficaces, que infligen ahora un daño normal."
+	},
+	"filter": {
+		"name": "Filtro",
+		"rating": 3,
+		"num": 111,
+		"description": "Mitiga el daño que le infligen los movimientos supereficaces."
+	},
+	"slowstart": {
+		"name": "Inicio Lento",
+		"rating": -1,
+		"num": 112,
+		"description": "Baja a la mitad su ataque y su velocidad durante cinco turnos.",
+		"condition": {}
+	},
+	"scrappy": {
+		"name": "Intrépido",
+		"rating": 3,
+		"num": 113,
+		"description": "Puede alcanzar a Pokémon de tipo fantasma con movimientos de tipo normal o lucha.",
+		"onModifyMovePriority": -5
+	},
+	"stormdrain": {
+		"name": "Colector",
+		"rating": 3,
+		"num": 114,
+		"description": "Atrae y neutraliza los movimientos de tipo agua, que además le suben el ataque especial."
+	},
+	"icebody": {
+		"name": "Gélido",
+		"rating": 1,
+		"num": 115,
+		"description": "Recupera PS de forma gradual cuando hay tormentas de granizo."
+	},
+	"solidrock": {
+		"name": "Roca Sólida",
+		"rating": 3,
+		"num": 116,
+		"description": "Mitiga el daño que le infligen los movimientos supereficaces."
+	},
+	"snowwarning": {
+		"name": "Nevada",
+		"rating": 4,
+		"num": 117,
+		"description": "Invoca una tormenta de granizo al entrar en combate."
+	},
+	"honeygather": {
+		"name": "Recogemiel",
+		"rating": 0,
+		"num": 118,
+		"description": "Puede que encuentre miel una vez concluido el combate."
+	},
+	"frisk": {
+		"name": "Cacheo",
+		"rating": 1.5,
+		"num": 119,
+		"description": "Puede ver el objeto que lleva el rival al entrar en combate."
+	},
+	"reckless": {
+		"name": "Audaz",
+		"rating": 3,
+		"num": 120,
+		"description": "Potencia los movimientos que también dañan al usuario.",
+		"onBasePowerPriority": 23
+	},
+	"multitype": {
+		"name": "Multitipo",
+		"rating": 4,
+		"num": 121,
+		"description": "If this Pokemon is an Arceus, its type changes to match its held Plate or Z-Crystal.",
+		// Multitype's type-changing itself is implemented in statuses.js
+	},
+	"flowergift": {
+		"name": "Don Floral",
+		"rating": 1,
+		"num": 122,
+		"description": "Si hace sol, aumenta su ataque y su defensa especial, así como los de sus aliados.",
+		"onAllyModifyAtkPriority": 3,
+		"onAllyModifySpDPriority": 4
+	},
+	"baddreams": {
+		"name": "Mal Sueño",
+		"rating": 1.5,
+		"num": 123,
+		"description": "Inflige daño a cualquier rival que esté dormido.",
+		"onResidualOrder": 26,
+		"onResidualSubOrder": 1
+	},
+	/*****************************************************************************/
+	// Gen 5
+	/*****************************************************************************/
+	"pickpocket": {
+		"name": "Hurto",
+		"rating": 1,
+		"num": 124,
+		"description": "Si el rival usa un movimiento de contacto al atacar, le roba el objeto."
+	},
+	"sheerforce": {
+		"name": "Potencia Bruta",
+		"rating": 3.5,
+		"num": 125,
+		"description": "Sube la potencia de sus movimientos en detrimento de los efectos secundarios, que se ven anulados.",
+		"onBasePowerPriority": 21
+	},
+	"contrary": {
+		"name": "Respondón",
+		"rating": 4.5,
+		"num": 126,
+		"description": "Invierte los cambios en las características: bajan cuando les toca subir y suben cuando les toca bajar."
+	},
+	"unnerve": {
+		"name": "Nerviosismo",
+		"rating": 1.5,
+		"num": 127,
+		"description": "Pone nervioso al rival y le impide usar bayas.",
+		"onFoeTryEatItem": false
+	},
+	"defiant": {
+		"name": "Competitivo",
+		"rating": 2.5,
+		"num": 128,
+		"description": "Sube mucho su ataque cuando el rival le baja las características."
+	},
+	"defeatist": {
+		"name": "Flaqueza",
+		"rating": -1,
+		"num": 129,
+		"description": "Se debilita tanto cuando sus PS se ven reducidos a la mitad, que su ataque y su ataque especial bajan.",
+		"onModifyAtkPriority": 5,
+		"onModifySpAPriority": 5
+	},
+	"cursedbody": {
+		"name": "Cuerpo Maldito",
+		"rating": 2,
+		"num": 130,
+		"description": "Puede anular el movimiento usado en su contra."
+	},
+	"healer": {
+		"name": "Alma Cura",
+		"rating": 0,
+		"num": 131,
+		"description": "A veces cura los problemas de estado de un aliado.",
+		"onResidualOrder": 5,
+		"onResidualSubOrder": 4
+	},
+	"friendguard": {
+		"name": "Compiescolta",
+		"rating": 0,
+		"num": 132,
+		"description": "Reduce el daño que sufren los aliados."
+	},
+	"weakarmor": {
+		"name": "Armadura Frágil",
+		"rating": 1,
+		"num": 133,
+		"description": "Al recibir daño por un ataque físico, le baja la defensa, pero le sube mucho la velocidad."
+	},
+	"heavymetal": {
+		"name": "Metal Pesado",
+		"rating": 0,
+		"num": 134,
+		"description": "Duplica su peso.",
+		"onModifyWeightPriority": 1
+	},
+	"lightmetal": {
+		"name": "Metal Liviano",
+		"rating": 1,
+		"num": 135,
+		"description": "Reduce a la mitad su peso."
+	},
+	"multiscale": {
+		"name": "Multiescamas",
+		"rating": 3.5,
+		"num": 136,
+		"description": "Reduce el daño que sufre si sus PS están al máximo."
+	},
+	"toxicboost": {
+		"name": "Ímpetu Tóxico",
+		"rating": 2.5,
+		"num": 137,
+		"description": "Aumenta la potencia de sus ataques físicos cuando está envenenado.",
+		"onBasePowerPriority": 19
+	},
+	"flareboost": {
+		"name": "Ímpetu Ardiente",
+		"rating": 2,
+		"num": 138,
+		"description": "Aumenta la potencia de sus ataques especiales cuando sufre quemaduras.",
+		"onBasePowerPriority": 19
+	},
+	"harvest": {
+		"name": "Cosecha",
+		"rating": 2.5,
+		"num": 139,
+		"description": "Puede reutilizar varias veces una misma baya.",
+		"onResidualOrder": 26,
+		"onResidualSubOrder": 1
+	},
+	"telepathy": {
+		"name": "Telepatía",
+		"rating": 0,
+		"num": 140,
+		"description": "Elude los ataques de los aliados durante el combate."
+	},
+	"moody": {
+		"name": "Veleta",
+		"rating": 5,
+		"num": 141,
+		"description": "Una característica le sube mucho en cada turno, pero le baja otra.",
+		"onResidualOrder": 26,
+		"onResidualSubOrder": 1
+	},
+	"overcoat": {
+		"name": "Funda",
+		"rating": 2,
+		"num": 142,
+		"description": "No le afectan las tormentas de arena, el granizo y los movimientos con polvos",
+		"onTryHitPriority": 1
+	},
+	"poisontouch": {
+		"name": "Toque Tóxico",
+		"rating": 2,
+		"num": 143,
+		"description": "Puede envenenar al objetivo con solo tocarlo.",
+		// upokecenter says this is implemented as an added secondary effect
+	},
+	"regenerator": {
+		"name": "Regeneración",
+		"rating": 4.5,
+		"num": 144,
+		"description": "Recupera unos pocos PS al ser cambiado por otro Pokémon."
+	},
+	"bigpecks": {
+		"name": "Sacapecho",
+		"rating": 0.5,
+		"num": 145,
+		"description": "Impide que el rival le baje la defensa."
+	},
+	"sandrush": {
+		"name": "Ímpetu Arena",
+		"rating": 3,
+		"num": 146,
+		"description": "Aumenta su velocidad durante las tormentas de arena."
+	},
+	"wonderskin": {
+		"name": "Piel Milagro",
+		"rating": 2,
+		"num": 147,
+		"description": "Presenta una mayor resistencia ante los movimientos de estado.",
+		"onModifyAccuracyPriority": 10
+	},
+	"analytic": {
+		"name": "Cálculo Final",
+		"rating": 2.5,
+		"num": 148,
+		"description": "Aumenta la potencia de su movimiento si es el último en atacar.",
+		"onBasePowerPriority": 21
+	},
+	"illusion": {
+		"name": "Ilusión",
+		"rating": 4.5,
+		"num": 149,
+		"description": "This Pokemon appears as the last Pokemon in the party until it takes direct damage.",
+		"isUnbreakable": true
+	},
+	"imposter": {
+		"name": "Impostor",
+		"rating": 5,
+		"num": 150,
+		"description": "Se transforma en el Pokémon que tiene enfrente."
+	},
+	"infiltrator": {
+		"name": "Allanamiento",
+		"rating": 2.5,
+		"num": 151,
+		"description": "Ataca sorteando la barrera o el sustituto del rival."
+	},
+	"mummy": {
+		"name": "Momia",
+		"rating": 2.5,
+		"num": 152,
+		"description": "Contagia la habilidad momia al rival que entre en contacto con él."
+	},
+	"moxie": {
+		"name": "Autoestima",
+		"rating": 3.5,
+		"num": 153,
+		"description": "Al debilitar a un objetivo, su confianza se refuerza de tal manera que aumenta su ataque."
+	},
+	"justified": {
+		"name": "Justiciero",
+		"rating": 2.5,
+		"num": 154,
+		"description": "Si le alcanza un movimiento de tipo siniestro, aumenta el ataque debido a su integridad."
+	},
+	"rattled": {
+		"name": "Cobardía",
+		"rating": 1.5,
+		"num": 155,
+		"description": "Si le alcanza un movimiento de tipo siniestro, bicho o fantasma, el miedo hace que le suba la velocidad."
+	},
+	"magicbounce": {
+		"name": "Espejo Mágico",
+		"rating": 4,
+		"num": 156,
+		"description": "Puede devolver los movimientos de estado lanzados por el rival, sin verse afectado por ellos.",
+		"onTryHitPriority": 1,
+		"condition": {}
+	},
+	"sapsipper": {
+		"name": "Herbívoro",
+		"rating": 3,
+		"num": 157,
+		"description": "Neutraliza los movimientos de tipo planta y sube su ataque.",
+		"onTryHitPriority": 1
+	},
+	"prankster": {
+		"name": "Bromista",
+		"rating": 4,
+		"num": 158,
+		"description": "Sus movimientos de estado tienen prioridad alta."
+	},
+	"sandforce": {
+		"name": "Poder Arena",
+		"rating": 2,
+		"num": 159,
+		"description": "Potencia los movimientos de tipo tierra, acero y roca durante las tormentas de arena.",
+		"onBasePowerPriority": 21
+	},
+	"ironbarbs": {
+		"name": "Punta Acero",
+		"rating": 2.5,
+		"num": 160,
+		"description": "Inflige daño al rival si este le golpea con un movimiento de contacto.",
+		"onDamagingHitOrder": 1
+	},
+	"zenmode": {
+		"name": "Modo Daruma",
+		"rating": 0,
+		"num": 161,
+		"description": "Cambia de forma si sus PS se ven reducidos a la mitad.",
+		"onResidualOrder": 27,
+		"condition": {}
+	},
+	"victorystar": {
+		"name": "Tinovictoria",
+		"rating": 2.5,
+		"num": 162,
+		"description": "Sube su precisión y la de sus aliados."
+	},
+	"turboblaze": {
+		"name": "Turbollama",
+		"rating": 3.5,
+		"num": 163,
+		"description": "Las habilidades del objetivo no afectan a los movimientos que emplea."
+	},
+	"teravolt": {
+		"name": "Terravoltaje",
+		"rating": 3.5,
+		"num": 164,
+		"description": "Las habilidades del objetivo no afectan a los movimientos que emplea."
+	},
+	/*****************************************************************************/
+	// Gen 6
+	/*****************************************************************************/
+	"aromaveil": {
+		"name": "Velo Aroma",
+		"rating": 2,
+		"num": 165,
+		"description": "Se protege a sí mismo y a sus aliados de ataques que impiden elegir movimientos."
+	},
+	"flowerveil": {
+		"name": "Velo Flor",
+		"rating": 0,
+		"num": 166,
+		"description": "Evita que los Pokémon de tipo planta aliados sufran problemas de estado o que les bajen sus características."
+	},
+	"cheekpouch": {
+		"name": "Carrillo",
+		"rating": 1.5,
+		"num": 167,
+		"description": "Recupera PS al comer cualquier baya."
+	},
+	"protean": {
+		"name": "Mutatipo",
+		"rating": 4.5,
+		"num": 168,
+		"description": "Cambia su tipo al del movimiento que va a usar."
+	},
+	"furcoat": {
+		"name": "Pelaje Recio",
+		"rating": 4,
+		"num": 169,
+		"description": "Reduce a la mitad el daño que recibe de ataques físicos del rival.",
+		"onModifyDefPriority": 6
+	},
+	"magician": {
+		"name": "Prestidigitador",
+		"rating": 1.5,
+		"num": 170,
+		"description": "Roba el objeto del Pokémon al que alcance con un movimiento."
+	},
+	"bulletproof": {
+		"name": "Antibalas",
+		"rating": 3,
+		"num": 171,
+		"description": "No le afectan las bombas ni algunos proyectiles."
+	},
+	"competitive": {
+		"name": "Tenacidad",
+		"rating": 2.5,
+		"num": 172,
+		"description": "Aumenta mucho su ataque especial cuando el rival le baja cualquiera de sus características."
+	},
+	"strongjaw": {
+		"name": "Mandíbula Fuerte",
+		"rating": 3,
+		"num": 173,
+		"description": "Su robusta mandíbula le confiere una mordedura potente.",
+		"onBasePowerPriority": 19
+	},
+	"refrigerate": {
+		"name": "Piel Helada",
+		"rating": 4,
+		"num": 174,
+		"description": "Convierte los movimientos de tipo normal en tipo hielo y aumenta ligeramente su potencia.",
+		"onModifyTypePriority": -1,
+		"onBasePowerPriority": 23
+	},
+	"sweetveil": {
+		"name": "Velo Dulce",
+		"rating": 2,
+		"num": 175,
+		"description": "No cae dormido y evita también que sus aliados se duerman."
+	},
+	"stancechange": {
+		"name": "Cambio Táctico",
+		"rating": 4.5,
+		"num": 176,
+		"description": "Adopta la forma filo al lanzar un ataque, o bien la forma escudo si usa el movimiento escudo real.",
+		"onBeforeMovePriority": 0.5
+	},
+	"galewings": {
+		"name": "Alas Vendaval",
+		"rating": 3,
+		"num": 177,
+		"description": "Da prioridad a los movimientos de tipo volador si sus PS están al máximo."
+	},
+	"megalauncher": {
+		"name": "Megadisparador",
+		"rating": 3,
+		"num": 178,
+		"description": "Aumenta la potencia de algunos movimientos de pulsos y auras.",
+		"onBasePowerPriority": 19
+	},
+	"grasspelt": {
+		"name": "Manto Frondoso",
+		"rating": 0.5,
+		"num": 179,
+		"description": "Aumenta su defensa si hay un campo de hierba en el terreno de combate.",
+		"onModifyDefPriority": 6
+	},
+	"symbiosis": {
+		"name": "Simbiosis",
+		"rating": 0,
+		"num": 180,
+		"description": "Pasa su objeto a un aliado que ya haya utilizado el suyo."
+	},
+	"toughclaws": {
+		"name": "Garra Dura",
+		"rating": 3.5,
+		"num": 181,
+		"description": "Aumenta la potencia de los movimientos de contacto.",
+		"onBasePowerPriority": 21
+	},
+	"pixilate": {
+		"name": "Piel Feérica",
+		"rating": 4,
+		"num": 182,
+		"description": "Convierte los movimientos de tipo normal en tipo hada y aumenta ligeramente su potencia.",
+		"onModifyTypePriority": -1,
+		"onBasePowerPriority": 23
+	},
+	"gooey": {
+		"name": "Baba",
+		"rating": 2,
+		"num": 183,
+		"description": "Baja la velocidad del rival cuando este le ataca con un movimiento de contacto."
+	},
+	"parentalbond": {
+		"name": "Amor Filial",
+		"rating": 4.5,
+		"num": 184,
+		"description": "Une fuerzas con su cría y ataca dos veces.",
+		"onBasePowerPriority": 7
+	},
+	"aerilate": {
+		"name": "Piel Celeste",
+		"rating": 4,
+		"num": 185,
+		"description": "Convierte los movimientos de tipo normal en tipo volador y aumenta ligeramente su potencia.",
+		"onModifyTypePriority": -1,
+		"onBasePowerPriority": 23
+	},
+	"darkaura": {
+		"name": "Aura Oscura",
+		"rating": 3.5,
+		"num": 186,
+		"description": "Aumenta la potencia de todos los movimientos de tipo siniestro.",
+		"onAnyBasePowerPriority": 20,
+		"isUnbreakable": true
+	},
+	"fairyaura": {
+		"name": "Aura Feérica",
+		"rating": 3.5,
+		"num": 187,
+		"description": "Aumenta la potencia de todos los movimientos de tipo hada.",
+		"onAnyBasePowerPriority": 20,
+		"isUnbreakable": true
+	},
+	"aurabreak": {
+		"name": "Rompeaura",
+		"rating": 1,
+		"num": 188,
+		"description": "Invierte los efectos de las auras, por lo que baja la potencia de ciertos movimientos en vez de subirla."
+	},
+	"primordialsea": {
+		"name": "Mar del Albor",
+		"rating": 4.5,
+		"num": 189,
+		"description": "Altera el clima para anular los ataques de tipo fuego."
+	},
+	"desolateland": {
+		"name": "Tierra del Ocaso",
+		"rating": 5,
+		"num": 190,
+		"description": "Altera el clima para anular los ataques de tipo agua."
+	},
+	"deltastream": {
+		"name": "Ráfaga Delta",
+		"rating": 4,
+		"num": 191,
+		"description": "Altera el clima para anular las vulnerabilidades del tipo volador."
+	},
+	/*****************************************************************************/
+	// Gen 7
+	/*****************************************************************************/
+	"stamina": {
+		"name": "Firmeza",
+		"rating": 3.5,
+		"num": 192,
+		"description": "Aumenta su defensa al recibir un ataque."
+	},
+	"wimpout": {
+		"name": "Huída",
+		"rating": 1,
+		"num": 193,
+		"description": "Se asusta y abandona el terreno de combate cuando sus PS se ven reducidos a la mitad."
+	},
+	"emergencyexit": {
+		"name": "Retirada",
+		"rating": 1,
+		"num": 194,
+		"description": "Abandona el terreno de combate cuando sus PS se ven reducidos a la mitad para evitar males mayores."
+	},
+	"watercompaction": {
+		"name": "Hidrorrefuerzo",
+		"rating": 1.5,
+		"num": 195,
+		"description": "Aumenta mucho la defensa si le alcanza un movimiento de tipo agua."
+	},
+	"merciless": {
+		"name": "Ensañamiento",
+		"rating": 2,
+		"num": 196,
+		"description": "Hace que sus movimientos asesten siempre un golpe crítico si el rival está envenenado."
+	},
+	"shieldsdown": {
+		"name": "Escudo Limitado",
+		"rating": 3.5,
+		"num": 197,
+		"description": "Rompe su coraza cuando sus PS se ven reducidos a la mitad y adopta una forma ofensiva.",
+		"onResidualOrder": 27,
+		"isUnbreakable": true
+	},
+	"stakeout": {
+		"name": "Vigilante",
+		"rating": 4.5,
+		"num": 198,
+		"description": "Si el objetivo de su ataque es sustituido por otro, duplica el daño que infligirá.",
+		"onModifyAtkPriority": 5,
+		"onModifySpAPriority": 5
+	},
+	"waterbubble": {
+		"name": "Pompa",
+		"rating": 4.5,
+		"num": 199,
+		"description": "Reduce el daño que le provocan los movimientos de tipo fuego y es inmune a las quemaduras.",
+		"onSourceModifyAtkPriority": 5,
+		"onSourceModifySpAPriority": 5
+	},
+	"steelworker": {
+		"name": "Acero Templado",
+		"rating": 3.5,
+		"num": 200,
+		"description": "Potencia los movimientos de tipo acero.",
+		"onModifyAtkPriority": 5,
+		"onModifySpAPriority": 5
+	},
+	"berserk": {
+		"name": "Cólera",
+		"rating": 2.5,
+		"num": 201,
+		"description": "Aumenta el ataque especial si los ataques del oponente le reducen los PS a la mitad debido a algún ataque."
+	},
+	"slushrush": {
+		"name": "Quitanieves",
+		"rating": 2.5,
+		"num": 202,
+		"description": "Aumenta su velocidad si está granizando."
+	},
+	"longreach": {
+		"name": "Remoto",
+		"rating": 1,
+		"num": 203,
+		"description": "Puede usar cualquier movimiento sin entrar en contacto con el rival."
+	},
+	"liquidvoice": {
+		"name": "Voz Fluida",
+		"rating": 1.5,
+		"num": 204,
+		"description": "This Pokemon's sound-based moves become Water type.",
+		"onModifyTypePriority": -1
+	},
+	"triage": {
+		"name": "Primer Auxilio",
+		"rating": 3.5,
+		"num": 205,
+		"description": "Da prioridad a los movimientos que restauran PS."
+	},
+	"galvanize": {
+		"name": "Piel Eléctrica",
+		"rating": 4,
+		"num": 206,
+		"description": "Convierte los movimientos de tipo normal en tipo eléctrico y aumenta ligeramente su potencia.",
+		"onModifyTypePriority": -1,
+		"onBasePowerPriority": 23
+	},
+	"surgesurfer": {
+		"name": "Cola Surf",
+		"rating": 2.5,
+		"num": 207,
+		"description": "Duplica su velocidad si hay un campo eléctrico en el terreno de combate."
+	},
+	"schooling": {
+		"name": "Banco",
+		"rating": 2.5,
+		"num": 208,
+		"description": "Forma bancos con sus congéneres cuando tiene muchos PS, lo cual le otorga más fuerza. Cuando le quedan pocos PS, el banco se dispersa.",
+		"onResidualOrder": 27
+	},
+	"disguise": {
+		"name": "Disfraz",
+		"rating": 4,
+		"num": 209,
+		"description": "Puede eludir un ataque valiéndose de la tela que le cubre el cuerpo una vez por combate.",
+		"onDamagePriority": 1
+	},
+	"battlebond": {
+		"name": "Fuerte Afecto",
+		"rating": 4,
+		"num": 210,
+		"description": "Al derrotar a un rival, los vínculos con su entrenador se refuerzan y se convierte en Greninja Ash. Su shuriken de agua también se ve potenciado.",
+		"onModifyMovePriority": -1
+	},
+	"powerconstruct": {
+		"name": "Agrupamiento",
+		"rating": 5,
+		"num": 211,
+		"description": "Cuando sus PS se ven reducidos a la mitad, las células se reagrupan y adopta su forma completa.",
+		"onResidualOrder": 27
+	},
+	"corrosion": {
+		"name": "Corrosión",
+		"rating": 2.5,
+		"num": 212,
+		"description": "Puede envenenar incluso a rivales de tipo acero o veneno.",
+		// Implemented in sim/pokemon.js:Pokemon#setStatus
+	},
+	"comatose": {
+		"name": "Letargo Perenne",
+		"rating": 3.5,
+		"num": 213,
+		"description": "No despierta jamás de su profundo letargo e incluso ataca dormido.",
+		// Permanent sleep "status" implemented in the relevant sleep-checking effects
+		"isUnbreakable": true
+	},
+	"queenlymajesty": {
+		"name": "Regia Presencia",
+		"rating": 2,
+		"num": 214,
+		"description": "Intimida al objetivo y le impide usar movimientos con prioridad."
+	},
+	"innardsout": {
+		"name": "Revés",
+		"rating": 3.5,
+		"num": 215,
+		"description": "Al caer debilitado, inflige al rival un daño equivalente a los PS que le quedaran.",
+		"onDamagingHitOrder": 1
+	},
+	"dancer": {
+		"name": "Pareja de Baile",
+		"rating": 1.5,
+		"num": 216,
+		"description": "Puede copiar inmediatamente cualquier movimiento de baile que haya usado otro Pokémon presente en el combate.",
+		// implemented in runMove in scripts.js
+	},
+	"battery": {
+		"name": "Batería",
+		"rating": 0,
+		"num": 217,
+		"description": "Potencia los movimientos especiales de los aliados.",
+		"onAllyBasePowerPriority": 22
+	},
+	"fluffy": {
+		"name": "Peluche",
+		"rating": 3,
+		"num": 218,
+		"description": "Reduce a la mitad el daño provocado por los movimientos de contacto, pero duplica el infligido por los de tipo fuego."
+	},
+	"dazzling": {
+		"name": "Cuerpo Vívido",
+		"rating": 2,
+		"num": 219,
+		"description": "Desconcierta al rival y le impide utilizar movimientos con prioridad en su contra."
+	},
+	"soulheart": {
+		"name": "Coránima",
+		"rating": 3.5,
+		"num": 220,
+		"description": "Aumenta su ataque especial cada vez que un Pokémon cae debilitado.",
+		"onAnyFaintPriority": 1
+	},
+	"tanglinghair": {
+		"name": "Rizos Rebeldes",
+		"rating": 2,
+		"num": 221,
+		"description": "Baja la velocidad del rival cuando este le ataca con un movimiento de contacto."
+	},
+	"receiver": {
+		"name": "Receptor",
+		"rating": 0,
+		"num": 222,
+		"description": "Adquiere la habilidad de un aliado debilitado."
+	},
+	"powerofalchemy": {
+		"name": "Reacción Química",
+		"rating": 0,
+		"num": 223,
+		"description": "Reacciona copiando la habilidad de un aliado debilitado."
+	},
+	"beastboost": {
+		"name": "Ultraimpulso",
+		"rating": 3.5,
+		"num": 224,
+		"description": "Si derrota a un rival en ese turno, aumenta su característica más fuerte."
+	},
+	"rkssystem": {
+		"name": "Sistema Alfa",
+		"rating": 4,
+		"num": 225,
+		"description": "Cambia su tipo según el disco que lleve instalado.",
+		// RKS System's type-changing itself is implemented in statuses.js
+	},
+	"electricsurge": {
+		"name": "Electrogénesis",
+		"rating": 4,
+		"num": 226,
+		"description": "Crea un campo eléctrico al entrar en combate."
+	},
+	"psychicsurge": {
+		"name": "Psicogénesis",
+		"rating": 4,
+		"num": 227,
+		"description": "Crea un campo psíquico al entrar en combate."
+	},
+	"mistysurge": {
+		"name": "Nebulogénesis",
+		"rating": 4,
+		"num": 228,
+		"description": "Crea un campo de niebla al entrar en combate."
+	},
+	"grassysurge": {
+		"name": "Herbogénesis",
+		"rating": 4,
+		"num": 229,
+		"description": "Crea un campo de hierba al entrar en combate."
+	},
+	"fullmetalbody": {
+		"name": "Guardia Metálica",
+		"rating": 2,
+		"num": 230,
+		"description": "Evita que bajen sus características a causa de movimientos o habilidades de otros Pokémon.",
+		"isUnbreakable": true
+	},
+	"shadowshield": {
+		"name": "Guardia Espectro",
+		"rating": 4,
+		"num": 231,
+		"description": "Reduce el daño que sufre si sus PS están al máximo.",
+		"isUnbreakable": true
+	},
+	"prismarmor": {
+		"name": "Armadura Prisma",
+		"rating": 3,
+		"num": 232,
+		"description": "Mitiga el daño que le infligen los movimientos supereficaces.",
+		"isUnbreakable": true
+	},
+	"neuroforce": {
+		"name": "Fuerza Cerebral",
+		"rating": 2.5,
+		"num": 233,
+		"description": "Potencia los ataques supereficaces."
+	},
+	/*****************************************************************************/
+	// Gen 8
+	/*****************************************************************************/
+	"intrepidsword": {
+		"name": "Espada Indómita",
+		"rating": 4,
+		"num": 234,
+		"description": "Aumenta su ataque al entrar en combate."
+	},
+	"dauntlessshield": {
+		"name": "Escudo Recio",
+		"rating": 3,
+		"num": 235,
+		"description": "Aumenta su defensa al entrar en combate."
+	},
+	"libero": {
+		"name": "Líbero",
+		"rating": 4.5,
+		"num": 236,
+		"description": "Cambia su tipo al del movimiento que va a usar."
+	},
+	"ballfetch": {
+		"name": "Recogebolas",
+		"rating": 0,
+		"num": 237,
+		"description": "Si no lleva equipado ningún objeto, recupera la Poké Ball del primer intento de captura fallido."
+	},
+	"cottondown": {
+		"name": "Pelusa",
+		"rating": 2,
+		"num": 238,
+		"description": "Al ser alcanzado por un ataque, suelta una pelusa de algodón que reduce la velocidad de todos los demás Pokémon."
+	},
+	"propellertail": {
+		"name": "Hélice Caudal",
+		"rating": 0,
+		"num": 239,
+		"description": "Impide que el rival pueda atraer ataques hacia sí mismo por efecto de su habilidad o sus movimientos."
+	},
+	"mirrorarmor": {
+		"name": "Coraza Reflejo",
+		"rating": 2,
+		"num": 240,
+		"description": "Refleja los efectos que reducen las características."
+	},
+	"gulpmissile": {
+		"name": "Tragamisil",
+		"rating": 1.5,
+		"num": 241,
+		"description": "Tras usar surf o buceo, emerge con una presa en la boca. Al recibir daño, ataca escupiéndola al rival.",
+		// The Dive part of this mechanic is implemented in Dive's `onTryMove` in moves.js
+	},
+	"stalwart": {
+		"name": "Acérrimo",
+		"rating": 0,
+		"num": 242,
+		"description": "Impide que el rival pueda atraer ataques hacia sí mismo por efecto de su habilidad o sus movimientos."
+	},
+	"steamengine": {
+		"name": "Combustible",
+		"rating": 1,
+		"num": 243,
+		"description": "Si le alcanza un movimiento de tipo fuego o tipo agua, le sube muchísimo la velocidad."
+	},
+	"punkrock": {
+		"name": "Punk Rock",
+		"rating": 3.5,
+		"num": 244,
+		"description": "Potencia los movimientos que usan sonido y reduce a la mitad el daño que le infligen dichos movimientos.",
+		"onBasePowerPriority": 7
+	},
+	"sandspit": {
+		"name": "Expulsarena",
+		"rating": 2,
+		"num": 245,
+		"description": "Provoca una tormenta de arena al recibir un ataque."
+	},
+	"icescales": {
+		"name": "Escama de Hielo",
+		"rating": 3.5,
+		"num": 246,
+		"description": "Las gélidas escamas que protegen su cuerpo reducen a la mitad el daño que le infligen los ataques especiales."
+	},
+	"ripen": {
+		// TODO Needs research. Following berries aren't supported currently:
+		// Custap, Jacoba, Rowap, Lanslat, Leppa, Micle
+		// Check if they are affected by ripen.
+		"name": "Maduración",
+		"rating": 2,
+		"num": 247,
+		"description": "Hace madurar las bayas, por lo que duplica sus efectos."
+	},
+	"iceface": {
+		"name": "Cara de Hielo",
+		"rating": 3.5,
+		"num": 248,
+		"description": "Absorbe el daño de un ataque físico con el hielo de la cabeza, tras lo cual cambia de forma. El hielo se regenerará la próxima vez que granice.",
+		"onDamagePriority": 1
+	},
+	"powerspot": {
+		"name": "Fuente Energía",
+		"rating": 0,
+		"num": 249,
+		"description": "Potencia los movimientos de los Pokémon adyacentes.",
+		"onAllyBasePowerPriority": 22
+	},
+	"mimicry": {
+		"name": "Mimetismo",
+		"rating": 0.5,
+		"num": 250,
+		"description": "Cambia su tipo según el campo que haya en el terreno de combate.",
+		"condition": {}
+	},
+	"screencleaner": {
+		"name": "Antibarrera",
+		"rating": 2,
+		"num": 251,
+		"description": "Anula los efectos de pantalla de luz, reflejo y velo aurora tanto de rivales como de aliados al entrar en combate."
+	},
+	"steelyspirit": {
+		"name": "Alma Acerada",
+		"rating": 3,
+		"num": 252,
+		"description": "Potencia los movimientos de tipo acero de los aliados.",
+		"onAllyBasePowerPriority": 22
+	},
+	"perishbody": {
+		"name": "Cuerpo Mortal",
+		"rating": 1,
+		"num": 253,
+		"description": "Si le alcanza un movimiento de contacto, se debilitará al cabo de 3 turnos, así como su agresor, a menos que abandonen el terreno de combate."
+	},
+	"wanderingspirit": {
+		"name": "Alma Errante",
+		"rating": 2.5,
+		"num": 254,
+		"description": "Si le alcanza un movimiento de contacto, intercambia su habilidad con la del agresor."
+	},
+	"gorillatactics": {
+		"name": "Monotema",
+		"rating": 4.5,
+		"num": 255,
+		"description": "Potencia su ataque, pero solo puede usar el primer movimiento escogido.",
+		"onModifyAtkPriority": 1
+	},
+	"neutralizinggas": {
+		"name": "Gas Reactivo",
+		"rating": 5,
+		"num": 256,
+		"description": "Anula los efectos de las habilidades de los demás Pokémon presentes mientras esté en el terreno de combate.",
+		// Ability suppression implemented in sim/pokemon.ts:Pokemon#ignoringAbility
+		// TODO Will abilities that already started start again? (Intimidate seems like a good test case)
+	},
+	"pastelveil": {
+		"name": "Velo Pastel",
+		"rating": 2,
+		"num": 257,
+		"description": "Se protege a sí mismo y a sus aliados del envenenamiento."
+	},
+	"hungerswitch": {
+		"name": "Mutapetito",
+		"rating": 1,
+		"num": 258,
+		"description": "Alterna entre su forma saciada y forma voraz al final de cada turno."
+	},
+	"quickdraw": {
+		"name": "Mano Rápida",
+		"rating": 3,
+		"num": 259,
+		"description": "A veces, puede atacar el primero.",
+		"onFractionalPriorityPriority": -1
+	},
+	"unseenfist": {
+		"name": "Puño Invisible",
+		"rating": 2.5,
+		"num": 260,
+		"description": "Si usa un movimiento de contacto, puede infligir daño al objetivo aunque este se proteja."
+	},
+	"curiousmedicine": {
+		"name": "Medicina Extraña",
+		"rating": 0,
+		"num": 261,
+		"description": "Al entrar en combate, rezuma una substancia medicinal por la caracola que revierte los cambios en las características de los aliados."
+	},
+	"transistor": {
+		"name": "Transistor",
+		"rating": 3.5,
+		"num": 262,
+		"description": "Potencia los movimientos de tipo eléctrico.",
+		"onModifyAtkPriority": 5,
+		"onModifySpAPriority": 5
+	},
+	"dragonsmaw": {
+		"name": "Mandíbula Dragón",
+		"rating": 3.5,
+		"num": 263,
+		"description": "Potencia los movimientos de tipo dragón.",
+		"onModifyAtkPriority": 5,
+		"onModifySpAPriority": 5
+	},
+	"chillingneigh": {
+		"name": "Relincho Blanco",
+		"rating": 3,
+		"num": 264,
+		"description": "Al derrotar a un objetivo, emite un relincho gélido y aumenta su ataque."
+	},
+	"grimneigh": {
+		"name": "Relincho Negro",
+		"rating": 3,
+		"num": 265,
+		"description": "Al derrotar a un objetivo, emite un relincho aterrador y aumenta su ataque especial."
+	},
+	"asoneglastrier": {
+		"name": "Unidad Ecuestre",
+		"rating": 3.5,
+		"num": 266,
+		"description": "El Pokémon tiene dos habilidades: relincho blanco de Glastrier y nerviosismo de Calyrex.",
+		"onFoeTryEatItem": false,
+		"isPermanent": true
+	},
+	"asonespectrier": {
+		"name": "Unidad Ecuestre",
+		"rating": 3.5,
+		"num": 267,
+		"description": "El Pokémon tiene dos habilidades: relincho negro de Spectrier y nerviosismo de Calyrex.",
+		"onFoeTryEatItem": false,
+		"isPermanent": true
+	}
+}

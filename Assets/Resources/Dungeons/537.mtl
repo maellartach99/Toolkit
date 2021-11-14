@@ -1,0 +1,60 @@
+newmtl lambert3
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd dragon3.png
+map_d dragon3.png
+newmtl lambert6
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd dragon6.png
+map_d dragon6.png
+newmtl lambert5
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd dragon5.png
+map_d dragon5.png
+newmtl lambert7
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd dragon7.png
+map_d dragon7.png
+newmtl colum_a
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd colum_a.png
+map_d colum_a.png
+newmtl colum_b
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd colum_b.png
+map_d colum_b.png
+newmtl lambert8
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd dragon8.png
+map_d dragon8.png
+newmtl lambert4
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd dragon4.png
+map_d dragon4.png
+newmtl lambert10
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd dragon10.png
+map_d dragon10.png
+newmtl lambert9
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd dragon9.png
+map_d dragon9.png

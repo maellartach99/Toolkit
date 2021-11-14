@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: b1554984730b22288ad0564f7d44b6e9
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gake01a
+    second: {fileID: 2100000, guid: 41923c6d118076514aedecffe31b9152, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gake1_0
+    second: {fileID: 2100000, guid: 0653d86def274db7492cc62586b24416, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gake_futa
+    second: {fileID: 2100000, guid: 64ed5fcfec5cf97e7a70914812727db1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grass01ax
+    second: {fileID: 2100000, guid: 4edf2dd7c2b21d3f390e0da6e71b8e8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kage_out
+    second: {fileID: 2100000, guid: 900967e456041fa89be75fc614be0933, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ki02ax
+    second: {fileID: 2100000, guid: 7dda4971a591a591d8e19672b82f93ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ki02bx
+    second: {fileID: 2100000, guid: eeed30979bc873ae8b2a6931c1962107, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ki02c
+    second: {fileID: 2100000, guid: ad24b1e38f549a4aa9ad95fedb8a0994, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ki02dx
+    second: {fileID: 2100000, guid: 493b166e657355b90a11b2fe1553ca50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: michi01a
+    second: {fileID: 2100000, guid: 7c90623aee656a3fab8fcda448c87330, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nagaisu
+    second: {fileID: 2100000, guid: 7b2ee714b94fe7698bcbfb21799da482, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: t02_kabe01
+    second: {fileID: 2100000, guid: 9fbf7b4aff216c3358747f95a7f276c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: t02_kabe02
+    second: {fileID: 2100000, guid: 4ee72dd0be04c3724bc22532b5c717b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: t02_kabe03
+    second: {fileID: 2100000, guid: 3281ad85f84a18bb3bb02314c24f8cd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: t02_kabe04
+    second: {fileID: 2100000, guid: 40e9aadee58892d96bf76e81689cb435, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: t02_ki_sita
+    second: {fileID: 2100000, guid: cc28d4896cca1c363935c21c4274a7b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: t02_kiwa
+    second: {fileID: 2100000, guid: 48c89d09d5d664d1d819fdf7bb11d5c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: t02hibi
+    second: {fileID: 2100000, guid: a685a5d491f0ff1bfb0f670efb0cce39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: t02kaidan
+    second: {fileID: 2100000, guid: 8007eba31730fbd228e9161229b1e52d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: t02kusa
+    second: {fileID: 2100000, guid: 58891c6f50a72f5dbb8d30217baeaca0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: t02michi_a
+    second: {fileID: 2100000, guid: 9f530f3d175c4427698d0b05ba22d80c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: t02michi_a2
+    second: {fileID: 2100000, guid: a7c12622886e9aa55bd2d7b17e507848, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: t02michi_b
+    second: {fileID: 2100000, guid: fedf1e19eaa3bb3edad34587b3e937c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: t02michi_b2
+    second: {fileID: 2100000, guid: d76f5354273ee71f6b81165bd077d2f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: t02michi_b3
+    second: {fileID: 2100000, guid: 7fc3e132a3593edfa95289581acd5425, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: t02michi_b4
+    second: {fileID: 2100000, guid: dd10f6deee3e0eec4b4074544f841cab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: t02michi_b5
+    second: {fileID: 2100000, guid: 4274ad49cdb5e9c5b8f8455ef544ae63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: t2_saku01
+    second: {fileID: 2100000, guid: c90e952f812d329819a90e9e2e43dcad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ue_grass00
+    second: {fileID: 2100000, guid: 32df48075a017a4c3a29c3b221c3b631, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 4
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 4
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

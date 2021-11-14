@@ -1,0 +1,234 @@
+newmtl out26hibi
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out26hibi.png
+map_d out26hibi.png
+newmtl fence_01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd fence_01.png
+map_d fence_01.png
+newmtl kage_out
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kage_out.png
+map_d kage_out.png
+newmtl kabe
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kabe.png
+map_d kabe.png
+newmtl hei
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd hei.png
+map_d hei.png
+newmtl kusa_ec1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kusa_ec1.png
+map_d kusa_ec1.png
+newmtl kusa_ec2
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kusa_ec2.png
+map_d kusa_ec2.png
+newmtl kusa_ec3
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kusa_ec3.png
+map_d kusa_ec3.png
+newmtl yuka3
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd yuka3.png
+map_d yuka3.png
+newmtl yuka3_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd yuka3_1.png
+map_d yuka3_1.png
+newmtl yuka4
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd yuka4.png
+map_d yuka4.png
+newmtl yuka5
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd yuka5.png
+map_d yuka5.png
+newmtl kage
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kage.png
+map_d kage.png
+newmtl kaidan2
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kaidan2.png
+map_d kaidan2.png
+newmtl kaidan
+Ka 0.5020 0.5020 0.5020
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kaidan.png
+map_d kaidan.png
+newmtl yuka6
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd yuka6.png
+map_d yuka6.png
+newmtl tetsu
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd tetsu.png
+map_d tetsu.png
+newmtl anakabe2
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd anakabe2.png
+map_d anakabe2.png
+newmtl anakabe
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd anakabe.png
+map_d anakabe.png
+newmtl ki02c
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd ki02c.png
+map_d ki02c.png
+newmtl ki02ax
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd ki02ax.png
+map_d ki02ax.png
+newmtl ki02bx
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd ki02bx.png
+map_d ki02bx.png
+newmtl ki02dx
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd ki02dx.png
+map_d ki02dx.png
+newmtl ue_grass00
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd ue_grass00.png
+map_d ue_grass00.png
+newmtl michi_hage
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd michi_hage.png
+map_d michi_hage.png
+newmtl michi_hage02
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd michi_hage02.png
+map_d michi_hage02.png
+newmtl out26drum
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out26drum.png
+map_d out26drum.png
+newmtl out26drum1
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out26drum1.png
+map_d out26drum1.png
+newmtl koke1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd koke1.png
+map_d koke1.png
+newmtl grass01ax
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd grass01ax.png
+map_d grass01ax.png
+newmtl yuka5_2
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd yuka5_2.png
+map_d yuka5_2.png
+newmtl out26kusa
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out26kusa.png
+map_d out26kusa.png
+newmtl out26kusa_2
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out26kusa_2.png
+map_d out26kusa_2.png
+newmtl kabe2
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kabe2.png
+map_d kabe2.png
+newmtl out26kusa2
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out26kusa2.png
+map_d out26kusa2.png
+newmtl out26shimi
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out26shimi.png
+map_d out26shimi.png
+newmtl hei3
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd hei3.png
+map_d hei3.png
+newmtl hei2
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd hei2.png
+map_d hei2.png
+newmtl out26hibi_2
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out26hibi_2.png
+map_d out26hibi_2.png

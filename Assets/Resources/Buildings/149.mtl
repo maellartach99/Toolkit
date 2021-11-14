@@ -1,0 +1,48 @@
+newmtl c4poke_05
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c4poke_05.png
+map_d c4poke_05.png
+newmtl c4poke_07
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c4poke_07.png
+map_d c4poke_07.png
+newmtl h_kage
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h_kage.png
+map_d h_kage.png
+newmtl c4poke_02
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c4poke_02.png
+map_d c4poke_02.png
+newmtl c4poke_01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c4poke_01.png
+map_d c4poke_01.png
+newmtl c4poke_02_2
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c4poke_02_2.png
+map_d c4poke_02_2.png
+newmtl c4poke_04
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c4poke_04.png
+map_d c4poke_04.png
+newmtl c4poke_03
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c4poke_03.png
+map_d c4poke_03.png

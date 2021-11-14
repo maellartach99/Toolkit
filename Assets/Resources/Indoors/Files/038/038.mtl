@@ -1,0 +1,12 @@
+newmtl cashier01_lm1
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd cashier01_lm1.png
+map_d cashier01_lm1.png
+newmtl in40_kage
+Ka 0.0000 0.0000 0.0000
+Kd 0.0000 0.0000 0.0000
+d 1.0000
+map_Kd in40_kage.png
+map_d in40_kage.png

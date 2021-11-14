@@ -1,0 +1,146 @@
+{
+	"normal": {
+		"name": "Normal",
+		"color": { "r":168, "g":168, "b":120 },
+		"special": false,
+		"weaknesses": ["fighting"],
+		"resistances": [],
+		"immunities": ["ghost"]
+	},
+	"fighting": {
+		"name": "Lucha",
+		"color": { "r":192, "g":48, "b":40 },
+		"special": false,
+		"weaknesses": ["flying","psychic","fairy"],
+		"resistances": ["rock","bug","dark"],
+		"immunities": []
+	},
+	"flying": {
+		"name": "Volador",
+		"color": { "r":168, "g":144, "b":240 },
+		"special": false,
+		"weaknesses": ["rock","electric","ice"],
+		"resistances": ["fighting","bug","grass"],
+		"immunities": ["ground"]
+	},
+	"poison": {
+		"name": "Veneno",
+		"color": { "r":160, "g":64, "b":160 },
+		"special": false,
+		"weaknesses": ["ground","psychic"],
+		"resistances": ["fighting","poison","bug","grass","fairy"],
+		"immunities": []
+	},
+	"ground": {
+		"name": "Tierra",
+		"color": { "r":224, "g":192, "b":104 },
+		"special": false,
+		"weaknesses": ["water","grass","ice"],
+		"resistances": ["poison","rock"],
+		"immunities": ["electric"]
+	},
+	"rock": {
+		"name": "Roca",
+		"color": { "r":184, "g":160, "b":56 },
+		"special": false,
+		"weaknesses": ["fighting","ground","steel","water","grass"],
+		"resistances": ["normal","flying","poison","fire"],
+		"immunities": []
+	},
+	"bug": {
+		"name": "Bicho",
+		"color": { "r":168, "g":184, "b":32 },
+		"special": false,
+		"weaknesses": ["flying","rock","fire"],
+		"resistances": ["fighting","ground","grass"],
+		"immunities": []
+	},
+	"ghost": {
+		"name": "Fantasma",
+		"color": { "r":112, "g":88, "b":152 },
+		"special": false,
+		"weaknesses": ["ghost","dark"],
+		"resistances": ["poison","bug"],
+		"immunities": ["normal","fighting"]
+	},
+	"steel": {
+		"name": "Acero",
+		"color": { "r":184, "g":184, "b":208 },
+		"special": false,
+		"weaknesses": ["fighting","ground","fire"],
+		"resistances": ["normal","flying","rock","bug","steel","grass","psychic","ice","dragon","fairy"],
+		"immunities": ["poison"]
+	},
+	"fire": {
+		"name": "Fuego",
+		"color": { "r":240, "g":128, "b":48 },
+		"special": true,
+		"weaknesses": ["ground","rock","water"],
+		"resistances": ["bug","steel","fire","grass","ice","fairy"],
+		"immunities": []
+	},
+	"water": {
+		"name": "Agua",
+		"color": { "r":104, "g":144, "b":240 },
+		"special": true,
+		"weaknesses": ["grass","electric"],
+		"resistances": ["steel","fire","water","ice"],
+		"immunities": []
+	},
+	"grass": {
+		"name": "Planta",
+		"color": { "r":120, "g":200, "b":80 },
+		"special": true,
+		"weaknesses": ["flying","poison","bug","fire","ice"],
+		"resistances": ["ground","water","grass","electric"],
+		"immunities": []
+	},
+	"electric": {
+		"name": "Eléctrico",
+		"color": { "r":248, "g":208, "b":48 },
+		"special": true,
+		"weaknesses": ["ground"],
+		"resistances": ["flying","steel","electric"],
+		"immunities": []
+	},
+	"psychic": {
+		"name": "Psíquico",
+		"color": { "r":248, "g":88, "b":136 },
+		"special": true,
+		"weaknesses": ["bug","ghost","dark"],
+		"resistances": ["fighting","psychic"],
+		"immunities": []
+	},
+	"ice": {
+		"name": "Hielo",
+		"color": { "r":152, "g":216, "b":216 },
+		"special": true,
+		"weaknesses": ["fighting","rock","steel","fire"],
+		"resistances": ["ice"],
+		"immunities": []
+	},
+	"dragon": {
+		"name": "Dragón",
+		"color": { "r":112, "g":56, "b":248 },
+		"special": true,
+		"weaknesses": ["ice","dragon","fairy"],
+		"resistances": ["fire","water","grass","electric"],
+		"immunities": []
+	},
+	"dark": {
+		"name": "Siniestro",
+		"color": { "r":112, "g":88, "b":72 },
+		"special": true,
+		"weaknesses": ["fighting","bug","fairy"],
+		"resistances": ["ghost","dark"],
+		"immunities": ["psychic"]
+	},
+	"fairy": {
+		"name": "Hada",
+		"color": { "r":240, "g":152, "b":172 },
+		"special": true,
+		"weaknesses": ["poison","steel"],
+		"resistances": ["fighting","bug","dark"],
+		"immunities": ["dragon"]
+	}
+}

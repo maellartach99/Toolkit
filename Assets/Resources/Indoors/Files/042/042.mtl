@@ -1,0 +1,12 @@
+newmtl d4stair_d01_lm2
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d4stair_d01_lm2.png
+map_d d4stair_d01_lm2.png
+newmtl d4stair_d02_lm2
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d4stair_d02_lm2.png
+map_d d4stair_d02_lm2.png

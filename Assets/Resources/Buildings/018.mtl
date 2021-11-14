@@ -1,0 +1,24 @@
+newmtl _1
+Ka 0.5961 0.5961 0.5961
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd _1.png
+map_d _1.png
+newmtl tex003_1
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd tex003_1.png
+map_d tex003_1.png
+newmtl h_mado_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h_mado_1.png
+map_d h_mado_1.png
+newmtl h_kage_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h_kage_1.png
+map_d h_kage_1.png

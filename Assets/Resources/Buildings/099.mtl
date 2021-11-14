@@ -1,0 +1,18 @@
+newmtl nkabe2b
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd nkabe2b.png
+map_d nkabe2b.png
+newmtl h_kage
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h_kage.png
+map_d h_kage.png
+newmtl r3fence
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd r3fence.png
+map_d r3fence.png

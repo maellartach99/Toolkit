@@ -1,0 +1,30 @@
+newmtl in39_kage_1
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in39_kage_1.png
+map_d in39_kage_1.png
+newmtl in39_pla1_1
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in39_pla1_1.png
+map_d in39_pla1_1.png
+newmtl in39_kage_1
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in39_kage_1.png
+map_d in39_kage_1.png
+newmtl in39_den02_1
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in39_den02_1.png
+map_d in39_den02_1.png
+newmtl in39_den01_1
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in39_den01_1.png
+map_d in39_den01_1.png

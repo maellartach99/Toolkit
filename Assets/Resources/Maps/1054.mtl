@@ -1,0 +1,48 @@
+newmtl c3_road2
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_road2.png
+map_d c3_road2.png
+newmtl sea_gake02
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd sea_gake02.png
+map_d sea_gake02.png
+newmtl sea_mizu1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd sea_mizu1.png
+map_d sea_mizu1.png
+newmtl sea_mizu1_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 0.5161
+map_Kd sea_mizu1_1.png
+map_d sea_mizu1_1.png
+newmtl c3bay_yuka1_2
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3bay_yuka1_2.png
+map_d c3bay_yuka1_2.png
+newmtl c3_common
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_common2.png
+map_d c3_common2.png
+newmtl c3bay_yuka3
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3bay_yuka3.png
+map_d c3bay_yuka3.png
+newmtl c3_saku
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_saku.png
+map_d c3_saku.png

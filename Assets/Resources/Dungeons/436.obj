@@ -1,0 +1,19 @@
+# Created with Spiky's DS Map Editor 1.8.1.0
+mtllib 436.mtl
+o polygon0
+g polygon0
+usemtl lambert3
+v -4 0 0
+v 8 0 0
+v 8 0 -12
+v -4 0 -12
+vt -1 -1
+vt 0.5 -1
+vt 0.5 0.5
+vt -1 0.5
+vn NaN 0 0
+vn NaN 0 0
+vn NaN 0 0
+vn NaN 0 0
+f 1/1/1 2/2/2 3/3/3
+f 3/3/3 4/4/4 1/1/1

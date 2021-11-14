@@ -1,0 +1,30 @@
+newmtl c5_mrkt5
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c5_mrkt5.png
+map_d c5_mrkt5.png
+newmtl h_kage
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h_kage.png
+map_d h_kage.png
+newmtl c5_mrkt2
+Ka 0.7843 0.7843 0.7843
+Kd 0.9725 0.9725 0.9725
+d 1.0000
+map_Kd c5_mrkt2.png
+map_d c5_mrkt2.png
+newmtl c5_mrkt1
+Ka 0.7843 0.7843 0.7843
+Kd 0.9725 0.9725 0.9725
+d 1.0000
+map_Kd c5_mrkt1.png
+map_d c5_mrkt1.png
+newmtl c5_mrkt4
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c5_mrkt4.png
+map_d c5_mrkt4.png

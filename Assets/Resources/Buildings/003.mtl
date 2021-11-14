@@ -1,0 +1,30 @@
+newmtl t2_buil3_lm
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd t2_buil3_lm.png
+map_d t2_buil3_lm.png
+newmtl t2_buil2_lm2
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd t2_buil2_lm2.png
+map_d t2_buil2_lm2.png
+newmtl t2_buil1_lm
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd t2_buil1_lm.png
+map_d t2_buil1_lm.png
+newmtl h_mado_lm3
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h_mado_lm3.png
+map_d h_mado_lm3.png
+newmtl h_kage_lm4
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h_kage_lm4.png
+map_d h_kage_lm4.png

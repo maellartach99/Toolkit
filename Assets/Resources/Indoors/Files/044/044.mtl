@@ -1,0 +1,12 @@
+newmtl d4tre02_lm1
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d4tre02_lm1.png
+map_d d4tre02_lm1.png
+newmtl lambert3
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd lambert3.png
+map_d lambert3.png

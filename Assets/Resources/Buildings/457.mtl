@@ -1,0 +1,34 @@
+newmtl lambert1
+Ka 0.0000 0.0000 0.0000
+Kd 0.3765 0.3765 0.3765
+d 1.0000
+newmtl sth03_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd sth03_1.png
+map_d sth03_1.png
+newmtl sth03_2
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd sth03_2.png
+map_d sth03_2.png
+newmtl sth03_wa
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd sth03_wa.png
+map_d sth03_wa.png
+newmtl h_kage
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h_kage.png
+map_d h_kage.png
+newmtl sth03_w
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd sth03_w.png
+map_d sth03_w.png

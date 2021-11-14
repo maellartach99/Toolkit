@@ -1,0 +1,6 @@
+newmtl searock1_lm1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd searock1_lm1.png
+map_d searock1_lm1.png

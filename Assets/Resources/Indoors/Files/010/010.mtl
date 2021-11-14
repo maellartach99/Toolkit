@@ -1,0 +1,12 @@
+newmtl in40_kage
+Ka 0.0000 0.0000 0.0000
+Kd 0.0000 0.0000 0.0000
+d 1.0000
+map_Kd in40_kage.png
+map_d in40_kage.png
+newmtl pasted__in40_isu
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd pasted__in40_isu.png
+map_d pasted__in40_isu.png

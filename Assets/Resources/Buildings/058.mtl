@@ -1,0 +1,24 @@
+newmtl h1
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h1.png
+map_d h1.png
+newmtl window
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd window.png
+map_d window.png
+newmtl shadow
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd shadow.png
+map_d shadow.png
+newmtl h2
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h2.png
+map_d h2.png

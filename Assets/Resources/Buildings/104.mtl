@@ -1,0 +1,36 @@
+newmtl c01fountain_a_2
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c01fountain_a_2.png
+map_d c01fountain_a_2.png
+newmtl c01fountain_c_2
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c01fountain_c_2.png
+map_d c01fountain_c_2.png
+newmtl c01fountain_c_1
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c01fountain_c_1.png
+map_d c01fountain_c_1.png
+newmtl c01fountain_b_1
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c01fountain_b_1.png
+map_d c01fountain_b_1.png
+newmtl c01fountain_d_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c01fountain_d_1.png
+map_d c01fountain_d_1.png
+newmtl h_kage_1
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h_kage_1.png
+map_d h_kage_1.png

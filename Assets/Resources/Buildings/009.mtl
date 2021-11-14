@@ -1,0 +1,22 @@
+newmtl lambert1
+Ka 0.0000 0.0000 0.0000
+Kd 0.3765 0.3765 0.3765
+d 1.0000
+newmtl lambert11
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd lambert11.png
+map_d lambert11.png
+newmtl lambert14
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd lambert14.png
+map_d lambert14.png
+newmtl lambert15
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd lambert15.png
+map_d lambert15.png

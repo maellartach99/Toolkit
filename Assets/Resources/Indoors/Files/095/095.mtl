@@ -1,0 +1,6 @@
+newmtl chushion01a
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd chushion01a.png
+map_d chushion01a.png

@@ -1,0 +1,18 @@
+newmtl d5miniice02
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d5miniice02.png
+map_d d5miniice02.png
+newmtl d5miniice01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d5miniice01.png
+map_d d5miniice01.png
+newmtl d5minikage01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d5minikage01.png
+map_d d5minikage01.png

@@ -1,0 +1,18 @@
+newmtl jihan_01_lm1
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd jihan_01_lm1.png
+map_d jihan_01_lm1.png
+newmtl jihan_01_lm2
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd jihan_01_lm2.png
+map_d jihan_01_lm2.png
+newmtl h_kage_lm1
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h_kage_lm1.png
+map_d h_kage_lm1.png

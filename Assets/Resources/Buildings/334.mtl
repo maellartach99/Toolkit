@@ -1,0 +1,18 @@
+newmtl d25_mh_parts
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d25_mh_parts.png
+map_d d25_mh_parts.png
+newmtl h_kage
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h_kage.png
+map_d h_kage.png
+newmtl d25_mh_body
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d25_mh_body.png
+map_d d25_mh_body.png

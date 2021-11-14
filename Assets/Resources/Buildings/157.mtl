@@ -1,0 +1,48 @@
+newmtl c6window
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c6window.png
+map_d c6window.png
+newmtl c6gym
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c6gym.png
+map_d c6gym.png
+newmtl c6sign
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c6sign.png
+map_d c6sign.png
+newmtl c6_light
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c6_light.png
+map_d c6_light.png
+newmtl c6roof
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c6roof.png
+map_d c6roof.png
+newmtl c6shadow
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c6shadow.png
+map_d c6shadow.png
+newmtl sign
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd sign.png
+map_d sign.png
+newmtl c6shadow2
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c6shadow2.png
+map_d c6shadow2.png

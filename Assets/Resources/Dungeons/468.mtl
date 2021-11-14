@@ -1,0 +1,48 @@
+newmtl d7bedrock
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d7bedrock.png
+map_d d7bedrock.png
+newmtl d7cliff
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d7cliff.png
+map_d d7cliff.png
+newmtl d7cliffue
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d7cliffue.png
+map_d d7cliffue.png
+newmtl d7dansa01a
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d7dansa01a.png
+map_d d7dansa01a.png
+newmtl d7cave02
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d7cave02.png
+map_d d7cave02.png
+newmtl d7ana2
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d7ana2.png
+map_d d7ana2.png
+newmtl d7anab2
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d7anab2.png
+map_d d7anab2.png
+newmtl d7anab
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d7anab.png
+map_d d7anab.png

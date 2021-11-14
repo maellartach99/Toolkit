@@ -1,0 +1,84 @@
+newmtl gake_futa
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd gake_futa.png
+map_d gake_futa.png
+newmtl sea_mizu1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd sea_mizu1.png
+map_d sea_mizu1.png
+newmtl sea_mizu1_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 0.5161
+map_Kd sea_mizu1_1.png
+map_d sea_mizu1_1.png
+newmtl gake1_s0
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd gake1_s0.png
+map_d gake1_s0.png
+newmtl gake01a
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd gake01a.png
+map_d gake01a.png
+newmtl yamagake01
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd yamagake01.png
+map_d yamagake01.png
+newmtl sea_gake01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd sea_gake01.png
+map_d sea_gake01.png
+newmtl sea_gake02
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd sea_gake02.png
+map_d sea_gake02.png
+newmtl sabaku01
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd sabaku01.png
+map_d sabaku01.png
+newmtl yamasaba01
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd yamasaba01.png
+map_d yamasaba01.png
+newmtl ga_s01a
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd ga_s01a.png
+map_d ga_s01a.png
+newmtl yamaga_s01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd yamaga_s01.png
+map_d yamaga_s01.png
+newmtl ga_s1_0
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd ga_s1_0.png
+map_d ga_s1_0.png
+newmtl ga_s_futa
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd ga_s_futa.png
+map_d ga_s_futa.png

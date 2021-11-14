@@ -1,0 +1,120 @@
+newmtl out57_doukutu
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out57_doukutu.png
+map_d out57_doukutu.png
+newmtl out57_yuka01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out57_yuka01.png
+map_d out57_yuka01.png
+newmtl gake_futa
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd gake_futa.png
+map_d gake_futa.png
+newmtl out57_futa
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out57_futa.png
+map_d out57_futa.png
+newmtl out57_gake1_0
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out57_gake1_0.png
+map_d out57_gake1_0.png
+newmtl out57_gake01a
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out57_gake01a.png
+map_d out57_gake01a.png
+newmtl gake1_0
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd gake1_0.png
+map_d gake1_0.png
+newmtl gake01a
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd gake01a.png
+map_d gake01a.png
+newmtl out57_gake1_3
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out57_gake1_3.png
+map_d out57_gake1_3.png
+newmtl out57_kaidan
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out57_kaidan.png
+map_d out57_kaidan.png
+newmtl kusa_ec3
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kusa_ec3.png
+map_d kusa_ec3.png
+newmtl kusa_ec2s
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kusa_ec2s.png
+map_d kusa_ec2s.png
+newmtl kusa_ec1s
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kusa_ec1s.png
+map_d kusa_ec1s.png
+newmtl kage_out
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kage_out.png
+map_d kage_out.png
+newmtl out57saku
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out57saku.png
+map_d out57saku.png
+newmtl out57_yuka02
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out57_yuka02.png
+map_d out57_yuka02.png
+newmtl out57_yuka02b
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out57_yuka02b.png
+map_d out57_yuka02b.png
+newmtl out57_ishi1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out57_ishi1.png
+map_d out57_ishi1.png
+newmtl out57_kusa02
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out57_kusa02.png
+map_d out57_kusa02.png
+newmtl out57_kusa03
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out57_kusa03.png
+map_d out57_kusa03.png

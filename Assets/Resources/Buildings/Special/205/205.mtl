@@ -1,0 +1,24 @@
+newmtl a3
+Ka 0.7843 0.7843 0.7843
+Kd 0.9725 0.9725 0.9725
+d 1.0000
+map_Kd a3.png
+map_d a3.png
+newmtl a4
+Ka 0.7843 0.7843 0.7843
+Kd 0.9725 0.9725 0.9725
+d 1.0000
+map_Kd a4.png
+map_d a4.png
+newmtl h
+Ka 0.7843 0.7843 0.7843
+Kd 0.9725 0.9725 0.9725
+d 1.0000
+map_Kd h.png
+map_d h.png
+newmtl a
+Ka 0.7843 0.7843 0.7843
+Kd 0.9725 0.9725 0.9725
+d 1.0000
+map_Kd a.png
+map_d a.png

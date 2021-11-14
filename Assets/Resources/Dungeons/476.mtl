@@ -1,0 +1,120 @@
+newmtl d7bedrock4
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d7bedrock4.png
+map_d d7bedrock4.png
+newmtl d7_rock01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d7_rock01.png
+map_d d7_rock01.png
+newmtl d7cliffue2
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d7cliffue2.png
+map_d d7cliffue2.png
+newmtl d7cliff2
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d7cliff2.png
+map_d d7cliff2.png
+newmtl d7cave02
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d7cave02.png
+map_d d7cave02.png
+newmtl d7ana2
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d7ana2.png
+map_d d7ana2.png
+newmtl d7bedrock2
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d7bedrock2.png
+map_d d7bedrock2.png
+newmtl d7ice01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 0.8065
+map_Kd d7ice01.png
+map_d d7ice01.png
+newmtl d7_kage01
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d7_kage01.png
+map_d d7_kage01.png
+newmtl d7_drock01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d7_drock01.png
+map_d d7_drock01.png
+newmtl d7dansa01a
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d7dansa01a.png
+map_d d7dansa01a.png
+newmtl d7cliffue4
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d7cliffue4.png
+map_d d7cliffue4.png
+newmtl d7bedrock3
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d7bedrock3.png
+map_d d7bedrock3.png
+newmtl d7satirs3_2
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d7satirs3_2.png
+map_d d7satirs3_2.png
+newmtl d7satirs_2
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d7satirs_2.png
+map_d d7satirs_2.png
+newmtl d7wood2
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d7wood2.png
+map_d d7wood2.png
+newmtl d7wood1
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d7wood1.png
+map_d d7wood1.png
+newmtl h_kage
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h_kage.png
+map_d h_kage.png
+newmtl d7_ana02
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d7_ana02.png
+map_d d7_ana02.png
+newmtl d7_ana01
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d7_ana01.png
+map_d d7_ana01.png

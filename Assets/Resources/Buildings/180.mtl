@@ -1,0 +1,12 @@
+newmtl glass
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd glass.png
+map_d glass.png
+newmtl shadow
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd shadow.png
+map_d shadow.png

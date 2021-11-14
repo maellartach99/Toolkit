@@ -1,0 +1,48 @@
+newmtl jagate_l02
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd jagate_l02.png
+map_d jagate_l02.png
+newmtl jagate_l01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd jagate_l01.png
+map_d jagate_l01.png
+newmtl jagate_l03
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd jagate_l03.png
+map_d jagate_l03.png
+newmtl h_kage
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h_kage.png
+map_d h_kage.png
+newmtl jagate_01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd jagate_01.png
+map_d jagate_01.png
+newmtl jagate_01_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd jagate_01_1.png
+map_d jagate_01_1.png
+newmtl jagate_02
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd jagate_02.png
+map_d jagate_02.png
+newmtl jagate_03
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd jagate_03.png
+map_d jagate_03.png

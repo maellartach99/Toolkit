@@ -1,0 +1,24 @@
+newmtl ja_p9_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd ja_p9_1.png
+map_d ja_p9_1.png
+newmtl ja_p9_3
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd ja_p9_3.png
+map_d ja_p9_3.png
+newmtl ja_p9_2
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd ja_p9_2.png
+map_d ja_p9_2.png
+newmtl ja_kage
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd ja_kage.png
+map_d ja_kage.png

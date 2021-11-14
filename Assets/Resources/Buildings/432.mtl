@@ -1,0 +1,36 @@
+newmtl c15_sign_5
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c15_sign_5.png
+map_d c15_sign_5.png
+newmtl c15_sign_4
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c15_sign_4.png
+map_d c15_sign_4.png
+newmtl c15_sign_3
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c15_sign_3.png
+map_d c15_sign_3.png
+newmtl h_kage
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h_kage.png
+map_d h_kage.png
+newmtl c15_sign_2
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c15_sign_2.png
+map_d c15_sign_2.png
+newmtl c15_sign_1
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c15_sign_1.png
+map_d c15_sign_1.png

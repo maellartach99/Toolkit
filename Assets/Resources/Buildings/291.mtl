@@ -1,0 +1,12 @@
+newmtl __lambert14
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd __lambert14.png
+map_d __lambert14.png
+newmtl _lambert5
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 0.5161
+map_Kd _lambert5.png
+map_d _lambert5.png

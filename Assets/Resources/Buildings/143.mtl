@@ -1,0 +1,28 @@
+newmtl c8g_b_kubi
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c8g_b_kubi.png
+map_d c8g_b_kubi.png
+newmtl c8g_b_kao
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c8g_b_kao.png
+map_d c8g_b_kao.png
+newmtl d_me01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+newmtl c8g_b_tou
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c8g_b_tou.png
+map_d c8g_b_tou.png
+newmtl h_kage
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h_kage.png
+map_d h_kage.png

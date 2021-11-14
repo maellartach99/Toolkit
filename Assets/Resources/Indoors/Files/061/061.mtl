@@ -1,0 +1,18 @@
+newmtl d5box01a
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d5box01a.png
+map_d d5box01a.png
+newmtl d5box01b
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d5box01b.png
+map_d d5box01b.png
+newmtl d5boxkage01
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d5boxkage01.png
+map_d d5boxkage01.png

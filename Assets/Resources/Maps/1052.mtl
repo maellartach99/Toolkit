@@ -1,0 +1,168 @@
+newmtl c3_saku
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_saku.png
+map_d c3_saku.png
+newmtl building3
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd building3.png
+map_d building3.png
+newmtl building1
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd building1.png
+map_d building1.png
+newmtl c3_kanban
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_kanban.png
+map_d c3_kanban.png
+newmtl c3_common
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_common2.png
+map_d c3_common2.png
+newmtl building2
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd building2.png
+map_d building2.png
+newmtl c3_window
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_window.png
+map_d c3_window.png
+newmtl c3_window_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_window_1.png
+map_d c3_window_1.png
+newmtl building4
+Ka 0.5961 0.5961 0.5961
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd building4.png
+map_d building4.png
+newmtl building4_2
+Ka 0.7216 0.8784 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd building4_2.png
+map_d building4_2.png
+newmtl w_gra
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd w_gra.png
+map_d w_gra.png
+newmtl c3_kanban
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_kanban.png
+map_d c3_kanban.png
+newmtl building4
+Ka 0.5961 0.5961 0.5961
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd building4.png
+map_d building4.png
+newmtl building4_2
+Ka 0.7216 0.8784 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd building4_2.png
+map_d building4_2.png
+newmtl w_gra
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd w_gra.png
+map_d w_gra.png
+newmtl c3_window
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_window.png
+map_d c3_window.png
+newmtl c3_window_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_window_1.png
+map_d c3_window_1.png
+newmtl c3_kanban
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_kanban.png
+map_d c3_kanban.png
+newmtl w_gra
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd w_gra.png
+map_d w_gra.png
+newmtl c3_kanban
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_kanban.png
+map_d c3_kanban.png
+newmtl w_gra
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd w_gra.png
+map_d w_gra.png
+newmtl c3_common
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_common2.png
+map_d c3_common2.png
+newmtl c3_common
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_common2.png
+map_d c3_common2.png
+newmtl c3_common
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_common2.png
+map_d c3_common2.png
+newmtl c3_kanban
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_kanban.png
+map_d c3_kanban.png
+newmtl c3_kanban
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_kanban.png
+map_d c3_kanban.png
+newmtl c3_kanban
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_kanban.png
+map_d c3_kanban.png
+newmtl c3_kanban
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_kanban.png
+map_d c3_kanban.png

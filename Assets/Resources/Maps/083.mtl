@@ -1,0 +1,114 @@
+newmtl kage_out_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 0.5161
+map_Kd kage_out_1.png
+map_d kage_out_1.png
+newmtl plant01_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd plant01_1.png
+map_d plant01_1.png
+newmtl kage_out_1_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 0.5161
+map_Kd kage_out_1_1.png
+map_d kage_out_1_1.png
+newmtl sio_fe02_r_2
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd sio_fe02_r_2.png
+map_d sio_fe02_r_2.png
+newmtl tg_saido_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd tg_saido_1.png
+map_d tg_saido_1.png
+newmtl plant01_1_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd plant01_1_1.png
+map_d plant01_1_1.png
+newmtl nagaisu_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd nagaisu_1.png
+map_d nagaisu_1.png
+newmtl kn_c_yuka4_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kn_c_yuka4_1.png
+map_d kn_c_yuka4_1.png
+newmtl tg_mizo_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd tg_mizo_1.png
+map_d tg_mizo_1.png
+newmtl tg_tesu2_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd tg_tesu2_1.png
+map_d tg_tesu2_1.png
+newmtl tg_kabe3_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd tg_kabe3_1.png
+map_d tg_kabe3_1.png
+newmtl sio_fe02_r_2_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd sio_fe02_r_2_1.png
+map_d sio_fe02_r_2_1.png
+newmtl nagaisu_1_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd nagaisu_1_1.png
+map_d nagaisu_1_1.png
+newmtl kage_out_1_2
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 0.5161
+map_Kd kage_out_1_2.png
+map_d kage_out_1_2.png
+newmtl plant01_1_2
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd plant01_1_2.png
+map_d plant01_1_2.png
+newmtl tg_michi02a_2
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd tg_michi02a_2.png
+map_d tg_michi02a_2.png
+newmtl tg_michi02b_2
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd tg_michi02b_2.png
+map_d tg_michi02b_2.png
+newmtl tg_02_2
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd tg_02_2.png
+map_d tg_02_2.png
+newmtl tg_stair_2
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd tg_stair_2.png
+map_d tg_stair_2.png

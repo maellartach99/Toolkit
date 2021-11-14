@@ -1,0 +1,60 @@
+newmtl in77p_sun_e1
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in77p_sun_e1.png
+map_d in77p_sun_e1.png
+newmtl p_gun04
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd p_gun04.png
+map_d p_gun04.png
+newmtl p_gun01
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd p_gun01.png
+map_d p_gun01.png
+newmtl p_gun02
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd p_gun02.png
+map_d p_gun02.png
+newmtl p_gun03b
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd p_gun03b.png
+map_d p_gun03b.png
+newmtl p_gun03a
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd p_gun03a.png
+map_d p_gun03a.png
+newmtl p_gun00
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd p_gun00.png
+map_d p_gun00.png
+newmtl p_gun00_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd p_gun00_1.png
+map_d p_gun00_1.png
+newmtl p_gun03c
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd p_gun03c.png
+map_d p_gun03c.png
+newmtl p_gun00_2
+Ka 0.5333 0.5333 0.5333
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd p_gun00_2.png
+map_d p_gun00_2.png

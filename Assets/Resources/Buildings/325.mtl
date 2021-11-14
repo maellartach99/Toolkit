@@ -1,0 +1,18 @@
+newmtl r4_r03_parts
+Ka 0.5961 0.5961 0.5961
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd r4_r03_parts.png
+map_d r4_r03_parts.png
+newmtl r4_r03_kabe
+Ka 0.5020 0.5020 0.5020
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd r4_r03_kabe.png
+map_d r4_r03_kabe.png
+newmtl h_kage
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h_kage.png
+map_d h_kage.png

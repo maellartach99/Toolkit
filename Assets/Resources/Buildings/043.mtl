@@ -1,0 +1,36 @@
+newmtl h_kage_lm3
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h_kage_lm3.png
+map_d h_kage_lm3.png
+newmtl ship02_lm3
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd ship02_lm3.png
+map_d ship02_lm3.png
+newmtl deship_lm3
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd deship_lm3.png
+map_d deship_lm3.png
+newmtl ship_lm3
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd ship_lm3.png
+map_d ship_lm3.png
+newmtl ship03_lm3
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd ship03_lm3.png
+map_d ship03_lm3.png
+newmtl h_mado_lm3
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h_mado_lm3.png
+map_d h_mado_lm3.png

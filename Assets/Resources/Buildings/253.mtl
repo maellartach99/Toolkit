@@ -1,0 +1,54 @@
+newmtl tt09_tire
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd tt09_tire.png
+map_d tt09_tire.png
+newmtl tt09_side
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd tt09_side.png
+map_d tt09_side.png
+newmtl tt09_side02
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd tt09_side02.png
+map_d tt09_side02.png
+newmtl tt09_up
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd tt09_up.png
+map_d tt09_up.png
+newmtl tt09_side03
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd tt09_side03.png
+map_d tt09_side03.png
+newmtl tt09_win01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd tt09_win01.png
+map_d tt09_win01.png
+newmtl tt09_front
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd tt09_front.png
+map_d tt09_front.png
+newmtl tt09_door
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd tt09_door.png
+map_d tt09_door.png
+newmtl h_kage
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h_kage.png
+map_d h_kage.png

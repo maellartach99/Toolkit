@@ -1,0 +1,170 @@
+# Blender MTL File: 'ORAS Map Lighting.blend'
+# Material Count: 14
+
+newmtl in14_colum_a
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.627451 0.627451
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd in14_colum_a.png
+map_Ka in14_colum_a.png
+map_d in14_colum_a.png
+
+newmtl in14_colum_b
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.627451 0.627451
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd in14_colum_b.png
+map_Ka in14_colum_b.png
+map_d in14_colum_b.png
+
+newmtl in14_pillar_
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.627451 0.627451
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd in14_pillar_.png
+map_Ka in14_pillar_.png
+map_d in14_pillar_.png
+
+newmtl in14_r_wall
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.627451 0.627451
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd in14_r_wall.png
+map_Ka in14_r_wall.png
+map_d in14_r_wall.png
+
+newmtl in14_r_wall_
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.627451 0.627451
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd in14_r_wall_.png
+map_Ka in14_r_wall_.png
+map_d in14_r_wall_.png
+
+newmtl in14_slope
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.627451 0.627451
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd in14_slope.png
+map_Ka in14_slope.png
+map_d in14_slope.png
+
+newmtl in14_slope_b
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.627451 0.627451
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd in14_slope_b.png
+map_Ka in14_slope_b.png
+map_d in14_slope_b.png
+
+newmtl in14_wall_b
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.627451 0.627451
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd in14_wall_b.png
+map_Ka in14_wall_b.png
+map_d in14_wall_b.png
+
+newmtl in14_wall_f
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.627451 0.627451
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd in14_wall_f.png
+map_Ka in14_wall_f.png
+map_d in14_wall_f.png
+
+newmtl in14_yuka_a
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.627451 0.627451
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd in14_yuka_a.png
+map_Ka in14_yuka_a.png
+map_d in14_yuka_a.png
+
+newmtl in14_yuka_b
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.627451 0.627451
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd in14_yuka_b.png
+map_Ka in14_yuka_b.png
+map_d in14_yuka_b.png
+
+newmtl lambert8
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.627451 0.627451
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd lambert8.png
+map_Ka lambert8.png
+map_d lambert8.png
+
+newmtl lambert9
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.627451 0.627451
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd lambert9.png
+map_Ka lambert9.png
+map_d lambert9.png
+
+newmtl shad_rnd
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.627451 0.627451 0.627451
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd shad_rnd.png
+map_Ka shad_rnd.png
+map_d shad_rnd.png

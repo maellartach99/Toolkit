@@ -1,0 +1,46 @@
+newmtl lambert1
+Ka 0.0000 0.0000 0.0000
+Kd 0.3765 0.3765 0.3765
+d 1.0000
+newmtl h_kage_lm1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h_kage_lm1.png
+map_d h_kage_lm1.png
+newmtl tetsu_002_lm1
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd tetsu_002_lm1.png
+map_d tetsu_002_lm1.png
+newmtl tetsukousi_lm1
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd tetsukousi_lm1.png
+map_d tetsukousi_lm1.png
+newmtl tetsukousi02_lm1
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd tetsukousi02_lm1.png
+map_d tetsukousi02_lm1.png
+newmtl tetsukabe_lm1
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd tetsukabe_lm1.png
+map_d tetsukabe_lm1.png
+newmtl bill_kabe_lm1
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd bill_kabe_lm1.png
+map_d bill_kabe_lm1.png
+newmtl kaidan_lm1
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kaidan_lm1.png
+map_d kaidan_lm1.png

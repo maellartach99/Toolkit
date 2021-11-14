@@ -1,0 +1,120 @@
+newmtl c3_test
+Ka 0.5961 0.5961 0.5961
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_test.png
+map_d c3_test.png
+newmtl h_kage
+Ka 0.5961 0.5961 0.5961
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h_kage.png
+map_d h_kage.png
+newmtl c3_tree3
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_tree3.png
+map_d c3_tree3.png
+newmtl c3_ki_kage
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_ki_kage.png
+map_d c3_ki_kage.png
+newmtl c3_green
+Ka 0.5961 0.5961 0.5961
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_green.png
+map_d c3_green.png
+newmtl c3_road2
+Ka 0.5961 0.5961 0.5961
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_road2.png
+map_d c3_road2.png
+newmtl c3_road
+Ka 0.5961 0.5961 0.5961
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_road.png
+map_d c3_road.png
+newmtl gra_w
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd gra_w.png
+map_d gra_w.png
+newmtl c3_buil3
+Ka 0.5961 0.5961 0.5961
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_buil3.png
+map_d c3_buil3.png
+newmtl h_mado
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h_mado.png
+map_d h_mado.png
+newmtl c3_buil07_a
+Ka 0.5961 0.5961 0.5961
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_buil07_a.png
+map_d c3_buil07_a.png
+newmtl c3_buil06_a
+Ka 0.5961 0.5961 0.5961
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_buil06_a.png
+map_d c3_buil06_a.png
+newmtl h_mado_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h_mado_1.png
+map_d h_mado_1.png
+newmtl c3_buil01_b
+Ka 0.5961 0.5961 0.5961
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_buil01_b.png
+map_d c3_buil01_b.png
+newmtl c3_buil4
+Ka 0.5961 0.5961 0.5961
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_buil4.png
+map_d c3_buil4.png
+newmtl c3bay_yuka1
+Ka 0.5961 0.5961 0.5961
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3bay_yuka1.png
+map_d c3bay_yuka1.png
+newmtl c3_road1
+Ka 0.5961 0.5961 0.5961
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_road1.png
+map_d c3_road1.png
+newmtl gra_w_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd gra_w_1.png
+map_d gra_w_1.png
+newmtl c3_buil5
+Ka 0.5961 0.5961 0.5961
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_buil5.png
+map_d c3_buil5.png
+newmtl c3_test_1
+Ka 0.5961 0.5961 0.5961
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_test_1.png
+map_d c3_test_1.png

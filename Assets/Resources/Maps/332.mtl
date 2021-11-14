@@ -1,0 +1,192 @@
+newmtl c3bay_yuka1
+Ka 0.6902 0.6902 0.6902
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3bay_yuka1.png
+map_d c3bay_yuka1.png
+newmtl michi02b
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd michi02b.png
+map_d michi02b.png
+newmtl grass01ax
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd grass01ax.png
+map_d grass01ax.png
+newmtl hana01_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd hana01_1.png
+map_d hana01_1.png
+newmtl ki02c
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd ki02c.png
+map_d ki02c.png
+newmtl ki02ax
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd ki02ax.png
+map_d ki02ax.png
+newmtl ki02bx
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd ki02bx.png
+map_d ki02bx.png
+newmtl ki02dx
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd ki02dx.png
+map_d ki02dx.png
+newmtl kusa_ec1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kusa_ec1.png
+map_d kusa_ec1.png
+newmtl kusa_ec2
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kusa_ec2.png
+map_d kusa_ec2.png
+newmtl kusa_ec3
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kusa_ec3.png
+map_d kusa_ec3.png
+newmtl kusa_ec2s
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kusa_ec2s.png
+map_d kusa_ec2s.png
+newmtl kusa_ec1s
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kusa_ec1s.png
+map_d kusa_ec1s.png
+newmtl c3_buil06_a
+Ka 0.3765 0.3765 0.3765
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_buil06_a.png
+map_d c3_buil06_a.png
+newmtl h_mado_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h_mado_1.png
+map_d h_mado_1.png
+newmtl h_mado
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h_mado.png
+map_d h_mado.png
+newmtl c3_buil07_a
+Ka 0.3765 0.3765 0.3765
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_buil07_a.png
+map_d c3_buil07_a.png
+newmtl c3_buil3
+Ka 0.3765 0.3765 0.3765
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_buil3.png
+map_d c3_buil3.png
+newmtl c3test_buil3
+Ka 0.3765 0.3765 0.3765
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3test_buil3.png
+map_d c3test_buil3.png
+newmtl c3_buil01_b
+Ka 0.3765 0.3765 0.3765
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_buil01_b.png
+map_d c3_buil01_b.png
+newmtl c3_buil4
+Ka 0.3765 0.3765 0.3765
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_buil4.png
+map_d c3_buil4.png
+newmtl c3_buil5
+Ka 0.3765 0.3765 0.3765
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_buil5.png
+map_d c3_buil5.png
+newmtl c3_test
+Ka 0.5961 0.5961 0.5961
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_test.png
+map_d c3_test.png
+newmtl h_kage
+Ka 0.2824 0.3765 0.5020
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h_kage.png
+map_d h_kage.png
+newmtl michi02a
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd michi02a.png
+map_d michi02a.png
+newmtl c3_manhole
+Ka 0.5961 0.5961 0.5961
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_manhole.png
+map_d c3_manhole.png
+newmtl c3_road2
+Ka 0.5961 0.5961 0.5961
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_road2.png
+map_d c3_road2.png
+newmtl c3_buil01_a
+Ka 0.3765 0.3765 0.3765
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_buil01_a.png
+map_d c3_buil01_a.png
+newmtl buill02_002
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd buill02_002.png
+map_d buill02_002.png
+newmtl buill02_005
+Ka 0.5961 0.5961 0.5961
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd buill02_005.png
+map_d buill02_005.png
+newmtl c3_road
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_road.png
+map_d c3_road.png
+newmtl m_whouse01_10
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd m_whouse01_10.png
+map_d m_whouse01_10.png

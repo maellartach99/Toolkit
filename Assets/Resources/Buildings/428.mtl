@@ -1,0 +1,18 @@
+newmtl icepc_kabe02
+Ka 0.8784 0.8784 0.8784
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd icepc_kabe02.png
+map_d icepc_kabe02.png
+newmtl icepc_win1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd icepc_win1.png
+map_d icepc_win1.png
+newmtl c8lb_bigice03
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c8lb_bigice03.png
+map_d c8lb_bigice03.png

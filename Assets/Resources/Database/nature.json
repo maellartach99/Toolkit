@@ -1,0 +1,127 @@
+﻿{
+	"bashful": {
+		"plus": "atk",
+		"minus": "atk",
+		"name": "Tímida"
+	},
+	"lonely": {
+		"plus": "atk",
+		"minus": "def",
+		"name": "Huraña"
+	},
+	"brave": {
+		"plus": "atk",
+		"minus": "speed",
+		"name": "Audaz"
+	},
+	"adamant": {
+		"plus": "atk",
+		"minus": "satk",
+		"name": "Firme"
+	},
+	"naughty": {
+		"plus": "atk",
+		"minus": "sdef",
+		"name": "Pícara"
+	},
+	"bold": {
+		"plus": "def",
+		"minus": "atk",
+		"name": "Osada"
+	},
+	"hardy": {
+		"plus": "def",
+		"minus": "def",
+		"name": "Fuerte"
+	},
+	"relaxed": {
+		"plus": "def",
+		"minus": "speed",
+		"name": "Plácida"
+	},
+	"impish": {
+		"plus": "def",
+		"minus": "satk",
+		"name": "Agitada"
+	},
+	"lax": {
+		"plus": "def",
+		"minus": "sdef",
+		"name": "Floja"
+	},
+	"timid": {
+		"plus": "speed",
+		"minus": "atk",
+		"name": "Miedosa"
+	},
+	"hasty": {
+		"plus": "speed",
+		"minus": "def",
+		"name": "Activa"
+	},
+	"quirky": {
+		"plus": "speed",
+		"minus": "speed",
+		"name": "Rara"
+	},
+	"jolly": {
+		"plus": "speed",
+		"minus": "satk",
+		"name": "Alegre"
+	},
+	"naive": {
+		"plus": "speed",
+		"minus": "sdef",
+		"name": "Ingenua"
+	},
+	"modest": {
+		"plus": "satk",
+		"minus": "atk",
+		"name": "Modesta"
+	},
+	"mild": {
+		"plus": "satk",
+		"minus": "def",
+		"name": "Afable"
+	},
+	"quiet": {
+		"plus": "satk",
+		"minus": "speed",
+		"name": "Mansa"
+	},
+	"serious": {
+		"plus": "satk",
+		"minus": "satk",
+		"name": "Seria"
+	},
+	"rash": {
+		"plus": "satk",
+		"minus": "sdef",
+		"name": "Alocada"
+	},
+	"calm": {
+		"plus": "sdef",
+		"minus": "atk",
+		"name": "Serena"
+	},
+	"gentle": {
+		"plus": "sdef",
+		"minus": "def",
+		"name": "Amable"
+	},
+	"sassy": {
+		"plus": "sdef",
+		"minus": "speed",
+		"name": "Grosera"
+	},
+	"careful": {
+		"plus": "sdef",
+		"minus": "satk",
+		"name": "Cauta"
+	},
+	"docile": {
+		"plus": "sdef",
+		"minus": "sdef",
+		"name": "Dócil"
+	}
+}

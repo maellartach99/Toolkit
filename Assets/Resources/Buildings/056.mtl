@@ -1,0 +1,6 @@
+newmtl roadcone
+Ka 0.5961 0.5961 0.5961
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd roadcone.png
+map_d roadcone.png

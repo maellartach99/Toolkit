@@ -1,0 +1,54 @@
+newmtl tx1_lm1
+Ka 0.8784 0.8784 0.8784
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd tx1_lm1.png
+map_d tx1_lm1.png
+newmtl h_kage_lm1
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h_kage_lm1.png
+map_d h_kage_lm1.png
+newmtl light_lm1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd light_lm1.png
+map_d light_lm1.png
+newmtl tx2_lm1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd tx2_lm1.png
+map_d tx2_lm1.png
+newmtl pokemark_lm1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd pokemark_lm1.png
+map_d pokemark_lm1.png
+newmtl beam_lm1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd beam_lm1.png
+map_d beam_lm1.png
+newmtl beam_lm1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd beam_lm1.png
+map_d beam_lm1.png
+newmtl beam_lm1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd beam_lm1.png
+map_d beam_lm1.png
+newmtl beam_lm1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd beam_lm1.png
+map_d beam_lm1.png

@@ -1,0 +1,30 @@
+newmtl n40_kage
+Ka 0.0000 0.0000 0.0000
+Kd 0.0000 0.0000 0.0000
+d 1.0000
+map_Kd n40_kage.png
+map_d n40_kage.png
+newmtl c3_gaito_lm2
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_gaito_lm2.png
+map_d c3_gaito_lm2.png
+newmtl white
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd white.png
+map_d white.png
+newmtl c3_hata_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_hata_1.png
+map_d c3_hata_1.png
+newmtl white_gra2
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd white_gra2.png
+map_d white_gra2.png

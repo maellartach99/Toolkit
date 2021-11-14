@@ -1,0 +1,36 @@
+newmtl in6_khone03_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in6_khone03_1.png
+map_d in6_khone03_1.png
+newmtl in6_khone05_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in6_khone05_1.png
+map_d in6_khone05_1.png
+newmtl in6_khone04_2
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in6_khone04_2.png
+map_d in6_khone04_2.png
+newmtl in6_khone04_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in6_khone04_1.png
+map_d in6_khone04_1.png
+newmtl in6_khone03_2
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in6_khone03_2.png
+map_d in6_khone03_2.png
+newmtl in6_khone03_3
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in6_khone03_3.png
+map_d in6_khone03_3.png

@@ -1,0 +1,389 @@
+﻿{
+	"red": {
+		"name": "Entrenador",
+		"money": 60,
+		"gender": "M"
+	},
+	"leaf": {
+		"name": "Entrenadora",
+		"money": 60,
+		"gender": "F"
+	},
+	"brendan": {
+		"name": "Entrenador",
+		"money": 60,
+		"gender": "M"
+	},
+	"may": {
+		"name": "Entrenadora",
+		"money": 60,
+		"gender": "F"
+	},
+	"rival1": {
+		"name": "Rival",
+		"money": 16,
+		"gender": "M"
+	},
+	"rival2": {
+		"name": "Rival",
+		"money": 36,
+		"gender": "M"
+	},
+	"aromalady": {
+		"name": "Chica Aroma",
+		"money": 32,
+		"gender": "F"
+	},
+	"beauty": {
+		"name": "Bella",
+		"money": 56,
+		"gender": "F"
+	},
+	"biker": {
+		"name": "Motorista",
+		"money": 32,
+		"gender": "M"
+	},
+	"birdkeeper": {
+		"name": "Ornitólogo",
+		"money": 32,
+		"gender": "M"
+	},
+	"bugcatcher": {
+		"name": "Cazabichos",
+		"money": 16,
+		"gender": "M"
+	},
+	"burglar": {
+		"name": "Ladrón",
+		"money": 88,
+		"gender": "M",
+		"skill": 32
+	},
+	"chaneller": {
+		"name": "Exorcista",
+		"money": 32,
+		"gender": "F"
+	},
+	"cueball": {
+		"name": "Calvo",
+		"money": 24,
+		"gender": "M"
+	},
+	"engineer": {
+		"name": "Mecánico",
+		"money": 48,
+		"gender": "M"
+	},
+	"fisherman": {
+		"name": "Pescador",
+		"money": 32,
+		"gender": "M"
+	},
+	"gambler": {
+		"name": "Apostador",
+		"money": 72,
+		"gender": "M",
+		"skill": 32
+	},
+	"gentleman": {
+		"name": "Caballero",
+		"money": 72,
+		"gender": "M"
+	},
+	"hiker": {
+		"name": "Montañero",
+		"money": 32,
+		"gender": "M"
+	},
+	"juggler": {
+		"name": "Malabarista",
+		"money": 32,
+		"gender": "M"
+	},
+	"lady": {
+		"name": "Damisela",
+		"money": 160,
+		"gender": "F",
+		"skill": 72
+	},
+	"painter": {
+		"name": "Pintor",
+		"money": 16,
+		"gender": "F"
+	},
+	"pokemaniac": {
+		"name": "Poké Maniaco",
+		"money": 64,
+		"gender": "M"
+	},
+	"pokemonbreeder": {
+		"name": "Criador",
+		"money": 48,
+		"gender": "F"
+	},
+	"professor": {
+		"name": "Profesor",
+		"money": 100,
+		"gender": "M"
+	},
+	"rocker": {
+		"name": "Rockero",
+		"money": 24,
+		"gender": "M"
+	},
+	"ruinmaniac": {
+		"name": "Arqueólogo",
+		"money": 48,
+		"gender": "M"
+	},
+	"sailor": {
+		"name": "Marinero",
+		"money": 32,
+		"gender": "M"
+	},
+	"scientist": {
+		"name": "Científico",
+		"money": 48,
+		"gender": "M"
+	},
+	"supernerd": {
+		"name": "Supernecio",
+		"money": 48,
+		"gender": "M"
+	},
+	"tamer": {
+		"name": "Domador",
+		"money": 40,
+		"gender": "M"
+	},
+	"blackbelt": {
+		"name": "Karateka",
+		"money": 32,
+		"gender": "M"
+	},
+	"crushgirl": {
+		"name": "Luchadora",
+		"money": 24,
+		"gender": "F"
+	},
+	"camper": {
+		"name": "Campista",
+		"money": 16,
+		"gender": "M"
+	},
+	"picnicker": {
+		"name": "Dominguera",
+		"money": 16,
+		"gender": "F"
+	},
+	"cooltrainer_m": {
+		"name": "Entre. Guay",
+		"money": 60,
+		"gender": "M"
+	},
+	"cooltrainer_f": {
+		"name": "Entre. Guay",
+		"money": 60,
+		"gender": "F"
+	},
+	"youngster": {
+		"name": "Joven",
+		"money": 16,
+		"gender": "M"
+	},
+	"lass": {
+		"name": "Chica",
+		"money": 16,
+		"gender": "F"
+	},
+	"pokemonranger_m": {
+		"name": "Pokémon Ranger",
+		"money": 60,
+		"gender": "M"
+	},
+	"pokemonranger_f": {
+		"name": "Pokémon Ranger",
+		"money": 60,
+		"gender": "F"
+	},
+	"psychic_m": {
+		"name": "Médium",
+		"money": 32,
+		"gender": "M"
+	},
+	"psychic_f": {
+		"name": "Médium",
+		"money": 32,
+		"gender": "F"
+	},
+	"swimmer_m": {
+		"name": "Nadador",
+		"money": 16,
+		"gender": "M",
+		"skill": 32
+	},
+	"swimmer_f": {
+		"name": "Nadadora",
+		"money": 16,
+		"gender": "F",
+		"skill": 32
+	},
+	"swimmer2_m": {
+		"name": "Nadador",
+		"money": 16,
+		"gender": "M",
+		"skill": 32
+	},
+	"swimmer2_f": {
+		"name": "Nadadora",
+		"money": 16,
+		"gender": "F",
+		"skill": 32
+	},
+	"tuber_m": {
+		"name": "Playero",
+		"money": 4,
+		"gender": "M",
+		"skill": 16
+	},
+	"tuber_f": {
+		"name": "Playera",
+		"money": 4,
+		"gender": "F",
+		"skill": 16
+	},
+	"tuber2_m": {
+		"name": "Playero",
+		"money": 4,
+		"gender": "M",
+		"skill": 16
+	},
+	"tuber2_f": {
+		"name": "Playera",
+		"money": 4,
+		"gender": "F",
+		"skill": 16
+	},
+	"coolcouple": {
+		"name": "Pareja Guay",
+		"money": 72,
+		"gender": "X",
+		"skill": 48
+	},
+	"crushkin": {
+		"name": "Dúo Fuerte",
+		"money": 48,
+		"gender": "X"
+	},
+	"sisandbro": {
+		"name": "Hermanos",
+		"money": 16,
+		"gender": "X",
+		"skill": 48
+	},
+	"twins": {
+		"name": "Gemelas",
+		"money": 24,
+		"gender": "X"
+	},
+	"youngcouple": {
+		"name": "Pareja Joven",
+		"money": 60,
+		"gender": "X",
+		"skill": 32
+	},
+	"teamrocket_m": {
+		"name": "Soldado Equipo",
+		"money": 32,
+		"gender": "M"
+	},
+	"teamrocket_f": {
+		"name": "Soldado Equipo",
+		"money": 32,
+		"gender": "F"
+	},
+	"rocketboss": {
+		"name": "Líder Rocket",
+		"money": 100,
+		"gender": "M"
+	},
+	"leader_brock": {
+		"name": "Líder Gimnasio",
+		"money": 100,
+		"battle_music": "gymleader",
+		"gender": "M"
+	},
+	"leader_misty": {
+		"name": "Líder Gimnasio",
+		"money": 100,
+		"battle_music": "gymleader",
+		"gender": "F"
+	},
+	"leader_surge": {
+		"name": "Líder Gimnasio",
+		"money": 100,
+		"battle_music": "gymleader",
+		"gender": "M"
+	},
+	"leader_erika": {
+		"name": "Líder Gimnasio",
+		"money": 100,
+		"battle_music": "gymleader",
+		"gender": "F"
+	},
+	"leader_koga": {
+		"name": "Líder Gimnasio",
+		"money": 100,
+		"battle_music": "gymleader",
+		"gender": "M"
+	},
+	"leader_sabrina": {
+		"name": "Líder Gimnasio",
+		"money": 100,
+		"battle_music": "gymleader",
+		"gender": "F"
+	},
+	"leader_blaine": {
+		"name": "Líder Gimnasio",
+		"money": 100,
+		"battle_music": "gymleader",
+		"gender": "M"
+	},
+	"leader_giovanni": {
+		"name": "Líder Gimnasio",
+		"money": 100,
+		"battle_music": "gymleader",
+		"gender": "M"
+	},
+	"elitefour_lorelei": {
+		"name": "Alto Mando",
+		"money": 100,
+		"battle_music": "elite",
+		"gender": "F"
+	},
+	"elitefour_bruno": {
+		"name": "Alto Mando",
+		"money": 100,
+		"battle_music": "elite",
+		"gender": "M"
+	},
+	"elitefour_agatha": {
+		"name": "Alto Mando",
+		"money": 100,
+		"battle_music": "elite",
+		"gender": "F"
+	},
+	"elitefour_lance": {
+		"name": "Alto Mando",
+		"money": 100,
+		"battle_music": "elite",
+		"gender": "M"
+	},
+	"champion": {
+		"name": "Campeón",
+		"money": 100,
+		"battle_music": "elite",
+		"gender": "M"
+	}
+}

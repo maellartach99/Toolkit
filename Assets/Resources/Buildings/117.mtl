@@ -1,0 +1,48 @@
+newmtl lb_body_a
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd lb_body_a.png
+map_d lb_body_a.png
+newmtl lb_body_d1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd lb_body_d1.png
+map_d lb_body_d1.png
+newmtl lb_win_c_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd lb_win_c_1.png
+map_d lb_win_c_1.png
+newmtl lb_front_d1_
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd lb_front_d1_.png
+map_d lb_front_d1_.png
+newmtl lb_front_d1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd lb_front_d1.png
+map_d lb_front_d1.png
+newmtl lb_body_g
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd lb_body_g.png
+map_d lb_body_g.png
+newmtl lb_tire
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd lb_tire.png
+map_d lb_tire.png
+newmtl h_kage
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h_kage.png
+map_d h_kage.png

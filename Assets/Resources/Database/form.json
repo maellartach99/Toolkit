@@ -1,0 +1,1049 @@
+﻿{
+	"venusaur": {
+		"mega": {
+			"megaItem": "venusaurite",
+			"abilities": {"a": "thickfat"},
+			"stats": {"hp":80, "atk":100, "def":123, "speed":80, "satk":122, "sdef":120},
+			"height": 2.4,
+			"weight": 155.5
+		}
+	},
+	"charizard": {
+		"megax": {
+			"megaItem": "charizarditex",
+			"types": ["fire", "dragon"],
+			"abilities": {"a": "toughclaws"},
+			"stats": {"hp":78, "atk":130, "def":111, "speed":100, "satk":130, "sdef":85},
+			"weight": 110.5
+		},
+		"megay": {
+			"megaItem": "charizarditey",
+			"abilities": {"a": "drought"},
+			"stats": {"hp":78, "atk":104, "def":78, "speed":100, "satk":159, "sdef":115},
+			"weight": 100.5
+		}
+	},
+	"blastoise": {
+		"mega": {
+			"megaItem": "blastoisinite",
+			"abilities": {"a": "megalauncher"},
+			"stats": {"hp":79, "atk":103, "def":120, "speed":78, "satk":135, "sdef":115},
+			"weight": 101.1
+		}
+	},
+	"beedrill": {
+		"mega": {
+			"megaItem": "beedrillite",
+			"abilities": {"a": "adaptability"},
+			"stats": {"hp":65, "atk":150, "def":40, "speed":145, "satk":15, "sdef":80},
+			"height": 1.4,
+			"weight": 40.5
+		}
+	},
+	"pidgeot": {
+		"mega": {
+			"megaItem": "pidgeotite",
+			"abilities": {"a": "noguard"},
+			"stats": {"hp":83, "atk":80, "def":80, "speed":121, "satk":135, "sdef":80},
+			"height": 2.2,
+			"weight": 50.5
+		}
+	},
+	"rattata": {
+		"alola": {
+			"types": ["normal", "dark"],
+			"abilities": {"a": "gluttony", "b": "hustle", "H": "thickfat"},
+			"evolutions": [{"species": "raticate", "method": "level", "level": 20, "hour": "night"}]
+		}
+	},
+	"raticate": {
+		"alola": {
+			"types": ["normal", "dark"],
+			"abilities": {"a": "gluttony", "b": "hustle", "H": "thickfat"},
+			"stats": {"hp":75, "atk":71, "def":70, "speed":77, "satk":40, "sdef":80}
+		}
+	},
+	"raichu": {
+		"alola": {
+			"types": ["electric", "psychic"],
+			"stats": {"hp":60, "atk":85, "def":50, "speed":110, "satk":95, "sdef":85},
+			"abilities": {"a": "surgesurfer"}
+		}
+	},
+	"sandshrew": {
+		"alola": {
+			"types": ["ice", "steel"],
+			"stats": {"hp":50, "atk":75, "def":90, "speed":40, "satk":10, "sdef":35},
+			"abilities": {"a": "snowcloak", "H": "slushrush"},
+			"evolutions": [{"species": "sandslash", "method": "item", "item": "icestone"}]
+		}
+	},
+	"sandslash": {
+		"alola": {
+			"types": ["ice", "steel"],
+			"stats": {"hp":75, "atk":100, "def":120, "speed":65, "satk":25, "sdef":65},
+			"abilities": {"a": "snowcloak", "H": "slushrush"}
+		}
+	},
+	"vulpix": {
+		"alola": {
+			"types": ["ice"],
+			"abilities": {"a": "snowcloak", "H": "snowwarning"},
+			"evolutions": [{"species": "ninetales", "method": "item", "item": "icestone"}]
+		}
+	},
+	"ninetales": {
+		"alola": {
+			"types": ["ice", "fairy"],
+			"stats": {"hp":73, "atk":67, "def":75, "speed":109, "satk":81, "sdef":100},
+			"abilities": {"a": "snowcloak", "H": "snowwarning"}
+		}
+	},
+	"diglett": {
+		"alola": {
+			"types": ["ground", "steel"],
+			"stats": {"hp":10, "atk":55, "def":30, "speed":90, "satk":35, "sdef":45},
+			"abilities": {"a": "sandveil", "b": "tanglinghair", "H": "sandforce"}
+		}
+	},
+	"dugtrio": {
+		"alola": {
+			"types": ["ground", "steel"],
+			"stats": {"hp":35, "atk":100, "def":60, "speed":110, "satk":50, "sdef":70},
+			"abilities": {"a": "sandveil", "b": "tanglinghair", "H": "sandforce"}
+		}
+	},
+	"meowth": {
+		"alola": {
+			"types": ["dark"],
+			"stats": {"hp":40, "atk":35, "def":35, "speed":90, "satk":50, "sdef":40},
+			"abilities": {"a": "pickup", "b": "technician", "H": "rattled"},
+			"evolutions": [{"species": "persian", "method": "level", "happiness": 220}]
+		},
+		"galar": {
+			"types": ["steel"],
+			"stats": {"hp":50, "atk":65, "def":55, "speed":40, "satk":40, "sdef":40},
+			"abilities": {"a": "pickup", "b": "toughclaws", "H": "unnerve"},
+			"evolutions": [{"species": "perrserker", "method": "level", "level": 28}]
+		}
+	},
+	"persian": {
+		"alola": {
+			"types": ["dark"],
+			"stats": {"hp":65, "atk":60, "def":60, "speed":115, "satk":75, "sdef":65},
+			"abilities": {"a": "furcoat", "b": "technician", "H": "rattled"}
+		}
+	},
+	"alakazam": {
+		"mega": {
+			"megaItem": "alakazite",
+			"abilities": {"a": "trace"},
+			"stats": {"hp":55, "atk":50, "def":65, "speed":150, "satk":175, "sdef":95},
+			"height": 1.2
+		}
+	},
+	"geodude": {
+		"alola": {
+			"types": ["rock", "electric"],
+			"abilities": {"a": "magnetpull", "b": "sturdy", "H": "galvanize"}
+		}
+	},
+	"graveler": {
+		"alola": {
+			"types": ["rock", "electric"],
+			"abilities": {"a": "magnetpull", "b": "sturdy", "H": "galvanize"}
+		}
+	},
+	"golem": {
+		"alola": {
+			"types": ["rock", "electric"],
+			"abilities": {"a": "magnetpull", "b": "sturdy", "H": "galvanize"}
+		}
+	},
+	"ponyta": {
+		"galar": {
+			"types": ["psychic"],
+			"abilities": {"a": "runaway", "b": "pastelveil", "H": "anticipation"}
+		}
+	},
+	"rapidash": {
+		"galar": {
+			"types": ["psychic","fairy"],
+			"abilities": {"a": "runaway", "b": "pastelveil", "H": "anticipation"}
+		}
+	},
+	"slowpoke": {
+		"galar": {
+			"types": ["psychic"],
+			"abilities": {"a": "gluttony", "b": "owntempo", "H": "regenerator"},
+			"evolutions": [
+				{"species": "slowbro", "method": "item", "item": "galaricacuff"},
+				{"species": "slowking", "method": "item", "item": "galaricawreath"}
+			]
+		}
+	},
+	"slowbro": {
+		"galar": {
+			"types": ["poison","psychic"],
+			"abilities": {"a": "quickdraw", "b": "owntempo", "H": "regenerator"},
+			"weight": 70.5
+		},
+		"mega": {
+			"megaItem": "slowbronite",
+			"abilities": {"a": "shellarmor"},
+			"stats": {"hp":95, "atk":75, "def":180, "speed":30, "satk":130, "sdef":80},
+			"height": 2.0,
+			"weight": 120.0
+		}
+	},
+	"farfetchd": {
+		"galar": {
+			"types": ["fighting"],
+			"stats": {"hp":52, "atk":95, "def":55, "speed":55, "satk":58, "sdef":62},
+			"abilities": {"a": "steadfast", "H": "scrappy"},
+			"evolutions": [{"species": "sirfetchd", "method": "level", "critics": 3}]
+		}
+	},
+	"grimer": {
+		"alola": {
+			"types": ["poison", "dark"],
+			"abilities": {"a": "poisontouch", "b": "gluttony", "H": "powerofalchemy"}
+		}
+	},
+	"muk": {
+		"alola": {
+			"types": ["poison", "dark"],
+			"abilities": {"a": "poisontouch", "b": "gluttony", "H": "powerofalchemy"}
+		}
+	},
+	"gengar": {
+		"mega": {
+			"megaItem": "gengarite",
+			"abilities": {"a": "shadowtag"},
+			"stats": {"hp":60, "atk":65, "def":80, "speed":130, "satk":170, "sdef":95},
+			"height": 1.4
+		}
+	},
+	"exeggutor": {
+		"alola": {
+			"types": ["grass", "dragon"],
+			"stats": {"hp":95, "atk":105, "def":85, "speed":45, "satk":125, "sdef":75},
+			"abilities": {"a": "frisk"}
+		}
+	},
+	"marowak": {
+		"alola": {
+			"types": ["fire", "ghost"],
+			"stats": {"hp":95, "atk":105, "def":85, "speed":45, "satk":125, "sdef":75},
+			"abilities": {"a": "cursedbody", "b": "lightningrod", "H": "rockhead"}
+		}
+	},
+	"weezing": {
+		"galar": {
+			"types": ["poison", "fairy"],
+			"abilities": {"a": "levitate", "b": "neutralizinggas", "H": "mistysurge"}
+		}
+	},
+	"kangaskhan": {
+		"mega": {
+			"megaItem": "kangaskhanite",
+			"abilities": {"a": "parentalbond"},
+			"stats": {"hp":105, "atk":125, "def":100, "speed":100, "satk":60, "sdef":100},
+			"weight": 100.0
+		}
+	},
+	"mrmime": {
+		"galar": {
+			"types": ["ice", "psychic"],
+			"stats": {"hp":50, "atk":65, "def":65, "speed":100, "satk":90, "sdef":90},
+			"abilities": {"a": "vitalspirit", "b": "screencleaner", "H": "icebody"},
+			"evolutions": [{"species": "mrrime", "method": "level", "level": 42}]
+		}
+	},
+	"pinsir": {
+		"mega": {
+			"megaItem": "pinsirite",
+			"types": ["bug", "flying"],
+			"abilities": {"a": "aerilate"},
+			"stats": {"hp":65, "atk":155, "def":120, "speed":105, "satk":65, "sdef":90},
+			"height": 1.7,
+			"weight": 59.0
+		}
+	},
+	"gyarados": {
+		"mega": {
+			"megaItem": "gyaradosite",
+			"types": ["water", "dark"],
+			"abilities": {"a": "moldbreaker"},
+			"stats": {"hp":95, "atk":155, "def":109, "speed":81, "satk":70, "sdef":130},
+			"weight": 305.0
+		}
+	},
+	"aerodactyl": {
+		"mega": {
+			"megaItem": "aerodactylite",
+			"abilities": {"a": "toughclaws"},
+			"stats": {"hp":80, "atk":135, "def":85, "speed":150, "satk":70, "sdef":95},
+			"height": 2.1,
+			"weight": 79.0
+		}
+	},
+	"articuno": {
+		"galar": {
+			"types": ["psychic", "flying"],
+			"stats": {"hp":90, "atk":85, "def":85, "speed":95, "satk":125, "sdef":100},
+			"effort": {"hp":0, "atk":0, "def":0, "speed":0, "satk":3, "sdef":0},
+			"abilities":{"a": "competitive"},
+			"weight": 50.9,
+			"kind": "Cruel",
+			"pokedex": "Its feather-like blades are composed of psychic energy and can shear through thick iron sheets as if they were paper."
+		}
+	},
+	"zapdos": {
+		"galar": {
+			"types": ["fighting", "flying"],
+			"stats": {"hp":90,"atk":125,"def":90,"speed":100,"satk":85,"sdef":90},
+			"effort": {"hp":0, "atk":3, "def":0, "speed":0, "satk":0, "sdef":0},
+			"abilities": {"a": "defiant"},
+			"weight": 58.2,
+			"kind": "Strong Legs",
+			"pokedex": "One kick from its powerful legs will pulverize a dump truck. Supposedly, this Pokémon runs through the mountains at over 180 mph."
+		}
+	},
+	"moltres": {
+		"galar": {
+			"types": ["dark", "flying"],
+			"stats": {"hp":90, "atk":85, "def":90, "speed":90, "satk":100, "sdef":125},
+			"effort": {"hp":0, "atk":0, "def":0, "speed":0, "satk":0, "sdef":3},
+			"abilities": {"a": "berserk"},
+			"height": 1.7,
+			"weight": 50.9,
+			"kind": "Malevolent",
+			"pokedex": "This Pokemon's sinister,flame-like aura will consume the spirit of any creature it hits. Victims become burned-out shadows of themselves."
+		}
+	},
+	"mewtwo": {
+		"megax": {
+			"megaItem": "mewtwonitex",
+			"types": ["psychic", "fighting"],
+			"abilities": {"a": "steadfast"},
+			"stats": {"hp":106, "atk":190, "def":100, "speed":130, "satk":154, "sdef":100},
+			"height": 2.3,
+			"weight": 127.0
+		},
+		"megay": {
+			"megaItem": "mewtwonitey",
+			"abilities": {"a": "insomnia"},
+			"stats": {"hp":106, "atk":150, "def":70, "speed":140, "satk":194, "sdef":120},
+			"height": 1.5,
+			"weight": 33.0
+		}
+	},
+	"ampharos": {
+		"mega": {
+			"megaItem": "ampharosite",
+			"types": ["electric", "dragon"],
+			"abilities": {"a": "moldbreaker"},
+			"stats": {"hp":90, "atk":95, "def":105, "speed":45, "satk":165, "sdef":110}
+		}
+	},
+	"slowking": {
+		"galar": {
+			"types": ["poison", "psychic"],
+			"abilities": {"a": "curiousmedicine", "b": "owntempo", "H": "regenerator"},
+			"weight": 70.5,
+			"pokedex": "While chanting strange spells, this Pokémon combines its internal toxins with what it’s eaten, creating strange potions."
+		}
+	},
+	"unown": {
+		"b": {}, "c": {}, "d": {}, "e": {}, "f": {}, "g": {}, "h": {}, "i": {}, "j": {},
+		"k": {}, "l": {}, "m": {}, "n": {}, "o": {}, "p": {}, "q": {}, "r": {}, "s": {},
+		"t": {}, "u": {}, "v": {}, "w": {}, "x": {}, "y": {}, "z": {}, "¿": {}, "¡": {}
+	},
+	"steelix": {
+		"mega": {
+			"megaItem": "steelixite",
+			"abilities": {"a": "sandforce"},
+			"stats": {"hp":75, "atk":125, "def":230, "speed":30, "satk":55, "sdef":95},
+			"height": 10.5,
+			"weight": 740.0
+		}
+	},
+	"scizor": {
+		"mega": {
+			"megaItem": "scizorite",
+			"abilities": {"a": "technician"},
+			"stats": {"hp":70, "atk":150, "def":140, "speed":75, "satk":65, "sdef":100},
+			"height": 2.0,
+			"weight": 125.0
+		}
+	},
+	"heracross": {
+		"mega": {
+			"megaItem": "heracronite",
+			"abilities": {"a": "skilllink"},
+			"stats": {"hp":80, "atk":185, "def":115, "speed":75, "satk":40, "sdef":105},
+			"height": 1.7,
+			"weight": 62.5
+		}
+	},
+	"corsola": {
+		"galar": {
+			"types": ["ghost"],
+			"stats": {"hp":60, "atk":55, "def":100, "speed":30, "satk":65, "sdef":100},
+			"abilities": {"a": "weakarmor", "H": "cursedbody"},
+			"evolutions": [{"species": "cursola", "method": "level", "level": 38}]
+		}
+	},
+	"houndoom": {
+		"mega": {
+			"megaItem": "houndoominite",
+			"abilities": {"a": "solarpower"},
+			"stats": {"hp":75, "atk":90, "def":90, "speed":115, "satk":140, "sdef":90},
+			"height": 1.9,
+			"weight": 495.0
+		}
+	},
+	"tyranitar": {
+		"mega": {
+			"megaItem": "tyranitarite",
+			"stats": {"hp":100, "atk":164, "def":150, "speed":71, "satk":95, "sdef":120},
+			"height": 2.5,
+			"weight": 255.0
+		}
+	},
+	"sceptile": {
+		"mega": {
+			"megaItem": "sceptilite",
+			"types": ["grass", "dragon"],
+			"abilities": {"a": "lightningrod"},
+			"stats": {"hp":70, "atk":110, "def":75, "speed":145, "satk":145, "sdef":85},
+			"height": 1.9,
+			"weight": 55.2
+		}
+	},
+	"blaziken": {
+		"mega": {
+			"megaItem": "blazikenite",
+			"abilities": {"a": "speedboost"},
+			"stats": {"hp":80, "atk":160, "def":80, "speed":100, "satk":130, "sdef":80}
+		}
+	},
+	"swampert": {
+		"mega": {
+			"megaItem": "swampertite",
+			"abilities": {"a": "swiftswim"},
+			"stats": {"hp":100, "atk":150, "def":110, "speed":70, "satk":95, "sdef":110},
+			"height": 1.9,
+			"weight": 102.0
+		}
+	},
+	"zigzagoon": {
+		"galar": { "types": ["normal", "dark"] }
+	},
+	"linoone": {
+		"galar": {
+			"types": ["normal", "dark"],
+			"evolutions": [
+				{
+					"species": "linoone",
+					"method": "level",
+					"level": 35,
+					"hour": "night"
+				}
+			]
+		}
+	},
+	"gardevoir": {
+		"mega": {
+			"megaItem": "gardevoirite",
+			"abilities": {"a": "pixilate"},
+			"stats": {"hp":68, "atk":85, "def":65, "speed":100, "satk":165, "sdef":135}
+		}
+	},
+	"sableye": {
+		"mega": {
+			"megaItem": "sablenite",
+			"abilities": {"a": "magicbounce"},
+			"stats": {"hp":50, "atk":85, "def":125, "speed":20, "satk":85, "sdef":115},
+			"weight": 161.0
+		}
+	},
+	"mawile": {
+		"mega": {
+			"megaItem": "mawilite",
+			"abilities": {"a": "hugepower"},
+			"stats": {"hp":50, "atk":105, "def":125, "speed":50, "satk":55, "sdef":95},
+			"height": 1.0,
+			"weight": 23.5
+		}
+	},
+	"aggron": {
+		"mega": {
+			"megaItem": "aggronite",
+			"types": ["steel"],
+			"abilities": {"a": "filter"},
+			"stats": {"hp":70, "atk":140, "def":230, "speed":50, "satk":60, "sdef":80},
+			"height": 2.2,
+			"weight": 395.0
+		}
+	},
+	"medicham": {
+		"mega": {
+			"megaItem": "medichamite",
+			"abilities": {"a": "purepower"},
+			"stats": {"hp":60, "atk":100, "def":85, "speed":100, "satk":80, "sdef":85}
+		}
+	},
+	"manectric": {
+		"mega": {
+			"megaItem": "manectite",
+			"abilities": {"a": "intimidate"},
+			"stats": {"hp":70, "atk":75, "def":80, "speed":135, "satk":135, "sdef":80},
+			"height": 1.8,
+			"weight": 44.0
+		}
+	},
+	"sharpedo": {
+		"mega": {
+			"megaItem": "sharpedonite",
+			"abilities": {"a": "strongjaw"},
+			"stats": {"hp":70, "atk":140, "def":70, "speed":105, "satk":110, "sdef":65},
+			"height": 2.5,
+			"weight": 130.3
+		}
+	},
+	"camerupt": {
+		"mega": {
+			"megaItem": "cameruptite",
+			"abilities": {"a": "sheerforce"},
+			"stats": {"hp":70, "atk":120, "def":100, "speed":20, "satk":145, "sdef":105},
+			"height": 2.5,
+			"weight": 320.5
+		}
+	},
+	"altaria": {
+		"mega": {
+			"megaItem": "altarianite",
+			"types": ["dragon", "fairy"],
+			"abilities": {"a": "pixilate"},
+			"stats": {"hp":75, "atk":110, "def":110, "speed":80, "satk":110, "sdef":105},
+			"height": 1.5
+		}
+	},
+	"castform": {
+		"sunny": {"types": ["fire"]},
+		"rainy": {"types": ["water"]},
+		"snowy": {"types": ["ice"]}
+	},
+	"banette": {
+		"mega": {
+			"megaItem": "banettite",
+			"abilities": {"a": "prankster"},
+			"stats": {"hp":64, "atk":165, "def":75, "speed":75, "satk":93, "sdef":83},
+			"height": 1.2,
+			"weight": 13.0
+		}
+	},
+	"absol": {
+		"mega": {
+			"megaItem": "absolite",
+			"abilities": {"a": "magicbounce"},
+			"stats": {"hp":65, "atk":150, "def":60, "speed":115, "satk":115, "sdef":60},
+			"weight": 49.0
+		}
+	},
+	"glalie": {
+		"mega": {
+			"megaItem": "glalitite",
+			"abilities": {"a": "refrigerate"},
+			"stats": {"hp":80, "atk":120, "def":80, "speed":100, "satk":120, "sdef":80},
+			"height": 2.1,
+			"weight": 350.2
+		}
+	},
+	"salamence": {
+		"mega": {
+			"megaItem": "salamencite",
+			"abilities": {"a": "aerilate"},
+			"stats": {"hp":95, "atk":145, "def":130, "speed":120, "satk":120, "sdef":90},
+			"height": 1.8,
+			"weight": 112.6
+		}
+	},
+	"metagross": {
+		"mega": {
+			"megaItem": "metagrossite",
+			"abilities": {"a": "toughclaws"},
+			"stats": {"hp":80, "atk":145, "def":150, "speed":110, "satk":105, "sdef":110},
+			"height": 2.5,
+			"weight": 942.9
+		}
+	},
+	"latias": {
+		"mega": {
+			"megaItem": "latiasite",
+			"stats": {"hp":80, "atk":100, "def":120, "speed":110, "satk":140, "sdef":150},
+			"height": 1.8,
+			"weight": 52.0
+		}
+	},
+	"latios": {
+		"mega": {
+			"megaItem": "latiosite",
+			"stats": {"hp":80, "atk":130, "def":100, "speed":110, "satk":160, "sdef":120},
+			"height": 2.3,
+			"weight": 70.0
+		}
+	},
+	"kyogre": {
+		"primal": {
+			"abilities": {"a": "primordialsea"},
+			"stats": {"hp":100, "atk":150, "def":90, "speed":90, "satk":180, "sdef":160},
+			"height": 9.8,
+			"weight": 430.0
+		}
+	},
+	"groudon": {
+		"primal": {
+			"types": ["ground","fire"],
+			"abilities": {"a": "desolateland"},
+			"stats": {"hp":100, "atk":180, "def":160, "speed":90, "satk":150, "sdef":90},
+			"height": 5.0,
+			"weight": 999.7
+		}
+	},
+	"rayquaza": {
+		"mega": {
+			"megaMove": "dragonascent",
+			"abilities": {"a": "deltastream"},
+			"stats": {"hp":105, "atk":180, "def":100, "speed":115, "satk":180, "sdef":100},
+			"height": 10.8,
+			"weight": 392.0
+		}
+	},
+	"deoxys": {
+		"attack": {
+			"stats": {"hp":50, "atk":180, "def":20, "speed":150, "satk":180, "sdef":20},
+			"effort": {"hp":0, "atk":2, "def":0, "speed":0, "satk":1, "sdef":0}
+		},
+		"defense": {
+			"stats": {"hp":50, "atk":70, "def":160, "speed":90, "satk":70, "sdef":160},
+			"effort": {"hp":0, "atk":0, "def":2, "speed":0, "satk":0, "sdef":1}
+		},
+		"speed": {
+			"stats": {"hp":50, "atk":95, "def":90, "speed":180, "satk":95, "sdef":90},
+			"effort": {"hp":0, "atk":0, "def":0, "speed":3, "satk":0, "sdef":0}
+		}
+	},
+	"burmy": {
+		"trash": {},
+		"sandy": {}
+	},
+	"wormadam": {
+		"trash": {
+			"types": ["bug", "steel"],
+			"stats": {"hp":60, "atk":69, "def":95, "speed":36, "satk":69, "sdef":95},
+			"effort": {"hp":0, "atk":0, "def":1, "speed":0, "satk":0, "sdef":1}
+		},
+		"sandy": {
+			"types": ["bug", "ground"],
+			"stats": {"hp":60, "atk":79, "def":105, "speed":36, "satk":59, "sdef":85},
+			"effort": {"hp":0, "atk":0, "def":2, "speed":0, "satk":0, "sdef":0}
+		}
+	},
+	"cherrim": {
+		"sunshine": {}
+	},
+	"shellos": {
+		"east": {}
+	},
+	"gastrodon": {
+		"east": {}
+	},
+	"lopunny": {
+		"mega": {
+			"megaItem": "lopunnite",
+			"types": ["normal", "fighting"],
+			"abilities": {"a": "scrappy"},
+			"stats": {"hp":65, "atk":136, "def":94, "speed":135, "satk":54, "sdef":96},
+			"height": 1.3,
+			"weight": 28.3
+		}
+	},
+	"garchomp": {
+		"mega": {
+			"megaItem": "garchompite",
+			"abilities": {"a": "sandforce"},
+			"stats": {"hp":108, "atk":170, "def":115, "speed":92, "satk":120, "sdef":95}
+		}
+	},
+	"lucario": {
+		"mega": {
+			"megaItem": "lucarionite",
+			"abilities": {"a": "adaptability"},
+			"stats": {"hp":70, "atk":145, "def":88, "speed":112, "satk":140, "sdef":70},
+			"height": 1.3,
+			"weight": 57.5
+		}
+	},
+	"abomasnow": {
+		"mega": {
+			"megaItem": "abomasite",
+			"abilities": {"a": "snowwarning"},
+			"stats": {"hp":90, "atk":132, "def":105, "speed":30, "satk":132, "sdef":105},
+			"height": 2.7,
+			"weight": 185.0
+		}
+	},
+	"gallade": {
+		"mega": {
+			"megaItem": "galladite",
+			"abilities": {"a": "innerfocus"},
+			"stats": {"hp":68, "atk":165, "def":95, "speed":110, "satk":65, "sdef":115},
+			"weight": 56.4
+		}
+	},
+	"rotom": {
+		"heat":  {"types": ["electric", "fire"],   "stats": {"hp":50, "atk":65, "def":107, "speed":86, "satk":105, "sdef":107}},
+		"wash":  {"types": ["electric", "water"],  "stats": {"hp":50, "atk":65, "def":107, "speed":86, "satk":105, "sdef":107}},
+		"frost": {"types": ["electric", "ice"],	"stats": {"hp":50, "atk":65, "def":107, "speed":86, "satk":105, "sdef":107}},
+		"fan":   {"types": ["electric", "flying"], "stats": {"hp":50, "atk":65, "def":107, "speed":86, "satk":105, "sdef":107}},
+		"mow":   {"types": ["electric", "grass"],  "stats": {"hp":50, "atk":65, "def":107, "speed":86, "satk":105, "sdef":107}}
+	},
+	"giratina": {
+		"origin": {
+			"abilities": {"a": "levitate"},
+			"height": 6.9,
+			"weight": 650.0,
+			"stats": {"hp":150, "atk":120, "def":100, "speed":90, "satk":120, "sdef":100}
+		}
+	},
+	"shaymin": {
+		"sky": {
+			"types": ["grass", "flying"],
+			"abilities": {"a": "serenegrace"},
+			"height": 0.4,
+			"weight": 5.2,
+			"stats": {"hp":100, "atk":103, "def":75, "speed":127, "satk":120, "sdef":75},
+			"effort": {"hp":0, "atk":0, "def":0, "speed":3, "satk":0, "sdef":0}
+		}
+	},
+	"arceus": {
+		"fighting": {"types": ["fighting"]},
+		"flying":   {"types": ["flying"]},
+		"poison":   {"types": ["poison"]},
+		"ground":   {"types": ["ground"]},
+		"rock":	 {"types": ["rock"]},
+		"bug":	  {"types": ["bug"]},
+		"ghost":	{"types": ["ghost"]},
+		"steel":	{"types": ["steel"]},
+		"fire":	 {"types": ["fire"]},
+		"water":	{"types": ["water"]},
+		"grass":	{"types": ["grass"]},
+		"electric": {"types": ["electric"]},
+		"psychic":  {"types": ["psychic"]},
+		"ice":	  {"types": ["ice"]},
+		"dragon":   {"types": ["dragon"]},
+		"dark":	 {"types": ["dark"]},
+		"fairy":	{"types": ["fairy"]}
+	},
+	"audino": {
+		"mega": {
+			"megaItem": "audinite",
+			"types": ["normal", "fairy"],
+			"abilities": {"a": "healer"},
+			"stats": {"hp":103, "atk":60, "def":126, "speed":50, "satk":80, "sdef":126},
+			"height": 1.5,
+			"weight": 32.0
+		}
+	},
+	"basculin": {
+		"blue": {
+			"abilities": {"a": "rockhead", "b": "adaptability", "H": "moldbreaker"},
+			"holdItems": {"uncommon": "deepseascale"}
+		}
+	},
+	"darumaka": {
+		"galar": {
+			"types": ["ice"],
+			"evolutions": [{"species": "darmanitan", "method": "item", "item": "icestone"}]
+		}
+	},
+	"darmanitan": {
+		"galar": {
+			"types": ["ice"],
+			"abilities": {"a": "gorillatactics", "H": "zenmode"}
+		},
+		"zen": {
+			"types": ["fire", "psychic"],
+			"stats": {"hp":105, "atk":30, "def":105, "speed":55, "satk":140, "sdef":105}
+		},
+		"galarzen": {
+			"types": ["ice", "fire"],
+			"stats": {"hp":105, "atk":160, "def":55, "speed":135, "satk":30, "sdef":55},
+			"abilities": {"a": "gorillatactics", "H": "zenmode"}
+		}
+	},
+	"yamask": {
+		"galar": {
+			"types": ["ground", "ghost"],
+			"abilities": {"a": "wanderingspirit"},
+			"stats": {"hp":38, "atk":55, "def":85, "speed":30, "satk":30, "sdef":65},
+			"evolutions": [{"species": "runerigus", "method": "level", "happiness": 220}]
+		}
+	},
+	"deerling": {
+		"summer": {},
+		"autumn": {},
+		"winter": {}
+	},
+	"sawsbuck": {
+		"summer": {},
+		"autumn": {},
+		"winter": {}
+	},
+	"stunfisk": {
+		"galar": {
+			"types": ["ground", "steel"],
+			"stats": {"hp":109, "atk":81, "def":99, "speed":32, "satk":66, "sdef":84},
+			"abilities": {"a": "mimicry"}
+		}
+	},
+	"tornadus": {
+		"therian": {
+			"stats": {"hp":79, "atk":100, "def":80, "speed":121, "satk":110, "sdef":90},
+			"effort": {"hp":0, "atk":0, "def":0, "speed":3, "satk":0, "sdef":0},
+			"height": 1.4,
+			"abilities": {"a": "regenerator"}
+		}
+	},
+	"thundurus": {
+		"therian": {
+			"stats": {"hp":79, "atk":105, "def":70, "speed":101, "satk":145, "sdef":80},
+			"height": 3.0,
+			"abilities": {"a": "voltabsorb"}
+		}
+	},
+	"landorus": {
+		"therian": {
+			"stats": {"hp":89, "atk":145, "def":90, "speed":71, "satk":105, "sdef":80},
+			"height": 1.3,
+			"abilities": {"a": "intimidate"}
+		}
+	},
+	"kyurem": {
+		"white": {
+			"stats": {"hp":125, "atk":120, "def":90, "speed":95, "satk":170, "sdef":100},
+			"effort": {"hp":0, "atk":0, "def":0, "speed":0, "satk":3, "sdef":0},
+			"height": 3.6,
+			"abilities": {"a": "turboblaze"}
+		},
+		"black": {
+			"stats": {"hp":125, "atk":170, "def":100, "speed":95, "satk":120, "sdef":90},
+			"effort": {"hp":0, "atk":3, "def":0, "speed":0, "satk":0, "sdef":0},
+			"height": 3.3,
+			"abilities": {"a": "teravolt"}
+		}
+	},
+	"keldeo": {
+		"resolute": {}
+	},
+	"meloetta": {
+		"pirouette": {
+			"types": ["normal", "fighting"],
+			"stats": {"hp":100, "atk":128, "def":90, "speed":128, "satk":77, "sdef":77},
+			"effort": {"hp":0, "atk":1, "def":1, "speed":1, "satk":0, "sdef":0}
+		}
+	},
+	"genesect": {
+		"shock": {},
+		"burn": {},
+		"chill": {},
+		"douse": {}
+	},
+	"greninja": {
+		"ash": { "stats": {"hp":72, "atk":145, "def":67, "speed":132, "satk":153, "sdef":71} }
+	},
+	"flabebe": {
+		"blue": {}, "orange": {}, "white": {}, "yellow": {}
+	},
+	"floette": {
+		"blue": {}, "orange": {}, "white": {}, "yellow": {},
+		"eternal": {
+			"stats": {"hp":74, "atk":65, "def":67, "speed":92, "satk":125, "sdef":128},
+			"evolutions": []
+		}
+	},
+	"florges": {
+		"blue": {}, "orange": {}, "white": {}, "yellow": {}
+	},
+	"meowstic": {
+		"f": { "abilities": {"a": "keeneye", "b": "infiltrator", "H": "competitive"} }
+	},
+	"aegislash": {
+		"blade": { "stats": {"hp":60, "atk":150, "def":50, "speed":60, "satk":150, "sdef":50} }
+	},
+	"pumpkaboo": {
+		"large": {"height": 0.5,"weight": 7.5,"stats": {"hp":54,"atk":66,"def":70,"speed":46,"satk":44,"sdef":55}},
+		"small": {"height": 0.4,"weight": 5.0,"stats":{"hp":49,"atk":66,"def":70,"speed":51,"satk":44,"sdef":55}},
+		"super": {"holdItems": {"common": "miracleseed","uncommon": "miracleseed","rare": "miracleseed"}}
+	},
+	"gourgeist": {
+		"large": {"height": 1.1,"weight": 14.0,"stats": {"hp":75,"atk":95,"def":122,"speed":69,"satk":58,"sdef":75}},
+		"small": {"height": 0.9,"weight": 12.5,"stats": {"hp":65,"atk":90,"def":122,"speed":84,"satk":58,"sdef":75}},
+		"super": {}
+	},
+	"xerneas": {
+		"active": {}
+	},
+	"zygarde": {
+		"10":	   { "stats": {"hp": 54,"atk":100,"def": 71,"speed":115,"satk":61,"sdef":85} },
+		"complete": { "stats": {"hp":216,"atk":100,"def":121,"speed": 85,"satk":91,"sdef":95} }
+	},
+	"diancie": {
+		"mega": {
+			"megaItem": "diancite",
+			"abilities": {"a": "magicbounce"},
+			"stats": {"hp":50, "atk":160, "def":110, "speed":110, "satk":160, "sdef":110},
+			"height": 1.1,
+			"weight": 27.8
+		}
+	},
+	"hoopa": {
+		"unbound": {
+			"types": ["psychic", "dark"],
+			"kind": "Djinn",
+			"stats": {"hp":80, "atk":160, "def":60, "speed":80, "satk":170, "sdef":130},
+			"height": 6.5,
+			"weight": 490.0
+		}
+	},
+	"oricorio": {
+		"pau":	{"types": ["psychic", "flying"],  "pokedex": "Forma que toma Oricorio al libar néctar rosa. Con su suave contoneo de caderas, derrite el corazón de sus rivales."},
+		"pompom": {"types": ["electric", "flying"], "pokedex": "Forma que toma Oricorio al libar néctar amarillo. Electrifica el corazón de sus adversarios con su alegre y cálida danza."},
+		"sensu":  {"types": ["ghost", "flying"],	"pokedex": "Forma que toma Oricorio al libar néctar violeta. Con su refinada y elegante danza, puede enviar al otro mundo a sus enemigos en cuerpo y alma."}
+	},
+	"lycanroc": {
+		"midnight": {
+			"stats": {"hp":85, "atk":115, "def":75, "speed":82, "satk":55, "sdef":75},
+			"abilities": {"a": "keeneye", "b": "vitalspirit", "H": "noguard"},
+			"pokedex": "Si no está de acuerdo con una orden, no duda en ignorarla. No le importa salir herido con tal de derrotar al oponente."
+		},
+		"crepuscular": {
+			"stats": {"hp":75, "atk":117, "def":65, "speed":110, "satk":55, "sdef":65},
+			"abilities": {"a": "toughclaws"},
+			"pokedex": "Lycanroc evoluciona a esta forma especial cuando se expone al sol del atardecer. Parece pacifico, pero posee un gran espiritu combativo."
+		}
+	},
+	"wishiwashi": {
+		"school": {
+			"height": 8.2,
+			"weight": 78.6,
+			"stats": {"hp":45, "atk":140, "def":130, "speed":30, "satk":140, "sdef":135}
+		}
+	},
+	"silvally": {
+		"fighting": {"types": ["fighting"]},
+		"flying":   {"types": ["flying"]},
+		"poison":   {"types": ["poison"]},
+		"ground":   {"types": ["ground"]},
+		"rock":	 {"types": ["rock"]},
+		"bug":	  {"types": ["bug"]},
+		"ghost":	{"types": ["ghost"]},
+		"steel":	{"types": ["steel"]},
+		"fire":	 {"types": ["fire"]},
+		"water":	{"types": ["water"]},
+		"grass":	{"types": ["grass"]},
+		"electric": {"types": ["electric"]},
+		"psychic":  {"types": ["psychic"]},
+		"ice":	  {"types": ["ice"]},
+		"dragon":   {"types": ["dragon"]},
+		"dark":	 {"types": ["dark"]},
+		"fairy":	{"types": ["fairy"]}
+	},
+	"minior": {
+		"blue":   {"stats": {"hp":60, "atk":100, "def":60, "speed":120, "satk":100, "sdef":60}},
+		"green":  {"stats": {"hp":60, "atk":100, "def":60, "speed":120, "satk":100, "sdef":60}},
+		"indigo": {"stats": {"hp":60, "atk":100, "def":60, "speed":120, "satk":100, "sdef":60}},
+		"orange": {"stats": {"hp":60, "atk":100, "def":60, "speed":120, "satk":100, "sdef":60}},
+		"purple": {"stats": {"hp":60, "atk":100, "def":60, "speed":120, "satk":100, "sdef":60}},
+		"red":    {"stats": {"hp":60, "atk":100, "def":60, "speed":120, "satk":100, "sdef":60}},
+		"yellow": {"stats": {"hp":60, "atk":100, "def":60, "speed":120, "satk":100, "sdef":60}}
+	},
+	"mimikyu": {
+		"busted": {}
+	},
+	"necrozma": {
+		"mane": {
+			"types": ["psychic", "steel"],
+			"stats": {"hp":97, "atk":157, "def":127, "speed":77, "satk":113, "sdef":109}
+		},
+		"wings": {
+			"types": ["psychic", "ghost"],
+			"stats": {"hp":97, "atk":113, "def":109, "speed":77, "satk":157, "sdef":127}
+		},
+		"ultra": {
+			"types": ["psychic", "dragon"],
+			"abilities": {"a": "neuroforce"},
+			"stats": {"hp":97, "atk":167, "def":97, "speed":129, "satk":167, "sdef":97}
+		}
+	},
+	"magearna": {
+		"original": {}
+	},
+	"toxtricity": {
+		"lowkey": { "abilities": {"a": "punkrock", "b": "minus", "H": "technician"} }
+	},
+	"eiscue": {
+		"noice": {"stats": {"hp":75, "atk":80, "def":70, "speed":130, "satk":65, "sdef":50}}
+	},
+	"indeedee": {
+		"f": { "abilities": {"a": "owntempo", "b": "synchronize", "H": "psychicsurge"} }
+	},
+	"morpeko": {
+		"hangry": {}
+	},
+	"zacian": {
+		"crown": {
+			"types": ["fairy", "steel"],
+			"stats": {"hp":92, "atk":170, "def":115, "speed":148, "satk":80, "sdef":115}
+		}
+	},
+	"zamazenta": {
+		"crown": {
+			"types": ["fighting", "steel"],
+			"stats": {"hp":92, "atk":130, "def":145, "speed":128, "satk":80, "sdef":145}
+		}
+	},
+	"eternatus": {
+		"eternamax": {
+			"stats": {"hp":255, "atk":115, "def":250, "speed":130, "satk":125, "sdef":250},
+			"height": 100.0
+		}
+	},
+	"urshifu": {
+		"rapidstrike": { "types": ["fighting", "water"] }
+	},
+	"zarude": {
+		"dada": {}
+	},
+	"calyrex": {
+		"ice": {
+			"types": ["psychic", "ice"],
+			"stats": {"hp":100, "atk":165, "def":150, "speed":50, "satk":85, "sdef":130},
+			"effort": {"hp":0, "atk":3, "def":0, "speed":0, "satk":0, "sdef":0},
+			"abilities": {"a": "asoneglastrier"},
+			"kind": "High King",
+			"pokedex": "It's said that this Pokémon once moved a large forest—and all the Pokémon living there—to a new location overnight."
+		},
+		"shadow": {
+			"types": ["psychic", "ghost"],
+			"stats": {"hp":100, "atk":85, "def":80, "speed":150, "satk":165, "sdef":100},
+			"effort": {"hp":0, "atk":0, "def":0, "speed":0, "satk":3, "sdef":0},
+			"abilities": {"a": "asonespectrier"},
+			"kind": "High King",
+			"pokedex": "Legend says that by using its power to see all events from past to future, this Pokémon saved the creatures of a forest from a meteorite strike."
+		}
+	}
+}

@@ -1,0 +1,24 @@
+newmtl yamasaba01
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd yamasaba01.png
+map_d yamasaba01.png
+newmtl sabaku01
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd sabaku01.png
+map_d sabaku01.png
+newmtl sabaku_el
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd sabaku_el.png
+map_d sabaku_el.png
+newmtl sabaku_e01
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd sabaku_e01.png
+map_d sabaku_e01.png

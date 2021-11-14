@@ -1,0 +1,90 @@
+newmtl d5_reiki
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d5_reiki.png
+map_d d5_reiki.png
+newmtl d5hasira1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d5hasira1.png
+map_d d5hasira1.png
+newmtl d5hasira1_2
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d5hasira1_2.png
+map_d d5hasira1_2.png
+newmtl d5hasira1_3
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d5hasira1_3.png
+map_d d5hasira1_3.png
+newmtl d5irara01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d5irara01.png
+map_d d5irara01.png
+newmtl d5kaidan1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d5kaidan1.png
+map_d d5kaidan1.png
+newmtl d5kaidan1_2
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d5kaidan1_2.png
+map_d d5kaidan1_2.png
+newmtl d5paipu1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d5paipu1.png
+map_d d5paipu1.png
+newmtl d5_dyuka01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d5_dyuka01.png
+map_d d5_dyuka01.png
+newmtl d5_diceyk4
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d5_diceyk4.png
+map_d d5_diceyk4.png
+newmtl d5_diceyk2
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d5_diceyk2.png
+map_d d5_diceyk2.png
+newmtl d5_diceyk3
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d5_diceyk3.png
+map_d d5_diceyk3.png
+newmtl d5_diceyk
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d5_diceyk.png
+map_d d5_diceyk.png
+newmtl d5_kabe_2
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d5_kabe_2.png
+map_d d5_kabe_2.png
+newmtl d5_kabe
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d5_kabe.png
+map_d d5_kabe.png

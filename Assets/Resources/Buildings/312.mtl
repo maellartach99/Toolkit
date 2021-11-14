@@ -1,0 +1,24 @@
+newmtl h_kage_1
+Ka 0.8157 0.8157 0.8157
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h_kage_1.png
+map_d h_kage_1.png
+newmtl d22_farm01_2_1
+Ka 0.8471 0.8471 0.8471
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d22_farm01_2_1.png
+map_d d22_farm01_2_1.png
+newmtl d22_farm01_1_1
+Ka 0.8784 0.8784 0.8784
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d22_farm01_1_1.png
+map_d d22_farm01_1_1.png
+newmtl d22_farm01_3_1
+Ka 0.9098 0.9098 0.9098
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d22_farm01_3_1.png
+map_d d22_farm01_3_1.png

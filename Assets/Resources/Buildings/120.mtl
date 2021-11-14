@@ -1,0 +1,100 @@
+newmtl lambert46
+Ka 0.5961 0.5961 0.5961
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd lambert46.png
+map_d lambert46.png
+newmtl lambert44
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd lambert44.png
+map_d lambert44.png
+newmtl lambert47
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd lambert47.png
+map_d lambert47.png
+newmtl lambert45
+Ka 0.4392 0.4392 0.4392
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd lambert45.png
+map_d lambert45.png
+newmtl lambert35
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd lambert35.png
+map_d lambert35.png
+newmtl lambert36
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd lambert36.png
+map_d lambert36.png
+newmtl lambert34
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd lambert34.png
+map_d lambert34.png
+newmtl lambert33
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd lambert33.png
+map_d lambert33.png
+newmtl lambert32
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd lambert32.png
+map_d lambert32.png
+newmtl lambert29
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd lambert29.png
+map_d lambert29.png
+newmtl lambert28
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd lambert28.png
+map_d lambert28.png
+newmtl lambert40
+Ka 0.0000 0.0000 0.0000
+Kd 0.3137 0.3137 0.3137
+d 1.0000
+newmtl lambert30
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd lambert30.png
+map_d lambert30.png
+newmtl lambert31
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd lambert31.png
+map_d lambert31.png
+newmtl lambert38
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd lambert38.png
+map_d lambert38.png
+newmtl lambert39
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd lambert39.png
+map_d lambert39.png
+newmtl lambert37
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd lambert37.png
+map_d lambert37.png

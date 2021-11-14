@@ -1,0 +1,84 @@
+newmtl out56_gai01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out56_gai01.png
+map_d out56_gai01.png
+newmtl sea_mizu1_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd sea_mizu1_1.png
+map_d sea_mizu1_1.png
+newmtl sea_mizu1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 0.5161
+map_Kd sea_mizu1.png
+map_d sea_mizu1.png
+newmtl c3_sanbashi2
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_sanbashi2.png
+map_d c3_sanbashi2.png
+newmtl out56_dekki2
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out56_dekki2.png
+map_d out56_dekki2.png
+newmtl out56_dekki1
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out56_dekki1.png
+map_d out56_dekki1.png
+newmtl c3_sanbashi
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_sanbashi.png
+map_d c3_sanbashi.png
+newmtl out56_saku01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out56_saku01.png
+map_d out56_saku01.png
+newmtl kage_out
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kage_out.png
+map_d kage_out.png
+newmtl out56_poal01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out56_poal01.png
+map_d out56_poal01.png
+newmtl out56_poal02
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out56_poal02.png
+map_d out56_poal02.png
+newmtl kage_out_3
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kage_out_3.png
+map_d kage_out_3.png
+newmtl out09_hikari
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out09_hikari.png
+map_d out09_hikari.png
+newmtl out56_hata_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out56_hata_1.png
+map_d out56_hata_1.png

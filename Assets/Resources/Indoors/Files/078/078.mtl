@@ -1,0 +1,6 @@
+newmtl art02a_lm1
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd art02a_lm1.png
+map_d art02a_lm1.png

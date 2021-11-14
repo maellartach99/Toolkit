@@ -1,0 +1,18 @@
+newmtl gate_4_lm1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd gate_4_lm1.png
+map_d gate_4_lm1.png
+newmtl h_kage_lm1
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h_kage_lm1.png
+map_d h_kage_lm1.png
+newmtl gate_1_lm1
+Ka 0.8784 0.8784 0.8784
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd gate_1_lm1.png
+map_d gate_1_lm1.png

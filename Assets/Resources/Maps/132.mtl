@@ -1,0 +1,90 @@
+newmtl h02_hasi4
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h02_hasi4.png
+map_d h02_hasi4.png
+newmtl h02_hasi3_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h02_hasi3_1.png
+map_d h02_hasi3_1.png
+newmtl h02_hasi2
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h02_hasi2.png
+map_d h02_hasi2.png
+newmtl h02_hasi5_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h02_hasi5_1.png
+map_d h02_hasi5_1.png
+newmtl h02_hasi5
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h02_hasi5.png
+map_d h02_hasi5.png
+newmtl h02_kage
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h02_kage.png
+map_d h02_kage.png
+newmtl h02_hasi1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h02_hasi1.png
+map_d h02_hasi1.png
+newmtl h02_hasi3
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h02_hasi3.png
+map_d h02_hasi3.png
+newmtl h02_mizo
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h02_mizo.png
+map_d h02_mizo.png
+newmtl h02_light
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h02_light.png
+map_d h02_light.png
+newmtl h02_hasi7
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h02_hasi7.png
+map_d h02_hasi7.png
+newmtl h02_hasi6
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h02_hasi6.png
+map_d h02_hasi6.png
+newmtl h02_hasi1_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h02_hasi1_1.png
+map_d h02_hasi1_1.png
+newmtl sea_mizu1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd sea_mizu1.png
+map_d sea_mizu1.png
+newmtl sea_mizu1_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 0.5161
+map_Kd sea_mizu1_1.png
+map_d sea_mizu1_1.png

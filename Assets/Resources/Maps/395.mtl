@@ -1,0 +1,18 @@
+newmtl out57_futa
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out57_futa.png
+map_d out57_futa.png
+newmtl out57_gake1_0
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out57_gake1_0.png
+map_d out57_gake1_0.png
+newmtl out57_gake01a
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out57_gake01a.png
+map_d out57_gake01a.png

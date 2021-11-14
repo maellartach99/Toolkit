@@ -1,0 +1,19 @@
+# Created with Spiky's DS Map Editor 1.8.1.0
+mtllib 251.mtl
+o polygon0
+g polygon0
+usemtl kawa_soko_lm1
+v -4 -1.375 -4
+v -4 -1.375 4
+v 4 -1.375 4
+v 4 -1.375 -4
+vt -8 7
+vt -8 -9
+vt 8 -9
+vt 8 7
+vn 0 0.998046875 0
+vn 0 0.998046875 0
+vn 0 0.998046875 0
+vn 0 0.998046875 0
+f 1/1/1 2/2/2 3/3/3
+f 3/3/3 4/4/4 1/1/1

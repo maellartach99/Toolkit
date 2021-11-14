@@ -1,0 +1,18 @@
+newmtl in05_m_kage
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in05_m_kage.png
+map_d in05_m_kage.png
+newmtl in05_sun_m
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in05_sun_m.png
+map_d in05_sun_m.png
+newmtl in05_m_hi
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in05_m_hi.png
+map_d in05_m_hi.png

@@ -1,0 +1,24 @@
+newmtl qsand_b1
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd qsand_b1.png
+map_d qsand_b1.png
+newmtl qsand_b2
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd qsand_b2.png
+map_d qsand_b2.png
+newmtl qsand_b3
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd qsand_b3.png
+map_d qsand_b3.png
+newmtl sand_base
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd sand_base.png
+map_d sand_base.png

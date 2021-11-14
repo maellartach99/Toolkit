@@ -1,0 +1,30 @@
+newmtl d6hikari_01_4
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d6hikari_01_4.png
+map_d d6hikari_01_4.png
+newmtl d6hikari_01_3
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d6hikari_01_3.png
+map_d d6hikari_01_3.png
+newmtl d6_deniwa01_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d6_deniwa01_1.png
+map_d d6_deniwa01_1.png
+newmtl d6_deniwa03_1
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d6_deniwa03_1.png
+map_d d6_deniwa03_1.png
+newmtl d6_deniwa02_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d6_deniwa02_1.png
+map_d d6_deniwa02_1.png

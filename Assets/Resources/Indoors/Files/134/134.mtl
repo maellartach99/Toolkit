@@ -1,0 +1,42 @@
+newmtl in22_pal01
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in22_pal01.png
+map_d in22_pal01.png
+newmtl h_kage
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h_kage.png
+map_d h_kage.png
+newmtl moni_1
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd moni_1.png
+map_d moni_1.png
+newmtl in50_yumi02
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in50_yumi02.png
+map_d in50_yumi02.png
+newmtl in50_yumi01
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in50_yumi01.png
+map_d in50_yumi01.png
+newmtl in22_pal02
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in22_pal02.png
+map_d in22_pal02.png
+newmtl moni_8
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd moni_8.png
+map_d moni_8.png

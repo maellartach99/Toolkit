@@ -1,0 +1,42 @@
+newmtl bell_c
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd bell_c.png
+map_d bell_c.png
+newmtl bell_f
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd bell_f.png
+map_d bell_f.png
+newmtl bell_d
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd bell_d.png
+map_d bell_d.png
+newmtl bell_e
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd bell_e.png
+map_d bell_e.png
+newmtl kage
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 0.1935
+map_Kd kage.png
+map_d kage.png
+newmtl bell_a
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd bell_a.png
+map_d bell_a.png
+newmtl bell_b
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd bell_b.png
+map_d bell_b.png

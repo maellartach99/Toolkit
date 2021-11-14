@@ -1,0 +1,48 @@
+newmtl d4_ruins_03_lm1
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d4_ruins_03_lm1.png
+map_d d4_ruins_03_lm1.png
+newmtl d4_ruins_07_lm2
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d4_ruins_07_lm2.png
+map_d d4_ruins_07_lm2.png
+newmtl d4_ruins_05_lm1
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d4_ruins_05_lm1.png
+map_d d4_ruins_05_lm1.png
+newmtl d4_ruins_10_lm1
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d4_ruins_10_lm1.png
+map_d d4_ruins_10_lm1.png
+newmtl d4_ruins_09_lm1
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d4_ruins_09_lm1.png
+map_d d4_ruins_09_lm1.png
+newmtl d4_ruins_01b_lm4
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d4_ruins_01b_lm4.png
+map_d d4_ruins_01b_lm4.png
+newmtl d4_ruins_08_lm2
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d4_ruins_08_lm2.png
+map_d d4_ruins_08_lm2.png
+newmtl d4_ruins_04_lm3
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d4_ruins_04_lm3.png
+map_d d4_ruins_04_lm3.png

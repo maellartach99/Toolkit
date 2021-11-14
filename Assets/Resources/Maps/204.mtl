@@ -1,0 +1,30 @@
+newmtl grass01ax_lm1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd grass01ax_lm1.png
+map_d grass01ax_lm1.png
+newmtl ki03dx_lm1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd ki03dx_lm1.png
+map_d ki03dx_lm1.png
+newmtl ki03ax_lm1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd ki03ax_lm1.png
+map_d ki03ax_lm1.png
+newmtl ki02c_lm1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd ki02c_lm1.png
+map_d ki02c_lm1.png
+newmtl ki03bx_lm1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd ki03bx_lm1.png
+map_d ki03bx_lm1.png

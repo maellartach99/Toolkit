@@ -1,0 +1,133 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Inicio.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Sureste.unity
+    guid: fd7a5405194eb4941947a941cc9d694b
+  - enabled: 1
+    path: "Assets/Scenes/Solar de los Sue\xF1os.unity"
+    guid: a08dfb57b70458543ac056baf7138022
+  - enabled: 1
+    path: Assets/Scenes/Cueva Manantial.unity
+    guid: 4594bebc1c4e4334d86981cb3a2405a0
+  - enabled: 1
+    path: Assets/Scenes/Bosque Azulejo.unity
+    guid: 63d522b570171014cbfd7b0248af95bc
+  - enabled: 1
+    path: Assets/Scenes/Ciudad Porcelana.unity
+    guid: 45d9ddcd321872440ab3919968247d75
+  - enabled: 1
+    path: Assets/Scenes/Cloacas Porcelana.unity
+    guid: 22a6bcb845211f645a6183f5630438cb
+  - enabled: 1
+    path: Assets/Scenes/Sur.unity
+    guid: 23e5caca9c9a103439fb2888e32a926f
+  - enabled: 1
+    path: Assets/Scenes/Zona Desierto.unity
+    guid: 0459b2cdcce7c4c48932d2a883c351a7
+  - enabled: 1
+    path: Assets/Scenes/Castillo Ancestral.unity
+    guid: 316ca6f74703bf34781ec731da28dacf
+  - enabled: 1
+    path: Assets/Scenes/Parque de Atracciones.unity
+    guid: 7a288a229b0edd246a6f543ced523b24
+  - enabled: 1
+    path: Assets/Scenes/Bosque Perdidos.unity
+    guid: 0cd77ebebe0f2af40b2d2be0e7058b7d
+  - enabled: 1
+    path: Assets/Scenes/Puente Fayenza.unity
+    guid: bb029c941a2d31a43ac4e2374a8c02e1
+  - enabled: 1
+    path: Assets/Scenes/Puente Progreso.unity
+    guid: 92e7462b3be32624597c3c809cd01ecd
+  - enabled: 1
+    path: Assets/Scenes/Puente Villa.unity
+    guid: ca638016317b90849aea871455cf873c
+  - enabled: 1
+    path: Assets/Scenes/Puente Axial.unity
+    guid: 0a42c0fcfcac5be4092137dad0f9f43b
+  - enabled: 1
+    path: Assets/Scenes/Oeste.unity
+    guid: df03fb6626d7dd64b85a13a0032733eb
+  - enabled: 1
+    path: Assets/Scenes/Cueva Loza.unity
+    guid: 9a65d2497dca26948904a8a1645d5eb7
+  - enabled: 1
+    path: Assets/Scenes/Cueva Electrorroca.unity
+    guid: 4f3127d266661c7409cf2a3eacd7a7ec
+  - enabled: 1
+    path: Assets/Scenes/Reserva Natural.unity
+    guid: 5e52e05b332dd1b43b1b61f1e03c0752
+  - enabled: 1
+    path: Assets/Scenes/Monte Tuerca.unity
+    guid: 0d7145f512192b54b90461984e8833ea
+  - enabled: 1
+    path: Assets/Scenes/Torre Duodraco.unity
+    guid: 9b6d68eb30f5e93459d6cc2a440f1105
+  - enabled: 1
+    path: Assets/Scenes/Pantano Teja.unity
+    guid: 994fb342555b6c549b3340f07ff3f4cd
+  - enabled: 1
+    path: Assets/Scenes/Norte.unity
+    guid: 56df116478863164d99cf4fff97b6dce
+  - enabled: 1
+    path: Assets/Scenes/Este.unity
+    guid: 29e2122cc888c014ebcc920d74a26d4c
+  - enabled: 1
+    path: Assets/Scenes/Santuario Abundancia.unity
+    guid: 4ad01ed845805c24a81d8548d7efd826
+  - enabled: 1
+    path: "Assets/Scenes/Monta\xF1a Reversia.unity"
+    guid: 27f0702a73e7e1249beb3b271f73d36a
+  - enabled: 1
+    path: Assets/Scenes/Acuatunel.unity
+    guid: eab6a208f7b4ab545b6b44955bb68ff6
+  - enabled: 1
+    path: Assets/Scenes/Gruta Marina.unity
+    guid: 0bc44299d4ed1d946a3a8e2e8bffe5f0
+  - enabled: 1
+    path: Assets/Scenes/Boquete Gigante.unity
+    guid: af56657b5be1b444881446b2ce2c3ff7
+  - enabled: 1
+    path: Assets/Scenes/Calle Victoria.unity
+    guid: c58ae02c9467a61488e360e9bdb02cd6
+  - enabled: 1
+    path: Assets/Scenes/Liga Pokemon.unity
+    guid: 37eeb5ca8051e0a4cb318a36b5c6f36b
+  - enabled: 1
+    path: Assets/Scenes/Suroeste.unity
+    guid: 0b0444849c9f88947ad9ee9bb2a501b9
+  - enabled: 1
+    path: Assets/Scenes/Rancho Ocre.unity
+    guid: 2631823d6dcfa67498dbc437b6a7a56d
+  - enabled: 1
+    path: Assets/Scenes/Arboreda Promesa.unity
+    guid: 98f47868a947dde4bb767f477fc8eea5
+  - enabled: 1
+    path: Assets/Scenes/Poligono Hormigon.unity
+    guid: a1a787ca717420f45881943518638d30
+  - enabled: 1
+    path: Assets/Scenes/Pokewood.unity
+    guid: 013a9fee322627140b85661f4a91662d
+  - enabled: 1
+    path: Assets/Scenes/Zona Nexo.unity
+    guid: 6ce16aacb008a8048b6d8f1a75585584
+  - enabled: 1
+    path: Assets/Scenes/Isla Libertad.unity
+    guid: 018eb553f01af9c4294000b52e09629f
+  - enabled: 1
+    path: Assets/Scenes/Pueblo Biscuit.unity
+    guid: db75e6e15b0a5054d891ad8e1950ea2c
+  - enabled: 1
+    path: Assets/Scenes/Claro Oculto.unity
+    guid: b95507e8327114e4490173a9c88ddf05
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: dc5f33213546d6f4bb42dc18207043b1, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 9e9c87f02ae1a1c4598caaaa87bd639a, type: 2}

@@ -1,0 +1,66 @@
+newmtl d0sizuku
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d0sizuku.png
+map_d d0sizuku.png
+newmtl d0yuka_op2
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d0yuka_op2.png
+map_d d0yuka_op2.png
+newmtl d0yuka_op1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d0yuka_op1.png
+map_d d0yuka_op1.png
+newmtl d0gake_002b
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d0gake_002b.png
+map_d d0gake_002b.png
+newmtl d0gake_001b
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d0gake_001b.png
+map_d d0gake_001b.png
+newmtl d0gake_heri
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d0gake_heri.png
+map_d d0gake_heri.png
+newmtl d0gake_001
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d0gake_001.png
+map_d d0gake_001.png
+newmtl d0yuka_002
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d0yuka_002.png
+map_d d0yuka_002.png
+newmtl d0yuka_001
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d0yuka_001.png
+map_d d0yuka_001.png
+newmtl d0ana_002b
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d0ana_002b.png
+map_d d0ana_002b.png
+newmtl d0ana_001b
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d0ana_001b.png
+map_d d0ana_001b.png

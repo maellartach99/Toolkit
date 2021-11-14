@@ -1,0 +1,174 @@
+newmtl in81_hinoko_2
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 0.2903
+map_Kd in81_hinoko_2.png
+map_d in81_hinoko_2.png
+newmtl in81_yuka02
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in81_yuka02.png
+map_d in81_yuka02.png
+newmtl in81_heri
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in81_heri.png
+map_d in81_heri.png
+newmtl in81_heri3
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in81_heri3.png
+map_d in81_heri3.png
+newmtl in81_ana02
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in81_ana02.png
+map_d in81_ana02.png
+newmtl in81_ana01
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in81_ana01.png
+map_d in81_ana01.png
+newmtl in81_yuka01
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in81_yuka01.png
+map_d in81_yuka01.png
+newmtl in81_magu00
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in81_magu00.png
+map_d in81_magu00.png
+newmtl in81_kaidan
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in81_kaidan.png
+map_d in81_kaidan.png
+newmtl in81_gake_c
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in81_gake_c.png
+map_d in81_gake_c.png
+newmtl in81_gake_a
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in81_gake_a.png
+map_d in81_gake_a.png
+newmtl in81_mizugiwa
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in81_mizugiwa.png
+map_d in81_mizugiwa.png
+newmtl in81_mizuga2
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in81_mizuga2.png
+map_d in81_mizuga2.png
+newmtl in81_mizuga1
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in81_mizuga1.png
+map_d in81_mizuga1.png
+newmtl in81_magu02
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in81_magu02.png
+map_d in81_magu02.png
+newmtl in81_heri2
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in81_heri2.png
+map_d in81_heri2.png
+newmtl in81_gake2_a
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in81_gake2_a.png
+map_d in81_gake2_a.png
+newmtl in81_gake_e
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in81_gake_e.png
+map_d in81_gake_e.png
+newmtl in81_gake_b
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in81_gake_b.png
+map_d in81_gake_b.png
+newmtl in81_yuka03
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in81_yuka03.png
+map_d in81_yuka03.png
+newmtl in81_magu04
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in81_magu04.png
+map_d in81_magu04.png
+newmtl in81_magu03
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in81_magu03.png
+map_d in81_magu03.png
+newmtl in81_drock1
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in81_drock1.png
+map_d in81_drock1.png
+newmtl in81_drock2
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in81_drock2.png
+map_d in81_drock2.png
+newmtl in81_gake_d
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in81_gake_d.png
+map_d in81_gake_d.png
+newmtl in81_gake2_d
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in81_gake2_d.png
+map_d in81_gake2_d.png
+newmtl in81_gake_g
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in81_gake_g.png
+map_d in81_gake_g.png
+newmtl in81_hinoko
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in81_hinoko.png
+map_d in81_hinoko.png
+newmtl in81_hinoko_3
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 0.6129
+map_Kd in81_hinoko_3.png
+map_d in81_hinoko_3.png

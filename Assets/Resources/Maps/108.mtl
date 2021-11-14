@@ -1,0 +1,198 @@
+newmtl c3_center1
+Ka 0.5961 0.5961 0.5961
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_center1.png
+map_d c3_center1.png
+newmtl c3_road
+Ka 0.5961 0.5961 0.5961
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_road.png
+map_d c3_road.png
+newmtl c3_yuka1
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_yuka1.png
+map_d c3_yuka1.png
+newmtl buill2_004
+Ka 0.5961 0.5961 0.5961
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd buill2_004.png
+map_d buill2_004.png
+newmtl buill02_005
+Ka 0.5961 0.5961 0.5961
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd buill02_005.png
+map_d buill02_005.png
+newmtl buill02_002
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd buill02_002.png
+map_d buill02_002.png
+newmtl buill2_003
+Ka 0.5961 0.5961 0.5961
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd buill2_003.png
+map_d buill2_003.png
+newmtl h_kage
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h_kage.png
+map_d h_kage.png
+newmtl c3_buil01_a
+Ka 0.5961 0.5961 0.5961
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_buil01_a.png
+map_d c3_buil01_a.png
+newmtl c3_buil03_a
+Ka 0.5961 0.5961 0.5961
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_buil03_a.png
+map_d c3_buil03_a.png
+newmtl c3_buil5
+Ka 0.5961 0.5961 0.5961
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_buil5.png
+map_d c3_buil5.png
+newmtl c3_test
+Ka 0.5961 0.5961 0.5961
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_test.png
+map_d c3_test.png
+newmtl c3test_block
+Ka 0.5961 0.5961 0.5961
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3test_block.png
+map_d c3test_block.png
+newmtl c3_road2
+Ka 0.5961 0.5961 0.5961
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_road2.png
+map_d c3_road2.png
+newmtl c3bay_yuka1
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3bay_yuka1.png
+map_d c3bay_yuka1.png
+newmtl c3_line
+Ka 0.5961 0.5961 0.5961
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_line.png
+map_d c3_line.png
+newmtl c3_buil3
+Ka 0.5961 0.5961 0.5961
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_buil3.png
+map_d c3_buil3.png
+newmtl h_mado
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h_mado.png
+map_d h_mado.png
+newmtl c3_buil07_a
+Ka 0.5961 0.5961 0.5961
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_buil07_a.png
+map_d c3_buil07_a.png
+newmtl c3_tree3
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_tree3.png
+map_d c3_tree3.png
+newmtl c3_ki_kage
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_ki_kage.png
+map_d c3_ki_kage.png
+newmtl c3_buil04_a
+Ka 0.5961 0.5961 0.5961
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_buil04_a.png
+map_d c3_buil04_a.png
+newmtl kanbanlogo
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kanbanlogo.png
+map_d kanbanlogo.png
+newmtl sign02b
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd sign02b.png
+map_d sign02b.png
+newmtl light
+Ka 0.2510 0.2510 0.2510
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd light.png
+map_d light.png
+newmtl jihan_01
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd jihan_01.png
+map_d jihan_01.png
+newmtl jihan_01_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd jihan_01_1.png
+map_d jihan_01_1.png
+newmtl bench
+Ka 0.5961 0.5961 0.5961
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd bench.png
+map_d bench.png
+newmtl sign02a
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd sign02a.png
+map_d sign02a.png
+newmtl gra_w
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd gra_w.png
+map_d gra_w.png
+newmtl c3_green
+Ka 0.5961 0.5961 0.5961
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_green.png
+map_d c3_green.png
+newmtl c3_plant2
+Ka 0.5961 0.5961 0.5961
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_plant2.png
+map_d c3_plant2.png
+newmtl siba01
+Ka 0.5961 0.5961 0.5961
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd siba01.png
+map_d siba01.png

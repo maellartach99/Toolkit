@@ -1,0 +1,96 @@
+newmtl h06awa02
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h06awa02.png
+map_d h06awa02.png
+newmtl h06ashi01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h06ashi01.png
+map_d h06ashi01.png
+newmtl h06michi01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h06michi01.png
+map_d h06michi01.png
+newmtl h06tutu01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h06tutu01.png
+map_d h06tutu01.png
+newmtl h06tutu02
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h06tutu02.png
+map_d h06tutu02.png
+newmtl h06nami02
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h06nami02.png
+map_d h06nami02.png
+newmtl h06hasira
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h06hasira.png
+map_d h06hasira.png
+newmtl h06light01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h06light01.png
+map_d h06light01.png
+newmtl h06rock01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h06rock01.png
+map_d h06rock01.png
+newmtl h06sango2
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h06sango2.png
+map_d h06sango2.png
+newmtl h06soko01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h06soko01.png
+map_d h06soko01.png
+newmtl h06gake01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h06gake01.png
+map_d h06gake01.png
+newmtl h06nami01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h06nami01.png
+map_d h06nami01.png
+newmtl h06gake02
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h06gake02.png
+map_d h06gake02.png
+newmtl h06tutu01h
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h06tutu01h.png
+map_d h06tutu01h.png
+newmtl h06awa01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h06awa01.png
+map_d h06awa01.png

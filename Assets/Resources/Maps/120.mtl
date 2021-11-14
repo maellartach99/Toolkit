@@ -1,0 +1,234 @@
+newmtl warp01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd warp01.png
+map_d warp01.png
+newmtl pk_l_mado2
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd pk_l_mado2.png
+map_d pk_l_mado2.png
+newmtl pk_l_le
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd pk_l_le.png
+map_d pk_l_le.png
+newmtl pk_l_yane
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd pk_l_yane.png
+map_d pk_l_yane.png
+newmtl pk_l_yane2
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd pk_l_yane2.png
+map_d pk_l_yane2.png
+newmtl out38_t09
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out38_t09.png
+map_d out38_t09.png
+newmtl pk_l_iwa2
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd pk_l_iwa2.png
+map_d pk_l_iwa2.png
+newmtl pk_l_iwa6
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd pk_l_iwa6.png
+map_d pk_l_iwa6.png
+newmtl pk_l_yane3
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd pk_l_yane3.png
+map_d pk_l_yane3.png
+newmtl pk_l_mado
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd pk_l_mado.png
+map_d pk_l_mado.png
+newmtl pk_l_kabe
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd pk_l_kabe.png
+map_d pk_l_kabe.png
+newmtl out32_u_kaida
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out32_u_kaida.png
+map_d out32_u_kaida.png
+newmtl h_kage
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h_kage.png
+map_d h_kage.png
+newmtl out38_t06
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out38_t06.png
+map_d out38_t06.png
+newmtl out38_t03
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out38_t03.png
+map_d out38_t03.png
+newmtl gake01a
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd gake01a.png
+map_d gake01a.png
+newmtl out32_gake
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out32_gake.png
+map_d out32_gake.png
+newmtl gake1_3
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd gake1_3.png
+map_d gake1_3.png
+newmtl in38_hasira
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in38_hasira.png
+map_d in38_hasira.png
+newmtl pk_l_kaeg
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd pk_l_kaeg.png
+map_d pk_l_kaeg.png
+newmtl pk_saku
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd pk_saku.png
+map_d pk_saku.png
+newmtl pk_l_tou2
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd pk_l_tou2.png
+map_d pk_l_tou2.png
+newmtl out32_u_waku
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out32_u_waku.png
+map_d out32_u_waku.png
+newmtl out38_003
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out38_003.png
+map_d out38_003.png
+newmtl slope3
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd slope3.png
+map_d slope3.png
+newmtl pk_l_mado5
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd pk_l_mado5.png
+map_d pk_l_mado5.png
+newmtl out38_t05
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out38_t05.png
+map_d out38_t05.png
+newmtl pl_ele_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd pl_ele_1.png
+map_d pl_ele_1.png
+newmtl pl_ele_dai
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd pl_ele_dai.png
+map_d pl_ele_dai.png
+newmtl pl_colum_b
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd pl_colum_b.png
+map_d pl_colum_b.png
+newmtl pl_ele_3
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd pl_ele_3.png
+map_d pl_ele_3.png
+newmtl out32_u_k10
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out32_u_k10.png
+map_d out32_u_k10.png
+newmtl pk_l_2
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd pk_l_2.png
+map_d pk_l_2.png
+newmtl slope2
+Ka 0.5020 0.5020 0.5020
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd slope2.png
+map_d slope2.png
+newmtl pk_l_ring
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd pk_l_ring.png
+map_d pk_l_ring.png
+newmtl out32_sanbo
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out32_sanbo.png
+map_d out32_sanbo.png
+newmtl pk_l_mado_5
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd pk_l_mado_5.png
+map_d pk_l_mado_5.png
+newmtl pk_l_yane9
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd pk_l_yane9.png
+map_d pk_l_yane9.png
+newmtl out32_han1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out32_han1.png
+map_d out32_han1.png

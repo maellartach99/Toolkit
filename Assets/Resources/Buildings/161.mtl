@@ -1,0 +1,42 @@
+newmtl bgate01_t01
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd bgate01_t01.png
+map_d bgate01_t01.png
+newmtl h_kage
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h_kage.png
+map_d h_kage.png
+newmtl bgate01_t02
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd bgate01_t02.png
+map_d bgate01_t02.png
+newmtl bgate01_t03
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd bgate01_t03.png
+map_d bgate01_t03.png
+newmtl bgate01_t04
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd bgate01_t04.png
+map_d bgate01_t04.png
+newmtl bgate01_t01_1
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd bgate01_t01_1.png
+map_d bgate01_t01_1.png
+newmtl bgate01_t05
+Ka 0.8784 0.8784 0.8784
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd bgate01_t05.png
+map_d bgate01_t05.png

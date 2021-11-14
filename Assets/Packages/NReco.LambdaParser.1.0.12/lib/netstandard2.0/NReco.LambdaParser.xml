@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NReco.LambdaParser</name>
+    </assembly>
+    <members>
+        <member name="T:NReco.InvokeMethod">
+            <summary>
+            Invoke object's method that is most compatible with provided arguments
+            </summary>
+        </member>
+        <member name="T:NReco.Linq.ILambdaValue">
+            <summary>
+            Represents a value in expressions produced by <see cref="T:NReco.Linq.LambdaParser"/>.
+            </summary>
+        </member>
+        <member name="T:NReco.Linq.IValueComparer">
+            <summary>
+            Exposes a method that compares two objects.
+            </summary>
+            <remarks>
+            Unlike <see cref="T:System.Collections.IComparer"/> this interface allows to return null as comparison result 
+            for case when values cannot be compared without throwing an exception.
+            </remarks>
+        </member>
+        <member name="M:NReco.Linq.IValueComparer.Compare(System.Object,System.Object)">
+            <summary>
+            Compares two objects and returns a value indicating whether one is less than, equal to, or greater than the other.
+            </summary>
+            <returns>A signed integer that indicates the relative values of x and y or null if values cannot be compared.</returns>
+        </member>
+        <member name="T:NReco.Linq.LambdaParameterWrapper">
+            <summary>
+            This is wrapper that makes runtime types conversions real.
+            </summary>
+        </member>
+        <member name="T:NReco.Linq.LambdaParser">
+            <summary>
+            Runtime parser for string expressions (formulas, method calls etc) into LINQ expression tree or lambda delegate.
+            </summary>
+        </member>
+        <member name="P:NReco.Linq.LambdaParser.UseCache">
+            <summary>
+            Gets or sets whether LambdaParser should use the cache for parsed expressions.
+            </summary>
+        </member>
+        <member name="P:NReco.Linq.LambdaParser.AllowSingleEqualSign">
+            <summary>
+            Allows usage of "=" for equality comparison (in addition to "=="). False by default.
+            </summary>
+        </member>
+        <member name="P:NReco.Linq.LambdaParser.Comparer">
+            <summary>
+            Gets value comparer used by the parser for comparison operators.
+            </summary>
+        </member>
+        <member name="T:NReco.Linq.LambdaParserException">
+            <summary>
+            The exception that is thrown when lambda expression parse error occurs
+            </summary>
+        </member>
+        <member name="P:NReco.Linq.LambdaParserException.Expression">
+            <summary>
+            Lambda expression
+            </summary>
+        </member>
+        <member name="P:NReco.Linq.LambdaParserException.Index">
+            <summary>
+            Parser position where syntax error occurs 
+            </summary>
+        </member>
+        <member name="T:NReco.Linq.ValueComparer">
+            <summary>
+            Generic "by value" comparer that uses IComparable and can compare arrays/lists.
+            </summary>
+        </member>
+        <member name="P:NReco.Linq.ValueComparer.FormatProvider">
+            <summary>
+            Gets or sets format provider used for Convert.ChangeType (InvariantCulture by default).
+            </summary>
+        </member>
+        <member name="P:NReco.Linq.ValueComparer.SuppressErrors">
+            <summary>
+            Determines how ValueComparer handles comparison exceptions (by default is false: convert exceptions are thrown).
+            </summary>
+        </member>
+        <member name="P:NReco.Linq.ValueComparer.NullComparison">
+            <summary>
+            Determines how ValueComparer handles comparison with nulls (default is "MinValue" mode).
+            </summary>
+        </member>
+        <member name="F:NReco.Linq.ValueComparer.NullComparisonMode.MinValue">
+            <summary>
+            Null compared as "MinValue" (affects less-than and greater-than comparisons). 
+            </summary>
+            <remarks>This is default behaviour expected for <see cref="T:System.Collections.IComparer"/> and described in MSDN.</remarks>
+        </member>
+        <member name="F:NReco.Linq.ValueComparer.NullComparisonMode.Sql">
+            <summary>
+            Null cannot be compared to any other value (even if it is null). This is SQL-like nulls handling.
+            </summary>
+        </member>
+    </members>
+</doc>

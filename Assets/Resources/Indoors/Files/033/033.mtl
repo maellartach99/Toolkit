@@ -1,0 +1,12 @@
+newmtl desk01
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd desk01.png
+map_d desk01.png
+newmtl h_kage
+Ka 0.0000 0.0000 0.0000
+Kd 0.0000 0.0000 0.0000
+d 1.0000
+map_Kd h_kage.png
+map_d h_kage.png

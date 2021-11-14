@@ -1,0 +1,60 @@
+newmtl out38_t04w_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out38_t04w_1.png
+map_d out38_t04w_1.png
+newmtl out32_han1_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out32_han1_1.png
+map_d out32_han1_1.png
+newmtl pk_l_iwa3_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd pk_l_iwa3_1.png
+map_d pk_l_iwa3_1.png
+newmtl pk_l_iwa5_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd pk_l_iwa5_1.png
+map_d pk_l_iwa5_1.png
+newmtl out32_u_kaida_3
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out32_u_kaida_3.png
+map_d out32_u_kaida_3.png
+newmtl out38_t04_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out38_t04_1.png
+map_d out38_t04_1.png
+newmtl out32_u_k6_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out32_u_k6_1.png
+map_d out32_u_k6_1.png
+newmtl out32_u_k7_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out32_u_k7_1.png
+map_d out32_u_k7_1.png
+newmtl out38_t04k_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out38_t04k_1.png
+map_d out38_t04k_1.png
+newmtl out38_t04kw_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out38_t04kw_1.png
+map_d out38_t04kw_1.png

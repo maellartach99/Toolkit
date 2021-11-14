@@ -1,0 +1,18 @@
+newmtl mado
+Ka 0.7843 0.7843 0.7843
+Kd 0.9725 0.9725 0.9725
+d 1.0000
+map_Kd mado.png
+map_d mado.png
+newmtl c13_ship_04_1
+Ka 0.7843 0.7843 0.7843
+Kd 0.9725 0.9725 0.9725
+d 1.0000
+map_Kd c13_ship_04_1.png
+map_d c13_ship_04_1.png
+newmtl h
+Ka 0.7843 0.7843 0.7843
+Kd 0.9725 0.9725 0.9725
+d 1.0000
+map_Kd h.png
+map_d h.png

@@ -1,0 +1,6 @@
+newmtl lambert2
+Ka 0.5020 0.5020 0.5020
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd lambert2.png
+map_d lambert2.png

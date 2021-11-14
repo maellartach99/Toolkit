@@ -1,0 +1,18 @@
+newmtl d4satir_u_lm2
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d4satir_u_lm2.png
+map_d d4satir_u_lm2.png
+newmtl d4satir_u2_lm2
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d4satir_u2_lm2.png
+map_d d4satir_u2_lm2.png
+newmtl d4satir_u3_lm2
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d4satir_u3_lm2.png
+map_d d4satir_u3_lm2.png

@@ -1,0 +1,24 @@
+newmtl _in40_kage
+Ka 0.0000 0.0000 0.0000
+Kd 0.0000 0.0000 0.0000
+d 1.0000
+map_Kd _in40_kage.png
+map_d _in40_kage.png
+newmtl light_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd light_1.png
+map_d light_1.png
+newmtl c3_ramp_1
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_ramp_1.png
+map_d c3_ramp_1.png
+newmtl white_gra
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd white_gra.png
+map_d white_gra.png

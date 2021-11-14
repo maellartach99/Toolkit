@@ -1,0 +1,30 @@
+newmtl kageblock
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd kageblock.png
+map_d kageblock.png
+newmtl d4ruinsuna3
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d4ruinsuna3.png
+map_d d4ruinsuna3.png
+newmtl d4ruinsuna4
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d4ruinsuna4.png
+map_d d4ruinsuna4.png
+newmtl d4block2
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d4block2.png
+map_d d4block2.png
+newmtl d4block3
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d4block3.png
+map_d d4block3.png

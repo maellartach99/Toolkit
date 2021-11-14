@@ -1,0 +1,6 @@
+newmtl rock01_lm1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd rock01_lm1.png
+map_d rock01_lm1.png

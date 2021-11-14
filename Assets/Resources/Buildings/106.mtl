@@ -1,0 +1,18 @@
+newmtl c01thicket_c_lm1
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c01thicket_c_lm1.png
+map_d c01thicket_c_lm1.png
+newmtl c01thicket_d_lm1
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c01thicket_d_lm1.png
+map_d c01thicket_d_lm1.png
+newmtl lambert7
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd lambert7.png
+map_d lambert7.png

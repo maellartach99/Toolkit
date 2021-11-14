@@ -1,0 +1,18 @@
+newmtl d5_conte01a_lm2
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d5_conte01a_lm2.png
+map_d d5_conte01a_lm2.png
+newmtl d5_conte01b_lm2
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d5_conte01b_lm2.png
+map_d d5_conte01b_lm2.png
+newmtl h_kage_lm3
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h_kage_lm3.png
+map_d h_kage_lm3.png

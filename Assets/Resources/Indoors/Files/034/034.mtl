@@ -1,0 +1,24 @@
+newmtl meka2_lm1
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd meka2_lm1.png
+map_d meka2_lm1.png
+newmtl in02_kage_lm1
+Ka 0.3765 0.3765 0.3765
+Kd 0.7843 0.7843 0.7843
+d 0.2903
+map_Kd in02_kage_lm1.png
+map_d in02_kage_lm1.png
+newmtl lambert2
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd lambert2.png
+map_d lambert2.png
+newmtl lambert3
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd lambert3.png
+map_d lambert3.png

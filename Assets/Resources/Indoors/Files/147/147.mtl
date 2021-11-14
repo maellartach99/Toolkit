@@ -1,0 +1,12 @@
+newmtl c03_gym15
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c03_gym15.png
+map_d c03_gym15.png
+newmtl c03_gym01
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c03_gym01.png
+map_d c03_gym01.png

@@ -1,0 +1,18 @@
+newmtl p01
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd p01.png
+map_d p01.png
+newmtl shadow2
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd shadow2.png
+map_d shadow2.png
+newmtl p02
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd p02.png
+map_d p02.png

@@ -1,0 +1,42 @@
+newmtl c5gate4
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c5gate4.png
+map_d c5gate4.png
+newmtl c5gate_a1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c5gate_a1.png
+map_d c5gate_a1.png
+newmtl c5gate3
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c5gate3.png
+map_d c5gate3.png
+newmtl h_kage
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h_kage.png
+map_d h_kage.png
+newmtl c5gate1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c5gate1.png
+map_d c5gate1.png
+newmtl c5gate_a2
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c5gate_a2.png
+map_d c5gate_a2.png
+newmtl c5gate2
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c5gate2.png
+map_d c5gate2.png

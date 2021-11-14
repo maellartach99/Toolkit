@@ -1,0 +1,60 @@
+newmtl tt10_tire
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd tt10_tire.png
+map_d tt10_tire.png
+newmtl tt10_body
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd tt10_body.png
+map_d tt10_body.png
+newmtl tt10_win
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd tt10_win.png
+map_d tt10_win.png
+newmtl tt10_door
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd tt10_door.png
+map_d tt10_door.png
+newmtl tt10_side
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd tt10_side.png
+map_d tt10_side.png
+newmtl tt10_win01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd tt10_win01.png
+map_d tt10_win01.png
+newmtl tt10_down01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd tt10_down01.png
+map_d tt10_down01.png
+newmtl tt10_front
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd tt10_front.png
+map_d tt10_front.png
+newmtl tt10_top
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd tt10_top.png
+map_d tt10_top.png
+newmtl h_kage
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h_kage.png
+map_d h_kage.png

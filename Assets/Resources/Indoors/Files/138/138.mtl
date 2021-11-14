@@ -1,0 +1,24 @@
+newmtl pc_meka01_1
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd pc_meka01_1.png
+map_d pc_meka01_1.png
+newmtl pc_kage_1
+Ka 0.3765 0.3765 0.3765
+Kd 0.7843 0.7843 0.7843
+d 0.2903
+map_Kd pc_kage_1.png
+map_d pc_kage_1.png
+newmtl pc_meka02_1
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd pc_meka02_1.png
+map_d pc_meka02_1.png
+newmtl pc_meka03_1
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd pc_meka03_1.png
+map_d pc_meka03_1.png

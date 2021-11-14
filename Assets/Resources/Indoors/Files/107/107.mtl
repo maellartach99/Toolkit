@@ -1,0 +1,30 @@
+newmtl warp
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 0.8065
+map_Kd warp.png
+map_d warp.png
+newmtl m2
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 0.6129
+map_Kd m2.png
+map_d m2.png
+newmtl m3
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 0.3871
+map_Kd m3.png
+map_d m3.png
+newmtl m4
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 0.1935
+map_Kd m4.png
+map_d m4.png
+newmtl warp01
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd warp01.png
+map_d warp01.png

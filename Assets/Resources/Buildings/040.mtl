@@ -1,0 +1,24 @@
+newmtl e
+Ka 0.7843 0.7843 0.7843
+Kd 0.9725 0.9725 0.9725
+d 1.0000
+map_Kd e.png
+map_d e.png
+newmtl s
+Ka 0.9725 0.9725 0.9725
+Kd 0.9725 0.9725 0.9725
+d 1.0000
+map_Kd s.png
+map_d s.png
+newmtl p
+Ka 0.7843 0.7843 0.7843
+Kd 0.9725 0.9725 0.9725
+d 1.0000
+map_Kd p.png
+map_d p.png
+newmtl a
+Ka 0.7843 0.7843 0.7843
+Kd 0.9725 0.9725 0.9725
+d 1.0000
+map_Kd a.png
+map_d a.png

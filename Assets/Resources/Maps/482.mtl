@@ -1,0 +1,48 @@
+newmtl ga_s1_0
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd ga_s1_0.png
+map_d ga_s1_0.png
+newmtl sabaku01
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd sabaku01.png
+map_d sabaku01.png
+newmtl sabaku_e01
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd sabaku_e01.png
+map_d sabaku_e01.png
+newmtl sabaku_el
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd sabaku_el.png
+map_d sabaku_el.png
+newmtl yamasaba01
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd yamasaba01.png
+map_d yamasaba01.png
+newmtl ga_s_futa
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd ga_s_futa.png
+map_d ga_s_futa.png
+newmtl ga_s01a
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd ga_s01a.png
+map_d ga_s01a.png
+newmtl yamaga_s01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd yamaga_s01.png
+map_d yamaga_s01.png

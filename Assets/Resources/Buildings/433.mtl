@@ -1,0 +1,18 @@
+newmtl c15_fount_2
+Ka 0.9725 0.9725 0.9725
+Kd 0.9725 0.9725 0.9725
+d 1.0000
+map_Kd c15_fount_2.png
+map_d c15_fount_2.png
+newmtl c15_fount_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.9725 0.9725 0.9725
+d 1.0000
+map_Kd c15_fount_1.png
+map_d c15_fount_1.png
+newmtl c15_fount_3
+Ka 0.9725 0.9725 0.9725
+Kd 0.9725 0.9725 0.9725
+d 1.0000
+map_Kd c15_fount_3.png
+map_d c15_fount_3.png

@@ -1,0 +1,30 @@
+newmtl d2grass01ax
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d2grass01ax.png
+map_d d2grass01ax.png
+newmtl ki00c2
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd ki00c2.png
+map_d ki00c2.png
+newmtl ki00b2
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd ki00b2.png
+map_d ki00b2.png
+newmtl ki00d2
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd ki00d2.png
+map_d ki00d2.png
+newmtl ki00a2
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd ki00a2.png
+map_d ki00a2.png

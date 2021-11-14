@@ -1,0 +1,54 @@
+newmtl lambert23
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd lambert23.png
+map_d lambert23.png
+newmtl c3_gymbuil4_1
+Ka 0.8157 0.8157 0.8157
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_gymbuil4_1.png
+map_d c3_gymbuil4_1.png
+newmtl c3_gymbuil7_1
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_gymbuil7_1.png
+map_d c3_gymbuil7_1.png
+newmtl c3_gymbuil6_1
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_gymbuil6_1.png
+map_d c3_gymbuil6_1.png
+newmtl c3_gymbuil3_1
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_gymbuil3_1.png
+map_d c3_gymbuil3_1.png
+newmtl c3_gymbuil10_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_gymbuil10_1.png
+map_d c3_gymbuil10_1.png
+newmtl c3_gymbuil2_1
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c3_gymbuil2_1.png
+map_d c3_gymbuil2_1.png
+newmtl rst3
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd rst3.png
+map_d rst3.png
+newmtl h_kage
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h_kage.png
+map_d h_kage.png

@@ -1,0 +1,12 @@
+newmtl ike01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 0.4516
+map_Kd ike01.png
+map_d ike01.png
+newmtl out29_soko01
+Ka 0.3765 0.3765 0.3765
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out29_soko01.png
+map_d out29_soko01.png

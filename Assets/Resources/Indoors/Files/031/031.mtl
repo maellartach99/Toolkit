@@ -1,0 +1,30 @@
+newmtl in40_kage_1
+Ka 0.0000 0.0000 0.0000
+Kd 0.0000 0.0000 0.0000
+d 1.0000
+map_Kd in40_kage_1.png
+map_d in40_kage_1.png
+newmtl pc_desk02_1
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd pc_desk02_1.png
+map_d pc_desk02_1.png
+newmtl pcdesk02_pc_1
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd pcdesk02_pc_1.png
+map_d pcdesk02_pc_1.png
+newmtl desk_book02_1
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd desk_book02_1.png
+map_d desk_book02_1.png
+newmtl desk_book01_1
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd desk_book01_1.png
+map_d desk_book01_1.png

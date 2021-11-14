@@ -1,0 +1,46 @@
+newmtl lambert1
+Ka 0.0000 0.0000 0.0000
+Kd 0.3765 0.3765 0.3765
+d 1.0000
+newmtl h_kage
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h_kage.png
+map_d h_kage.png
+newmtl c12_b_01_ento
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c12_b_01_ento.png
+map_d c12_b_01_ento.png
+newmtl c12_b_01_kabe
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c12_b_01_kabe.png
+map_d c12_b_01_kabe.png
+newmtl c12_b_01_bera
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c12_b_01_bera.png
+map_d c12_b_01_bera.png
+newmtl c12_b_01_tes
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c12_b_01_tes.png
+map_d c12_b_01_tes.png
+newmtl c12_b_01_yane
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c12_b_01_yane.png
+map_d c12_b_01_yane.png
+newmtl h_mado
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h_mado.png
+map_d h_mado.png

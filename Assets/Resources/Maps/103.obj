@@ -1,0 +1,19 @@
+# Created with Spiky's DS Map Editor 1.8.1.0
+mtllib 103.mtl
+o polygon0
+g polygon0
+usemtl grass01ax_lm1
+v -4 0 4
+v 4 0 4
+v 4 0 -4
+v -4 0 -4
+vt -4 -5
+vt 4 -5
+vt 4 3
+vt -4 3
+vn 0 0.998046875 0
+vn 0 0.998046875 0
+vn 0 0.998046875 0
+vn 0 0.998046875 0
+f 1/1/1 2/2/2 3/3/3
+f 3/3/3 4/4/4 1/1/1

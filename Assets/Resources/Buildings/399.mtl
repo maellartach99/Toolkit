@@ -1,0 +1,36 @@
+newmtl d23_enlight1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d23_enlight1.png
+map_d d23_enlight1.png
+newmtl d23_en01
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d23_en01.png
+map_d d23_en01.png
+newmtl h_kage
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h_kage.png
+map_d h_kage.png
+newmtl d23en_kemu1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d23en_kemu1.png
+map_d d23en_kemu1.png
+newmtl d23_en02
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d23_en02.png
+map_d d23_en02.png
+newmtl d23_sss1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d23_sss1.png
+map_d d23_sss1.png

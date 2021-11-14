@@ -1,0 +1,18 @@
+newmtl h_mado
+Ka 0.5961 0.5961 0.5961
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h_mado.png
+map_d h_mado.png
+newmtl c14_h2_kabe2
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c14_h2_kabe2.png
+map_d c14_h2_kabe2.png
+newmtl c14_h2_yane1
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c14_h2_yane1.png
+map_d c14_h2_yane1.png

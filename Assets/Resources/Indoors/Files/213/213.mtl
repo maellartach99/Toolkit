@@ -1,0 +1,42 @@
+newmtl p_gun00sz
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd p_gun00sz.png
+map_d p_gun00sz.png
+newmtl p_gun04z
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd p_gun04z.png
+map_d p_gun04z.png
+newmtl p_gun01
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd p_gun01.png
+map_d p_gun01.png
+newmtl p_gun02z
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd p_gun02z.png
+map_d p_gun02z.png
+newmtl p_gun03b
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd p_gun03b.png
+map_d p_gun03b.png
+newmtl p_gun03az
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd p_gun03az.png
+map_d p_gun03az.png
+newmtl p_gun03cz
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd p_gun03cz.png
+map_d p_gun03cz.png

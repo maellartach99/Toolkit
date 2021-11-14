@@ -1,0 +1,84 @@
+newmtl n_2_1
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd n_2_1.png
+map_d n_2_1.png
+newmtl n_bridge_2
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd n_bridge_2.png
+map_d n_bridge_2.png
+newmtl out32_bridge2
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out32_bridge2.png
+map_d out32_bridge2.png
+newmtl black_1
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd black_1.png
+map_d black_1.png
+newmtl n_3b_1
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd n_3b_1.png
+map_d n_3b_1.png
+newmtl n_4_1
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd n_4_1.png
+map_d n_4_1.png
+newmtl n_5_1
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd n_5_1.png
+map_d n_5_1.png
+newmtl n_1b_1
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd n_1b_1.png
+map_d n_1b_1.png
+newmtl gake_futa_1
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd gake_futa_1.png
+map_d gake_futa_1.png
+newmtl out21_gake1_1
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out21_gake1_1.png
+map_d out21_gake1_1.png
+newmtl out21_gake3_1
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out21_gake3_1.png
+map_d out21_gake3_1.png
+newmtl out21_20_1
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out21_20_1.png
+map_d out21_20_1.png
+newmtl out21_17_1
+Ka 0.2824 0.2824 0.2824
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd out21_17_1.png
+map_d out21_17_1.png
+newmtl pasted__h_kage_1
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 0.2903
+map_Kd pasted__h_kage_1.png
+map_d pasted__h_kage_1.png

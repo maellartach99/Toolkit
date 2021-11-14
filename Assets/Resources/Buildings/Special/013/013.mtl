@@ -1,0 +1,54 @@
+newmtl lambert15
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd lambert15.png
+map_d lambert15.png
+newmtl lambert14
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd lambert14.png
+map_d lambert14.png
+newmtl yane1
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd yane1.png
+map_d yane1.png
+newmtl lambert13
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd lambert13.png
+map_d lambert13.png
+newmtl souko
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd souko.png
+map_d souko.png
+newmtl lambert13
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd lambert13.png
+map_d lambert13.png
+newmtl lambert13
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd lambert13.png
+map_d lambert13.png
+newmtl lambert13
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd lambert13.png
+map_d lambert13.png
+newmtl lambert13
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd lambert13.png
+map_d lambert13.png

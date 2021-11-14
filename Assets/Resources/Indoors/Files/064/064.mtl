@@ -1,0 +1,12 @@
+newmtl d5dekaice01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d5dekaice01.png
+map_d d5dekaice01.png
+newmtl d5dekakage01
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd d5dekakage01.png
+map_d d5dekakage01.png

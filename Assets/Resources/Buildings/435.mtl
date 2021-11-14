@@ -1,0 +1,30 @@
+newmtl c15_wood_6
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c15_wood_6.png
+map_d c15_wood_6.png
+newmtl c15_wood_4
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c15_wood_4.png
+map_d c15_wood_4.png
+newmtl c15_wood_3
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c15_wood_3.png
+map_d c15_wood_3.png
+newmtl c15_wood_2
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c15_wood_2.png
+map_d c15_wood_2.png
+newmtl c15_wood_1
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c15_wood_1.png
+map_d c15_wood_1.png

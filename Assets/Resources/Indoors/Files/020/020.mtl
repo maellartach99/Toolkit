@@ -1,0 +1,12 @@
+newmtl _lambert5
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd _lambert5.png
+map_d _lambert5.png
+newmtl in40_kage1
+Ka 0.0000 0.0000 0.0000
+Kd 0.0000 0.0000 0.0000
+d 1.0000
+map_Kd in40_kage1.png
+map_d in40_kage1.png

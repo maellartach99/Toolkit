@@ -1,0 +1,6043 @@
+﻿{
+	"repel": {
+		"num": 79,
+		"name": "Repelente",
+		"pluralName": "Repelentes",
+		"pocket": "items",
+		"price": 350,
+		"description": "Repele Pokémon salvajes débiles en un recorrido de 100 pasos."
+	},
+	"superrepel": {
+		"num": 76,
+		"name": "Superrepelente",
+		"pluralName": "Superrepelentes",
+		"pocket": "items",
+		"price": 500,
+		"description": "Repele Pokémon salvajes débiles en un recorrido de 200 pasos."
+	},
+	"maxrepel": {
+		"num": 77,
+		"name": "Repelente Máximo",
+		"pluralName": "Repelentes Máximos",
+		"pocket": "items",
+		"price": 700,
+		"description": "Repele Pokémon salvajes débiles en un recorrido de 250 pasos."
+	},
+	"blackflute": {
+		"num": 68,
+		"name": "Flauta Negra",
+		"pluralName": "Flautas Negras",
+		"pocket": "items",
+		"price": 400,
+		"description": "Flauta de cristal negro cuya melodía ayuda a reducir las probabilidades de encontrarse con Pokémon salvajes."
+	},
+	"whiteflute": {
+		"num": 69,
+		"name": "Flauta Blanca",
+		"pluralName": "Flautas Blancas",
+		"pocket": "items",
+		"price": 500,
+		"description": "Flauta de cristal blanco cuya melodía ayuda a aumentar las probabilidades de encontrarse con Pokémon salvajes."
+	},
+	"honey": {
+		"num": 94,
+		"name": "Miel",
+		"pluralName": "Mieles",
+		"pocket": "items",
+		"price": 100,
+		"description": "Su delicioso aroma atrae a Pokémon salvajes si se usa en zonas de hierba alta, cuevas o árboles especiales."
+	},
+	"escaperope": {
+		"num": 78,
+		"name": "Cuerda Huida",
+		"pluralName": "Cuerdas Huida",
+		"pocket": "items",
+		"price": 550,
+		"description": "Cuerda larga y resistente que sirve para huir de cuevas y sitios cerrados en general."
+	},
+	"redshard": {
+		"num": 72,
+		"name": "Parte Roja",
+		"pluralName": "Partes Rojas",
+		"pocket": "items",
+		"price": 200,
+		"description": "Un pequeño fragmento rojo. Parece formar parte de algún tipo de herramienta antigua."
+	},
+	"blueshard": {
+		"num": 73,
+		"name": "Parte Azul",
+		"pluralName": "Partes Azules",
+		"pocket": "items",
+		"price": 200,
+		"description": "Un pequeño fragmento azul. Parece formar parte de algún tipo de herramienta antigua."
+	},
+	"yellowshard": {
+		"num": 74,
+		"name": "Parte Amarilla",
+		"pluralName": "Partes Amarillas",
+		"pocket": "items",
+		"price": 200,
+		"description": "Un pequeño fragmento amarillo. Parece formar parte de algún tipo de herramienta antigua."
+	},
+	"greenshard": {
+		"num": 75,
+		"name": "Parte Verde",
+		"pluralName": "Partes Verdes",
+		"pocket": "items",
+		"price": 200,
+		"description": "Un pequeño fragmento verde. Parece formar parte de algún tipo de herramienta antigua."
+	},
+	"firestone": {
+		"num": 82,
+		"name": "Piedra Fuego",
+		"pluralName": "Piedras Fuego",
+		"pocket": "items",
+		"price": 2100,
+		"description": "Curiosa piedra que hace evolucionar a determinadas especies de Pokémon. Es amarilla con una marca naranja.",
+		"evolution": true
+	},
+	"thunderstone": {
+		"num": 83,
+		"name": "Piedra Trueno",
+		"pluralName": "Piedras Trueno",
+		"pocket": "items",
+		"price": 2100,
+		"description": "Curiosa piedra que hace evolucionar a determinadas especies de Pokémon. Tiene dibujado un rayo.",
+		"evolution": true
+	},
+	"waterstone": {
+		"num": 84,
+		"name": "Piedra Agua",
+		"pluralName": "Piedras Agua",
+		"pocket": "items",
+		"price": 2100,
+		"description": "Curiosa piedra que hace evolucionar a determinadas especies de Pokémon. Es de color azul, como el agua.",
+		"evolution": true
+	},
+	"leafstone": {
+		"num": 85,
+		"name": "Piedra Hoja",
+		"pluralName": "Piedras Hoja",
+		"pocket": "items",
+		"price": 2100,
+		"description": "Curiosa piedra que hace evolucionar a determinadas especies de Pokémon. Tiene dibujada una hoja.",
+		"evolution": true
+	},
+	"sunstone": {
+		"num": 80,
+		"name": "Piedra Solar",
+		"pluralName": "Piedras Solar",
+		"pocket": "items",
+		"price": 2100,
+		"description": "Curiosa piedra que hace evolucionar a determinadas especies de Pokémon. Es roja como el núcleo del sol.",
+		"evolution": true
+	},
+	"moonstone": {
+		"num": 81,
+		"name": "Piedra Lunar",
+		"pluralName": "Piedras Lunar",
+		"pocket": "items",
+		"price": 2100,
+		"description": "Curiosa piedra que hace evolucionar a determinadas especies de Pokémon. Es negra como el azabache.",
+		"evolution": true
+	},
+	"shinystone": {
+		"num": 107,
+		"name": "Piedra Día",
+		"pluralName": "Piedras Día",
+		"pocket": "items",
+		"price": 2100,
+		"description": "Una piedra peculiar que hace evolucionar a algunos Pokémon. Tiene un brillo espectacular.",
+		"evolution": true
+	},
+	"duskstone": {
+		"num": 108,
+		"name": "Piedra Noche",
+		"pluralName": "Piedras Noche",
+		"pocket": "items",
+		"price": 2100,
+		"description": "Una piedra peculiar que hace evolucionar a algunos Pokémon. Es oscura como la noche.",
+		"evolution": true
+	},
+	"dawnstone": {
+		"num": 109,
+		"name": "Piedra Alba",
+		"pluralName": "Piedras Alba",
+		"pocket": "items",
+		"price": 2100,
+		"description": "Una piedra peculiar que hace evolucionar a algunos Pokémon. Brilla como un lucero.",
+		"evolution": true
+	},
+	"redapricorn": {
+		"num": 485,
+		"name": "Bonguri Roja",
+		"pluralName": "Bonguris Roja",
+		"pocket": "items",
+		"price": 200,
+		"description": "Bonguri de color rojo y aroma muy penetrante.",
+		"apricorn": true
+	},
+	"blueapricorn": {
+		"num": 486,
+		"name": "Bonguri Azul",
+		"pluralName": "Bonguris Azul",
+		"pocket": "items",
+		"price": 200,
+		"description": "Bonguri de color azul y aroma tierno.",
+		"apricorn": true
+	},
+	"yellowapricorn": {
+		"num": 487,
+		"name": "Bonguri Amarilla",
+		"pluralName": "Bonguris Amarilla",
+		"pocket": "items",
+		"price": 200,
+		"description": "Bonguri de color amarillo y aroma refrescante.",
+		"apricorn": true
+	},
+	"greenapricorn": {
+		"num": 488,
+		"name": "Bonguri Verde",
+		"pluralName": "Bonguris Verde",
+		"pocket": "items",
+		"price": 200,
+		"description": "Bonguri de color verde y aroma peculiar que recuerda al café tostado.",
+		"apricorn": true
+	},
+	"pinkapricorn": {
+		"num": 489,
+		"name": "Bonguri Rosa",
+		"pluralName": "Bonguris Rosa",
+		"pocket": "items",
+		"price": 200,
+		"description": "Bonguri de color rosa y aroma dulce.",
+		"apricorn": true
+	},
+	"whiteapricorn": {
+		"num": 490,
+		"name": "Bonguri Blanca",
+		"pluralName": "Bonguris Blanca",
+		"pocket": "items",
+		"price": 200,
+		"description": "Bonguri de color blanco que no desprende aroma alguno.",
+		"apricorn": true
+	},
+	"blackapricorn": {
+		"num": 491,
+		"name": "Bonguri Negra",
+		"pluralName": "Bonguris Negra",
+		"pocket": "items",
+		"price": 200,
+		"description": "Bonguri de color negro y aroma indescriptible.",
+		"apricorn": true
+	},
+	"helixfossil": {
+		"num": 101,
+		"name": "Fósil Helix",
+		"pluralName": "Fósiles Helix",
+		"pocket": "items",
+		"price": 1000,
+		"description": "Fósil de un Pokémon ancestral que vivió en el fondo del mar. Parece ser un fragmento de concha marina.",
+		"fossil": "omanyte"
+	},
+	"domefossil": {
+		"num": 102,
+		"name": "Fósil Domo",
+		"pluralName": "Fósiles Domo",
+		"pocket": "items",
+		"price": 1000,
+		"description": "Fósil de un Pokémon ancestral que vivió en el fondo del mar. Parece ser un fragmento de concha.",
+		"fossil": "kabuto"
+	},
+	"oldamber": {
+		"num": 103,
+		"name": "Ámbar Viejo",
+		"pluralName": "Ámbares Viejos",
+		"pocket": "items",
+		"price": 1000,
+		"description": "Fragmento de ámbar que contiene información genética de un Pokémon ancestral. Es de color amarillo.",
+		"fossil": "aerodactyl"
+	},
+	"rootfossil": {
+		"num": 99,
+		"name": "Fósil Raíz",
+		"pluralName": "Fósiles Raíz",
+		"pocket": "items",
+		"price": 1000,
+		"description": "Fósil de un Pokémon ancestral que vivió en el fondo del mar. Parece ser parte de una raíz.",
+		"fossil": "lileep"
+	},
+	"clawfossil": {
+		"num": 100,
+		"name": "Fósil Garra",
+		"pluralName": "Fósiles Garra",
+		"pocket": "items",
+		"price": 1000,
+		"description": "Fósil de un Pokémon ancestral que vivió en el fondo del mar. Parece ser parte de una garra.",
+		"fossil": "anorith"
+	},
+	"skullfossil": {
+		"num": 105,
+		"name": "Fósil Cráneo",
+		"pluralName": "Fósiles Cráneo",
+		"pocket": "items",
+		"price": 1000,
+		"description": "Fósil de un Pokémon prehistórico terrestre. Parece ser parte de una cabeza.",
+		"fossil": "cranidos"
+	},
+	"armorfossil": {
+		"num": 104,
+		"name": "Fósil Coraza",
+		"pluralName": "Fósiles Coraza",
+		"pocket": "items",
+		"price": 1000,
+		"description": "Fósil de un Pokémon prehistórico terrestre. Parece ser un fragmento del cuello.",
+		"fossil": "shieldon"
+	},
+	"coverfossil": {
+		"num": 572,
+		"name": "Fósil Tapa",
+		"pluralName": "Fósiles Tapa",
+		"pocket": "items",
+		"price": 1000,
+		"description": "Fósil de un Pokémon ancestral que vivió en el fondo del mar. Parece ser un fragmento de concha marina.",
+		"fossil": "tirtouga"
+	},
+	"plumefossil": {
+		"num": 573,
+		"name": "Fósil Pluma",
+		"pluralName": "Fósiles Pluma",
+		"pocket": "items",
+		"price": 1000,
+		"description": "Fósil de un Pokémon ancestral que surcó los cielos. Parece ser parte de un ala suya.",
+		"fossil": "archen"
+	},
+	"prettywing": {
+		"num": 571,
+		"name": "Pluma Bella",
+		"pluralName": "Plumas Bellas",
+		"pocket": "items",
+		"price": 200,
+		"description": "Pluma normal y corriente. Muy bonita, pero no sirve para nada."
+	},
+	"tinymushroom": {
+		"num": 86,
+		"name": "Mini Seta",
+		"pluralName": "Mini Setas",
+		"pocket": "items",
+		"price": 500,
+		"description": "Seta pequeña y poco común bastante popular entre determinados grupos de gourmets."
+	},
+	"bigmushroom": {
+		"num": 87,
+		"name": "Seta Grande",
+		"pluralName": "Setas Grandes",
+		"pocket": "items",
+		"price": 5000,
+		"description": "Seta grande y poco común muy popular entre determinados grupos de gourmets."
+	},
+	"balmmushroom": {
+		"num": 580,
+		"name": "Seta Aroma",
+		"pluralName": "Setas Aroma",
+		"pocket": "items",
+		"price": 50000,
+		"description": "Extraña seta que desprende un agradable aroma. Muy apreciada por los gourmets."
+	},
+	"pearl": {
+		"num": 88,
+		"name": "Perla",
+		"pluralName": "Perlas",
+		"pocket": "items",
+		"price": 1400,
+		"description": "Brillante perla plateada de tamaño más bien pequeño que no alcanza mucho precio en las tiendas."
+	},
+	"bigpearl": {
+		"num": 89,
+		"name": "Perla Grande",
+		"pluralName": "Perlas Grandes",
+		"pocket": "items",
+		"price": 7500,
+		"description": "Brillante perla plateada de gran tamaño que puede venderse a buen precio en las tiendas."
+	},
+	"pearlstring": {
+		"num": 582,
+		"name": "Sarta Perlas",
+		"pluralName": "Sartas Perlas",
+		"pocket": "items",
+		"price": 50000,
+		"description": "Brillantes perlas plateadas de gran tamaño. Muy valoradas por los coleccionistas."
+	},
+	"stardust": {
+		"num": 90,
+		"name": "Polvoestelar",
+		"pluralName": "Polvoestelares",
+		"pocket": "items",
+		"price": 2000,
+		"description": "Bonita arena roja de tacto sedoso que alcanza un alto precio en las tiendas."
+	},
+	"starpiece": {
+		"num": 91,
+		"name": "Trozo Estrella",
+		"pluralName": "Trozos Estrella",
+		"pocket": "items",
+		"price": 9800,
+		"description": "Fragmento de una bonita gema roja que puede venderse muy caro en las tiendas."
+	},
+	"cometshard": {
+		"num": 583,
+		"name": "Fragmento Cometa",
+		"pluralName": "Fragmentos Cometa",
+		"pocket": "items",
+		"price": 120000,
+		"description": "Fragmento de un cometa caído al suelo al atravesar la atmósfera. Muy valorado por los coleccionistas."
+	},
+	"nugget": {
+		"num": 92,
+		"name": "Pepita",
+		"pluralName": "Pepitas",
+		"pocket": "items",
+		"price": 10000,
+		"description": "Pepita de oro puro que desprende un brillo espectacular. Puede venderse muy cara en las tiendas."
+	},
+	"bignugget": {
+		"num": 581,
+		"name": "Maxipepita",
+		"pluralName": "Maxipepitas",
+		"pocket": "items",
+		"price": 60000,
+		"description": "Pepita grande de oro puro que desprende un brillo espectacular. Muy valorada por los coleccionistas."
+	},
+	"heartscale": {
+		"num": 93,
+		"name": "Escama Corazón",
+		"pluralName": "Escamas Corazón",
+		"pocket": "items",
+		"price": 100,
+		"description": "Bella escama con forma de corazón que brilla con los colores del arco iris. Es muy poco común."
+	},
+	"slowpoketail": {
+		"num": 473,
+		"name": "Cola Slowpoke",
+		"pluralName": "Colas Slowpoke",
+		"pocket": "items",
+		"price": 9800,
+		"description": "Cola de origen desconocido y muy sabrosa. Se vende muy cara."
+	},
+	"rarebone": {
+		"num": 106,
+		"name": "Hueso Raro",
+		"pluralName": "Huesos Raros",
+		"pocket": "items",
+		"price": 10000,
+		"description": "Un hueso de gran valor arqueológico que puede alcanzar un alto precio en las tiendas."
+	},
+	"reliccopper": {
+		"num": 584,
+		"name": "Real Cobre",
+		"pluralName": "Reales Cobre",
+		"pocket": "items",
+		"price": 2000,
+		"description": "Moneda de cobre de más de tres mil años de antigüedad. Muy valorada por los coleccionistas."
+	},
+	"relicsilver": {
+		"num": 585,
+		"name": "Real Plata",
+		"pluralName": "Reales Plata",
+		"pocket": "items",
+		"price": 10000,
+		"description": "Moneda de plata de más de tres mil años de antigüedad. Muy valorada por los coleccionistas."
+	},
+	"relicgold": {
+		"num": 586,
+		"name": "Real Oro",
+		"pluralName": "Reales Oro",
+		"pocket": "items",
+		"price": 20000,
+		"description": "Moneda de oro de más de tres mil años de antigüedad. Muy valorada por los coleccionistas."
+	},
+	"relicvase": {
+		"num": 587,
+		"name": "Ánfora",
+		"pluralName": "Ánforas",
+		"pocket": "items",
+		"price": 100000,
+		"description": "Jarrón de más de tres mil años de antigüedad. Muy valorado por los coleccionistas."
+	},
+	"relicband": {
+		"num": 588,
+		"name": "Brazal",
+		"pluralName": "Brazales",
+		"pocket": "items",
+		"price": 200000,
+		"description": "Brazalete de más de tres mil años de antigüedad. Muy valorado por los coleccionistas."
+	},
+	"relicstatue": {
+		"num": 589,
+		"name": "Efigie Antigua",
+		"pluralName": "Efigies Antiguas",
+		"pocket": "items",
+		"price": 400000,
+		"description": "Efigie de piedra de más de tres mil años de antigüedad. Muy valorado por los coleccionistas."
+	},
+	"reliccrown": {
+		"num": 590,
+		"name": "Corona Antigua",
+		"pluralName": "Coronas Antiguas",
+		"pocket": "items",
+		"price": 600000,
+		"description": "Corona de más de tres mil años de antigüedad. Muy valorada por los coleccionistas."
+	},
+	"growthmulch": {
+		"num": 95,
+		"name": "Abono Rápido",
+		"pluralName": "Abonos Rápidos",
+		"pocket": "items",
+		"price": 200,
+		"description": "Un fertilizante que se usa en tierra suelta. Acelera el crecimiento de las bayas, pero también seca el suelo.",
+		"mulch": true
+	},
+	"dampmulch": {
+		"num": 96,
+		"name": "Abono Lento",
+		"pluralName": "Abonos Lentos",
+		"pocket": "items",
+		"price": 200,
+		"description": "Fertilizante para tierra suelta que ralentiza el crecimiento de las bayas y seca el suelo lentamente.",
+		"mulch": true
+	},
+	"stablemulch": {
+		"num": 97,
+		"name": "Abono Fijador",
+		"pluralName": "Abonos Fijadores",
+		"pocket": "items",
+		"price": 200,
+		"description": "Fertilizante para tierra suelta que retrasa la caída de las bayas maduras.",
+		"mulch": true
+	},
+	"gooeymulch": {
+		"num": 98,
+		"name": "Abono Brote",
+		"pluralName": "Abonos Brotes",
+		"pocket": "items",
+		"price": 200,
+		"description": "Fertilizante para tierra suelta que hace que broten más plantas nuevas de las plantas marchitas.",
+		"mulch": true
+	},
+	"shoalsalt": {
+		"num": 70,
+		"name": "Sal Cardumen",
+		"pluralName": "Sales Cardumen",
+		"pocket": "items",
+		"price": 20,
+		"description": "Sal pura y de sabor intenso procedente de las profundidades de la Cueva Cardumen."
+	},
+	"shoalshell": {
+		"num": 70,
+		"name": "Concha Cardumen",
+		"pluralName": "Conchas Cardumen",
+		"pocket": "items",
+		"price": 20,
+		"description": "Hermosa concha marina hallada en lo más profundo de la Cueva Cardumen. Tiene rayas azules y blancas."
+	},
+	"oddkeystone": {
+		"num": 111,
+		"name": "Piedra Espíritu",
+		"pluralName": "Piedras Espíritu",
+		"pocket": "items",
+		"price": 2100,
+		"description": "Vital para impedir que una torre de piedra se derrumbe. A veces se oyen voces en su interior."
+	},
+	"airballoon": {
+		"num": 541,
+		"gen": 5,
+		"name": "Globo Helio",
+		"pluralName": "Globos Helio",
+		"pocket": "items",
+		"price": 200,
+		"description": "El Pokémon que lo lleve flotará en el aire. Si recibe un golpe, estallará.",
+		"hold": true
+	},
+	"brightpowder": {
+		"num": 213,
+		"name": "Polvo Brillo",
+		"pluralName": "Polvos Brillo",
+		"pocket": "items",
+		"price": 10,
+		"description": "Lanza un destello que baja la precisión del enemigo. Debe llevarlo un Pokémon.",
+		"hold": true
+	},
+	"eviolite": {
+		"num": 538,
+		"name": "Mineral Evolutivo",
+		"pluralName": "Minerales Evolutivos",
+		"pocket": "items",
+		"price": 200,
+		"description": "Piedra evolutiva. El Pokémon portador aumentará su Defensa y su Defensa Especial si aún puede evolucionar.",
+		"hold": true
+	},
+	"floatstone": {
+		"num": 539,
+		"name": "Piedra Pómez",
+		"pluralName": "Piedras Pómez",
+		"pocket": "items",
+		"price": 200,
+		"description": "Piedra muy ligera que reduce el peso del Pokémon que la lleve.",
+		"hold": true
+	},
+	"destinyknot": {
+		"num": 280,
+		"name": "Lazo Destino",
+		"pluralName": "Lazos Destino",
+		"pocket": "items",
+		"price": 200,
+		"description": "Un hilo largo y delgado de color rojo que transmite el enamoramiento del Pokémon que lo lleva a su rival.",
+		"hold": true
+	},
+	"rockyhelmet": {
+		"num": 540,
+		"name": "Casco Dentado",
+		"pluralName": "Cascos Dentados",
+		"pocket": "items",
+		"price": 200,
+		"description": "Si el portador es alcanzado por un ataque físico, el agresor también recibe daño.",
+		"hold": true
+	},
+	"ejectbutton": {
+		"num": 547,
+		"name": "Botón Escape",
+		"pluralName": "Botones Escape",
+		"pocket": "items",
+		"price": 200,
+		"description": "Si el portador es alcanzado por un ataque, saldrá del combate y será sustituido por otro Pokémon del equipo.",
+		"hold": true
+	},
+	"redcard": {
+		"num": 542,
+		"name": "Tarjeta Roja",
+		"pluralName": "Tarjetas Rojas",
+		"pocket": "items",
+		"price": 200,
+		"description": "Misteriosa tarjeta que permite al Pokémon que la lleve expulsar al agresor cuando este le cause daño.",
+		"hold": true
+	},
+	"shedshell": {
+		"num": 295,
+		"name": "Muda Concha",
+		"pluralName": "Muda Conchas",
+		"pocket": "items",
+		"price": 100,
+		"description": "En combate, esta concha desechada sirve para que un Pokémon se cambie por otro que no esté combatiendo.",
+		"hold": true
+	},
+	"smokeball": {
+		"num": 228,
+		"name": "Bola Humo",
+		"pluralName": "Bolas Humo",
+		"pocket": "items",
+		"price": 200,
+		"description": "Debe llevarla un Pokémon. Permite huir de combates contra Pokémon salvajes.",
+		"hold": true
+	},
+	"luckyegg": {
+		"num": 231,
+		"name": "Huevo Suerte",
+		"pluralName": "Huevos Suerte",
+		"pocket": "items",
+		"price": 200,
+		"description": "Es un huevo lleno de felicidad que te hará ganar Puntos de Exp. extra en combate. Debe llevarlo un Pokémon.",
+		"hold": true
+	},
+	"expshare": {
+		"num": 216,
+		"name": "Repartir Exp",
+		"pluralName": "Repartir Exp",
+		"pocket": "items",
+		"price": 3000,
+		"description": "El Pokémon que lo lleva obtiene parte de los Puntos de Exp. conseguidos en el combate sin participar en él.",
+		"hold": true
+	},
+	"amuletcoin": {
+		"num": 223,
+		"name": "Moneda Amuleto",
+		"pluralName": "Monedas Amuleto",
+		"pocket": "items",
+		"price": 100,
+		"description": "Si el Pokémon que la lleva lucha en un combate, duplica las ganancias.",
+		"hold": true
+	},
+	"soothebell": {
+		"num": 218,
+		"name": "Cascabel Alivio",
+		"pluralName": "Cascabeles Alivio",
+		"pocket": "items",
+		"price": 100,
+		"description": "Una campana con un tañido calmante que reconforta al Pokémon que la lleva y lo vuelve más amistoso."
+	},
+	"cleansetag": {
+		"num": 224,
+		"name": "Amuleto",
+		"pluralName": "Amuletos",
+		"pocket": "items",
+		"price": 200,
+		"description": "Si lo lleva el primer Pokémon del equipo, se reduce la probabilidad de que se acerquen Pokémon salvajes."
+	},
+	"choiceband": {
+		"num": 220,
+		"name": "Cinta Elección",
+		"pluralName": "Cintas Elección",
+		"pocket": "items",
+		"price": 100,
+		"description": "Aumenta el Ataque pero solo permite usar un tipo de movimiento. Debe llevarla un Pokémon.",
+		"hold": true
+	},
+	"choicespecs": {
+		"num": 297,
+		"name": "Gafas Elección",
+		"pluralName": "Gafas Elección",
+		"pocket": "items",
+		"price": 200,
+		"description": "Potencian el At. Esp. pero solo permiten usar un tipo de movimiento. Debe llevarlas un Pokémon.",
+		"hold": true
+	},
+	"choicescarf": {
+		"num": 287,
+		"name": "Pañuelo Elección",
+		"pluralName": "Pañuelos Elección",
+		"pocket": "items",
+		"price": 200,
+		"description": "Debe llevarlo un Pokémon. Potencia la Velocidad, pero solo permite usar un tipo de movimiento.",
+		"hold": true
+	},
+	"icyrock": {
+		"num": 282,
+		"name": "Roca Helada",
+		"pluralName": "Rocas Helada",
+		"pocket": "items",
+		"price": 200,
+		"description": "Prolonga la duración del movimiento Granizo del Pokémon que la lleva.",
+		"hold": true
+	},
+	"smoothrock": {
+		"num": 283,
+		"name": "Roca Suave",
+		"pluralName": "Rocas Suave",
+		"pocket": "items",
+		"price": 200,
+		"description": "Prolonga la duración del movimiento Tormenta Arena que use el Pokémon que la lleva.",
+		"hold": true
+	},
+	"heatrock": {
+		"num": 284,
+		"name": "Roca Calor",
+		"pluralName": "Rocas Calor",
+		"pocket": "items",
+		"price": 200,
+		"description": "Prolonga la duración del movimiento Día Soleado que use el Pokémon que la lleva.",
+		"hold": true
+	},
+	"damprock": {
+		"num": 285,
+		"name": "Roca Lluvia",
+		"pluralName": "Rocas Lluvia",
+		"pocket": "items",
+		"price": 200,
+		"description": "Prolonga la duración del movimiento Danza Lluvia que use el Pokémon que la lleva.",
+		"hold": true
+	},
+	"lightclay": {
+		"num": 269,
+		"name": "Refleluz",
+		"pluralName": "Refleluces",
+		"pocket": "items",
+		"price": 200,
+		"description": "Prolonga la duración de barreras como Reflejo y Pantalla de Luz. Debe llevarla un Pokémon.",
+		"hold": true
+	},
+	"gripclaw": {
+		"num": 286,
+		"name": "Garra Garfio",
+		"pluralName": "Garras Garfio",
+		"pocket": "items",
+		"price": 200,
+		"description": "Prolonga la duración de ataques multiturno como Atadura y Repetición. Debe llevarla un Pokémon.",
+		"hold": true
+	},
+	"bindingband": {
+		"num": 544,
+		"name": "Banda Atadura",
+		"pluralName": "Bandas Atadura",
+		"pocket": "items",
+		"price": 200,
+		"description": "Banda que potencia los movimientos que estrujan al rival.",
+		"hold": true
+	},
+	"bigroot": {
+		"num": 296,
+		"name": "Raíz Grande",
+		"pluralName": "Raíces Grandes",
+		"pocket": "items",
+		"price": 200,
+		"description": "Potencia los movimientos que roban PS. Debe llevarla un Pokémon.",
+		"hold": true
+	},
+	"blacksludge": {
+		"num": 281,
+		"name": "Lodo Negro",
+		"pluralName": "Lodos Negros",
+		"pocket": "items",
+		"price": 200,
+		"description": "Restaura gradualmente los PS de los Pokémon de tipo Veneno y daña a todos los demás.",
+		"hold": true
+	},
+	"leftovers": {
+		"num": 234,
+		"name": "Restos",
+		"pluralName": "Restos",
+		"pocket": "items",
+		"price": 200,
+		"description": "Restauran gradualmente los PS del Pokémon que los lleva durante el combate.",
+		"hold": true
+	},
+	"shellbell": {
+		"num": 253,
+		"name": "Campana Concha",
+		"pluralName": "Campanas Concha",
+		"pocket": "items",
+		"price": 200,
+		"description": "Debe llevarla un Pokémon. Cada vez que este inflija daño, recuperará algunos PS.",
+		"hold": true
+	},
+	"mentalherb": {
+		"num": 219,
+		"name": "Hierba Mental",
+		"pluralName": "Hierbas Mentales",
+		"pocket": "items",
+		"price": 100,
+		"description": "El Pokémon que la lleve se libera del enamoramiento. Solo puede usarse una vez.",
+		"hold": true
+	},
+	"whiteherb": {
+		"num": 214,
+		"name": "Hierba Blanca",
+		"pluralName": "Hierbas Blancas",
+		"pocket": "items",
+		"price": 100,
+		"description": "Restaura cualquier característica debilitada en combate. Solo se puede usar una vez. Debe llevarla un Pokémon.",
+		"hold": true
+	},
+	"powerherb": {
+		"num": 271,
+		"name": "Hierba Única",
+		"pluralName": "Hierbas Únicas",
+		"pocket": "items",
+		"price": 100,
+		"description": "Permite el uso inmediato de cualquier movimiento en el primer turno. Es de un solo uso y debe llevarla un Pokémon.",
+		"hold": true
+	},
+	"absorbbulb": {
+		"num": 545,
+		"gen": 5,
+		"name": "Tubérculo",
+		"pluralName": "Tubérculos",
+		"pocket": "items",
+		"price": 200,
+		"description": "Raíz de usar y tirar que sube el Ataque Especial cuando se recibe un ataque de tipo Agua.",
+		"boosts": {
+			"satk": 1
+		},
+		"hold": true
+	},
+	"cellbattery": {
+		"num": 546,
+		"name": "Pila",
+		"pluralName": "Pilas",
+		"pocket": "items",
+		"price": 200,
+		"description": "Batería de usar y tirar que sube el Ataque de quien la lleva cuando recibe un golpe de tipo Eléctrico.",
+		"hold": true
+	},
+	"lifeorb": {
+		"num": 270,
+		"name": "Vidasfera",
+		"pluralName": "Vidasfera",
+		"pocket": "items",
+		"price": 200,
+		"description": "Potencia los movimientos, pero consume PS con cada ataque. Debe llevarla un Pokémon.",
+		"hold": true
+	},
+	"expertbelt": {
+		"num": 268,
+		"name": "Cinta Experto",
+		"pluralName": "Cintas Experto",
+		"pocket": "items",
+		"price": 200,
+		"description": "Potencia ligeramente los movimientos supereficaces. Debe llevarla un Pokémon.",
+		"hold": true
+	},
+	"metronome": {
+		"num": 277,
+		"name": "Metrónomo",
+		"pluralName": "Metrónomos",
+		"pocket": "items",
+		"price": 200,
+		"description": "Potencia un movimiento que se use de forma consecutiva. Pero el efecto se pierde si se emplea otro movimiento.",
+		"hold": true
+	},
+	"muscleband": {
+		"num": 266,
+		"name": "Cinta Fuerte",
+		"pluralName": "Cintas Fuertes",
+		"pocket": "items",
+		"price": 200,
+		"description": "Cinta de pelo que aumenta ligeramente la potencia de los movimientos físicos. Debe llevarla un Pokémon.",
+		"hold": true
+	},
+	"wiseglasses": {
+		"num": 267,
+		"name": "Gafas Especiales",
+		"pluralName": "Gafas Especiales",
+		"pocket": "items",
+		"price": 200,
+		"description": "Potencian ligeramente los movimientos especiales. Debe llevarlas un Pokémon.",
+		"hold": true
+	},
+	"razorclaw": {
+		"num": 326,
+		"name": "Garra Afilada",
+		"pluralName": "Garras Afiladas",
+		"pocket": "items",
+		"price": 2100,
+		"description": "Aumenta a la probabilidad de que el Pokémon que la lleva consiga un golpe crítico.",
+		"hold": true
+	},
+	"scopelens": {
+		"num": 232,
+		"name": "Periscopio",
+		"pluralName": "Periscopios",
+		"pocket": "items",
+		"price": 200,
+		"description": "Su lente aumenta la posibilidad que tiene el Pokémon que lo lleva de conseguir un golpe crítico.",
+		"hold": true
+	},
+	"widelens": {
+		"num": 265,
+		"name": "Lupa",
+		"pluralName": "Lupas",
+		"pocket": "items",
+		"price": 200,
+		"description": "Debe llevarla un Pokémon. Aumenta ligeramente la precisión de los movimientos.",
+		"hold": true
+	},
+	"zoomlens": {
+		"num": 276,
+		"name": "Telescopio",
+		"pluralName": "Telescopios",
+		"pocket": "items",
+		"price": 200,
+		"description": "Debe llevarlo un Pokémon. Si se mueve después del enemigo, aumenta el índice de precisión del Pokémon.",
+		"hold": true
+	},
+	"kingsrock": {
+		"num": 221,
+		"name": "Roca del Rey",
+		"pluralName": "Rocas del Rey",
+		"pocket": "items",
+		"price": 100,
+		"description": "Puede hacer retroceder al enemigo cuando el Pokémon que la lleva le hiera.",
+		"hold": true
+	},
+	"razorfang": {
+		"num": 327,
+		"name": "Colmillo Agudo",
+		"pluralName": "Colmillos Agudos",
+		"pocket": "items",
+		"price": 2100,
+		"description": "Si lo lleva un Pokémon cuando hiere a un rival, puede hacerle retroceder.",
+		"hold": true
+	},
+	"laggingtail": {
+		"num": 279,
+		"name": "Cola Plúmbea",
+		"pluralName": "Colas Plúmbea",
+		"pocket": "items",
+		"price": 200,
+		"description": "Es muy pesada y hace que el Pokémon que la lleva se mueva más lento de lo normal.",
+		"hold": true
+	},
+	"quickclaw": {
+		"num": 217,
+		"name": "Garra Rápida",
+		"pluralName": "Garras Rápidas",
+		"pocket": "items",
+		"price": 100,
+		"description": "Garra ligera y afilada que permite que el Pokémon que la lleve ataque el primero ocasionalmente.",
+		"hold": true
+	},
+	"focusband": {
+		"num": 230,
+		"name": "Cinta Focus",
+		"pluralName": "Cintas Focus",
+		"pocket": "items",
+		"price": 200,
+		"description": "El Pokémon que la lleve puede resistir un golpe potencialmente crítico y quedarse con 1 PS.",
+		"hold": true
+	},
+	"focussash": {
+		"num": 275,
+		"name": "Banda Focus",
+		"pluralName": "Bandas Focus",
+		"pocket": "items",
+		"price": 200,
+		"description": "Si el Pokémon que la lleva tiene los PS al máximo, resistirá un golpe que potencialmente lo deja KO con 1 PS.",
+		"hold": true
+	},
+	"flameorb": {
+		"num": 273,
+		"name": "Llamasfera",
+		"pluralName": "Llamasferas",
+		"pocket": "items",
+		"price": 100,
+		"description": "Extraña esfera que causa quemaduras a quien la usa en combate. Debe llevarla un Pokémon.",
+		"hold": true
+	},
+	"toxicorb": {
+		"num": 272,
+		"name": "Toxisfera",
+		"pluralName": "Toxisferas",
+		"pocket": "items",
+		"price": 100,
+		"description": "Extraña esfera que envenena gravemente a quien la usa en combate. Debe llevarla un Pokémon.",
+		"hold": true
+	},
+	"stickybarb": {
+		"num": 288,
+		"name": "Toxiestrella",
+		"pluralName": "Toxiestrellas",
+		"pocket": "items",
+		"price": 200,
+		"description": "Daña en cada turno al Pokémon que la lleva y también puede dañar a los enemigos que toquen al Pokémon.",
+		"hold": true
+	},
+	"ironball": {
+		"num": 278,
+		"name": "Bola Férrea",
+		"pluralName": "Bolas Férreas",
+		"pocket": "items",
+		"price": 200,
+		"description": "Reduce la Velocidad. Los Pokémon que levitan y los de tipo Volador se tornan sensibles a movimientos de Tierra.",
+		"hold": true
+	},
+	"ringtarget": {
+		"num": 543,
+		"name": "Blanco",
+		"pluralName": "Blancos",
+		"pocket": "items",
+		"price": 200,
+		"description": "El Pokémon que lo lleva es vulnerable frente a movimientos que normalmente no afectan a su tipo.",
+		"hold": true
+	},
+	"machobrace": {
+		"num": 215,
+		"name": "Brazal Firme",
+		"pluralName": "Brazales Firmes",
+		"pocket": "items",
+		"price": 3000,
+		"description": "Sólido y pesado brazal que fomenta el crecimiento pero reduce la Velocidad. Debe llevarlo un Pokémon.",
+		"hold": true
+	},
+	"powerbracer": {
+		"num": 289,
+		"name": "Brazal Recio",
+		"pluralName": "Brazales Recios",
+		"pocket": "items",
+		"price": 3000,
+		"description": "Ayuda a ganar Ataque al subir de nivel, pero reduce la Velocidad. Debe llevarlo un Pokémon.",
+		"hold": true
+	},
+	"powerbelt": {
+		"num": 290,
+		"name": "Cinto Recio",
+		"pluralName": "Cintos Recios",
+		"pocket": "items",
+		"price": 3000,
+		"description": "Ayuda a ganar Defensa al subir de nivel, pero reduce la Velocidad. Debe llevarlo un Pokémon.",
+		"hold": true
+	},
+	"powerlens": {
+		"num": 291,
+		"name": "Lente Recia",
+		"pluralName": "Lentes Recias",
+		"pocket": "items",
+		"price": 3000,
+		"description": "Ayuda a ganar At. Esp. al subir de nivel, pero reduce la Velocidad. Debe llevarla un Pokémon.",
+		"hold": true
+	},
+	"powerband": {
+		"num": 292,
+		"name": "Banda Recia",
+		"pluralName": "Bandas Recias",
+		"pocket": "items",
+		"price": 3000,
+		"description": "Ayuda a ganar Def. Esp. al subir de nivel, pero reduce la Velocidad. Debe llevarla un Pokémon.",
+		"hold": true
+	},
+	"poweranklet": {
+		"num": 293,
+		"name": "Franja Recia",
+		"pluralName": "Franjas Recias",
+		"pocket": "items",
+		"price": 3000,
+		"description": "Ayuda a ganar Velocidad al subir de nivel, pero reduce la Velocidad en combate. Debe llevarla un Pokémon.",
+		"hold": true
+	},
+	"powerweight": {
+		"num": 294,
+		"name": "Pesa Recia",
+		"pluralName": "Pesas Recias",
+		"pocket": "items",
+		"price": 3000,
+		"description": "Ayuda a conseguir más PS al subir de nivel, pero reduce la Velocidad. Debe llevarla un Pokémon.",
+		"hold": true
+	},
+	"seaincense": {
+		"num": 254,
+		"name": "Incienso Marino",
+		"pluralName": "Inciensos Marinos",
+		"pocket": "items",
+		"price": 9600,
+		"description": "Tiene un curioso aroma que potencia la energía de los ataques de tipo Agua. Debe llevarlo un Pokémon.",
+		"incense": "azurill",
+		"hold": true
+	},
+	"laxincense": {
+		"num": 255,
+		"name": "Incienso Suave",
+		"pluralName": "Inciensos Suaves",
+		"pocket": "items",
+		"price": 9600,
+		"description": "Debe llevarlo un Pokémon. Su peculiar aroma reduce la precisión del rival.",
+		"incense": "wynaut",
+		"hold": true
+	},
+	"oddincense": {
+		"num": 314,
+		"name": "Incienso Raro",
+		"pluralName": "Inciensos Raros",
+		"pocket": "items",
+		"price": 9600,
+		"description": "Incienso de exótico aroma que fortalece los movimientos de tipo Psíquico. Debe llevarlo un Pokémon.",
+		"incense": "mimejr",
+		"hold": true
+	},
+	"rockincense": {
+		"num": 315,
+		"name": "Incienso Roca",
+		"pluralName": "Inciensos Roca",
+		"pocket": "items",
+		"price": 9600,
+		"description": "Incienso de exótico aroma que fortalece los movimientos de tipo Roca. Debe llevarlo un Pokémon.",
+		"incense": "bonsly",
+		"hold": true
+	},
+	"fullincense": {
+		"num": 316,
+		"name": "Incienso Lento",
+		"pluralName": "Inciensos Lentos",
+		"pocket": "items",
+		"price": 9600,
+		"description": "Exótica sustancia aromática que hace que el Pokémon que la lleva se mueva más despacio.",
+		"incense": "munchlax",
+		"hold": true
+	},
+	"waveincense": {
+		"num": 317,
+		"name": "Incienso Aqua",
+		"pluralName": "Inciensos Aqua",
+		"pocket": "items",
+		"price": 9600,
+		"description": "Incienso exótico que fortalece los movimientos de tipo Agua. Debe llevarlo un Pokémon.",
+		"incense": "mantyke",
+		"hold": true
+	},
+	"roseincense": {
+		"num": 318,
+		"name": "Incienso Floral",
+		"pluralName": "Inciensos Florales",
+		"pocket": "items",
+		"price": 9600,
+		"description": "Incienso de exótico aroma que fortalece los movimientos de tipo Planta. Debe llevarlo un Pokémon.",
+		"incense": "budew",
+		"hold": true
+	},
+	"luckincense": {
+		"num": 319,
+		"name": "Incienso Duplo",
+		"pluralName": "Inciensos Duplo",
+		"pocket": "items",
+		"price": 9600,
+		"description": "Incienso de aroma exótico. Si el Pokémon que lo lleva participa en un combate, duplica las ganancias.",
+		"incense": "happiny",
+		"hold": true
+	},
+	"pureincense": {
+		"num": 320,
+		"name": "Incienso Puro",
+		"pluralName": "Inciensos Puros",
+		"pocket": "items",
+		"price": 9600,
+		"description": "Si lo lleva el primer Pokémon del equipo, los Pokémon salvajes se acercarán con menos frecuencia.",
+		"incense": "chingling"
+	},
+	"charcoal": {
+		"num": 249,
+		"name": "Carbón",
+		"pluralName": "Carbones",
+		"pocket": "items",
+		"price": 9800,
+		"description": "Actúa como combustible y potencia la energía de los ataques de tipo Fuego. Debe llevarlo un Pokémon.",
+		"hold": true
+	},
+	"mysticwater": {
+		"num": 243,
+		"name": "Agua Mística",
+		"pluralName": "Aguas Místicas",
+		"pocket": "items",
+		"price": 100,
+		"description": "Gema con forma de lágrima que fortalece los ataques de tipo Agua. Debe llevarla un Pokémon.",
+		"hold": true
+	},
+	"magnet": {
+		"num": 242,
+		"name": "Imán",
+		"pluralName": "Imanes",
+		"pocket": "items",
+		"price": 100,
+		"description": "Debe llevarlo un Pokémon. Su potente magnetismo fortalece los ataques de tipo Eléctrico.",
+		"hold": true
+	},
+	"miracleseed": {
+		"num": 239,
+		"name": "Semilla Milagro",
+		"pluralName": "Semillas Milagros",
+		"pocket": "items",
+		"price": 100,
+		"description": "Debe llevarla un Pokémon. La vitalidad de la semilla fortalece los ataques de tipo Planta.",
+		"hold": true
+	},
+	"nevermeltice": {
+		"num": 246,
+		"name": "Antiderretir",
+		"pluralName": "Antiderretires",
+		"pocket": "items",
+		"price": 100,
+		"description": "Fragmento de hielo que repele el calor y fortalece los ataques de tipo Hielo. Debe llevarlo un Pokémon.",
+		"hold": true
+	},
+	"blackbelt": {
+		"num": 241,
+		"name": "Cinturón Negro",
+		"pluralName": "Cinturones Negros",
+		"pocket": "items",
+		"price": 100,
+		"description": "Debe llevarlo un Pokémon. Aumenta la decisión y fortalece los ataques de tipo Lucha.",
+		"hold": true
+	},
+	"poisonbarb": {
+		"num": 245,
+		"name": "Flecha Venenosa",
+		"pluralName": "Flechas Venenosas",
+		"pocket": "items",
+		"price": 100,
+		"description": "Flecha venenosa que refuerza los movimientos de tipo Veneno. Debe llevarla un Pokémon.",
+		"hold": true
+	},
+	"softsand": {
+		"num": 237,
+		"name": "Arena Fina",
+		"pluralName": "Arenas Finas",
+		"pocket": "items",
+		"price": 100,
+		"description": "Debe llevarla un Pokémon. La suavidad de la arena fortalece los ataques de tipo Tierra.",
+		"hold": true
+	},
+	"sharpbeak": {
+		"num": 244,
+		"name": "Pico Afilado",
+		"pluralName": "Picos Afilados",
+		"pocket": "items",
+		"price": 100,
+		"description": "Pico largo y afilado que aumenta la potencia de los movimientos de tipo Volador. Debe llevarlo un Pokémon.",
+		"hold": true
+	},
+	"twistedspoon": {
+		"num": 248,
+		"name": "Cuchara Torcida",
+		"pluralName": "Cucharas Torcidas",
+		"pocket": "items",
+		"price": 100,
+		"description": "Cuchara llena de energía telequinética que potencia los movimientos de tipo Psíquico. Debe llevarla un Pokémon.",
+		"hold": true
+	},
+	"silverpowder": {
+		"num": 222,
+		"name": "Polvo Plata",
+		"pluralName": "Polvos Plata",
+		"pocket": "items",
+		"price": 100,
+		"description": "Polvo de brillo argénteo que fortalece los ataques de tipo Bicho. Debe llevarlo un Pokémon.",
+		"hold": true
+	},
+	"hardstone": {
+		"num": 238,
+		"name": "Piedra Dura",
+		"pluralName": "Piedras Duras",
+		"pocket": "items",
+		"price": 100,
+		"description": "Debe llevarla un Pokémon. La robustez de la piedra fortalece los ataques de tipo Roca.",
+		"hold": true
+	},
+	"spelltag": {
+		"num": 247,
+		"name": "Hechizo",
+		"pluralName": "Hechizos",
+		"pocket": "items",
+		"price": 100,
+		"description": "Misterioso y oscuro objeto que refuerza los ataques de tipo Fantasma. Debe llevarlo un Pokémon.",
+		"hold": true
+	},
+	"dragonfang": {
+		"num": 250,
+		"name": "Colmillo Dragón",
+		"pluralName": "Colmillos Dragón",
+		"pocket": "items",
+		"price": 100,
+		"description": "Colmillo de gran dureza que refuerza los ataques de tipo Dragón. Debe llevarlo un Pokémon.",
+		"hold": true
+	},
+	"blackglasses": {
+		"num": 240,
+		"name": "Gafas de Sol",
+		"pluralName": "Gafas de Sol",
+		"pocket": "items",
+		"price": 100,
+		"description": "Debe llevarlas un Pokémon. Fortalecen los ataques de tipo Siniestro.",
+		"hold": true
+	},
+	"metalcoat": {
+		"num": 233,
+		"name": "Revestim. Metálico",
+		"pluralName": "Revestim. Metálico",
+		"pocket": "items",
+		"price": 100,
+		"description": "Película metálica que fortalece los ataques de tipo Acero. Debe llevarlo un Pokémon.",
+		"hold": true
+	},
+	"silkscarf": {
+		"num": 251,
+		"name": "Pañuelo Seda",
+		"pluralName": "Pañuelos Seda",
+		"pocket": "items",
+		"price": 100,
+		"description": "La delicadeza del pañuelo fortalece los ataques de tipo Normal. Debe llevarlo un Pokémon.",
+		"hold": true
+	},
+	"flameplate": {
+		"num": 298,
+		"name": "Tabla Llama",
+		"pluralName": "Tablas Llama",
+		"pocket": "items",
+		"price": 0,
+		"description": "Tabla de piedra que potencia los movimientos de tipo Fuego. Debe llevarla un Pokémon.",
+		"plate": "fire",
+		"hold": true
+	},
+	"splashplate": {
+		"num": 299,
+		"name": "Tabla Linfa",
+		"pluralName": "Tablas Linfa",
+		"pocket": "items",
+		"price": 0,
+		"description": "Tabla de piedra que potencia los movimientos de tipo Agua. Debe llevarla un Pokémon.",
+		"plate": "water",
+		"hold": true
+	},
+	"zapplate": {
+		"num": 300,
+		"name": "Tabla Trueno",
+		"pluralName": "Tablas Trueno",
+		"pocket": "items",
+		"price": 0,
+		"description": "Tabla de piedra que potencia los movimientos de tipo Eléctrico. Debe llevarla un Pokémon.",
+		"plate": "electric",
+		"hold": true
+	},
+	"meadowplate": {
+		"num": 301,
+		"name": "Tabla Pradal",
+		"pluralName": "Tablas Pradal",
+		"pocket": "items",
+		"price": 0,
+		"description": "Tabla de piedra que potencia los movimientos de tipo Planta. Debe llevarla un Pokémon.",
+		"plate": "grass",
+		"hold": true
+	},
+	"icicleplate": {
+		"num": 302,
+		"name": "Tabla Helada",
+		"pluralName": "Tablas Helada",
+		"pocket": "items",
+		"price": 0,
+		"description": "Tabla de piedra que potencia los movimientos de tipo Hielo. Debe llevarla un Pokémon.",
+		"plate": "ice",
+		"hold": true
+	},
+	"fistplate": {
+		"num": 303,
+		"name": "Tabla Fuerte",
+		"pluralName": "Tablas Fuerte",
+		"pocket": "items",
+		"price": 0,
+		"description": "Tabla de piedra que potencia los movimientos de tipo Lucha. Debe llevarla un Pokémon.",
+		"plate": "fighting",
+		"hold": true
+	},
+	"toxicplate": {
+		"num": 304,
+		"name": "Tabla Tóxica",
+		"pluralName": "Tablas Tóxica",
+		"pocket": "items",
+		"price": 0,
+		"description": "Tabla de piedra que potencia los movimientos de tipo Veneno. Debe llevarla un Pokémon.",
+		"plate": "poison",
+		"hold": true
+	},
+	"earthplate": {
+		"num": 305,
+		"name": "Tabla Terrax",
+		"pluralName": "Tablas Terrax",
+		"pocket": "items",
+		"price": 0,
+		"description": "Tabla de piedra que potencia los movimientos de tipo Tierra. Debe llevarla un Pokémon.",
+		"plate": "ground",
+		"hold": true
+	},
+	"skyplate": {
+		"num": 306,
+		"name": "Tabla Cielo",
+		"pluralName": "Tablas Cielo",
+		"pocket": "items",
+		"price": 0,
+		"description": "Tabla de piedra que potencia los movimientos de tipo Volador. Debe llevarla un Pokémon.",
+		"plate": "flying",
+		"hold": true
+	},
+	"mindplate": {
+		"num": 307,
+		"name": "Tabla Mental",
+		"pluralName": "Tablas Mental",
+		"pocket": "items",
+		"price": 0,
+		"description": "Tabla de piedra que potencia los movimientos de tipo Psíquico. Debe llevarla un Pokémon.",
+		"plate": "psychic",
+		"hold": true
+	},
+	"insectplate": {
+		"num": 308,
+		"name": "Tabla Bicho",
+		"pluralName": "Tablas Bicho",
+		"pocket": "items",
+		"price": 0,
+		"description": "Tabla de piedra que potencia los movimientos de tipo Bicho. Debe llevarla un Pokémon.",
+		"plate": "bug",
+		"hold": true
+	},
+	"stoneplate": {
+		"num": 309,
+		"name": "Tabla Pétrea",
+		"pluralName": "Tablas Pétrea",
+		"pocket": "items",
+		"price": 0,
+		"description": "Tabla de piedra que potencia los movimientos de tipo Roca. Debe llevarla un Pokémon.",
+		"plate": "rock",
+		"hold": true
+	},
+	"spookyplate": {
+		"num": 310,
+		"name": "Tabla Terror",
+		"pluralName": "Tablas Terror",
+		"pocket": "items",
+		"price": 0,
+		"description": "Tabla de piedra que potencia los movimientos de tipo Fantasma. Debe llevarla un Pokémon.",
+		"plate": "ghost",
+		"hold": true
+	},
+	"dracoplate": {
+		"num": 311,
+		"name": "Tabla Draco",
+		"pluralName": "Tablas Draco",
+		"pocket": "items",
+		"price": 0,
+		"description": "Tabla de piedra que potencia los movimientos de tipo Dragón. Debe llevarla un Pokémon.",
+		"plate": "dragon",
+		"hold": true
+	},
+	"dreadplate": {
+		"num": 312,
+		"name": "Tabla Oscura",
+		"pluralName": "Tablas Oscura",
+		"pocket": "items",
+		"price": 0,
+		"description": "Tabla de piedra que potencia los movimientos de tipo Siniestro. Debe llevarla un Pokémon.",
+		"plate": "dark",
+		"hold": true
+	},
+	"ironplate": {
+		"num": 313,
+		"name": "Tabla Acero",
+		"pluralName": "Tablas Acero",
+		"pocket": "items",
+		"price": 0,
+		"description": "Tabla de piedra que potencia los movimientos de tipo Acero. Debe llevarla un Pokémon.",
+		"plate": "steel",
+		"hold": true
+	},
+	"firegem": {
+		"num": 548,
+		"name": "Gema Fuego",
+		"pluralName": "Gemas Fuego",
+		"pocket": "items",
+		"price": 200,
+		"description": "Joya de un solo uso que potencia los movimientos de tipo Fuego. Debe llevarla un Pokémon.",
+		"gem": "fire",
+		"hold": true
+	},
+	"watergem": {
+		"num": 549,
+		"name": "Gema Agua",
+		"pluralName": "Gemas Agua",
+		"pocket": "items",
+		"price": 200,
+		"description": "Joya de un solo uso que potencia los movimientos de tipo Agua. Debe llevarla un Pokémon.",
+		"gem": "water",
+		"hold": true
+	},
+	"electricgem": {
+		"num": 550,
+		"name": "Gema Eléctrica",
+		"pluralName": "Gemas Eléctrica",
+		"pocket": "items",
+		"price": 200,
+		"description": "Joya de un solo uso que potencia los movimientos de tipo Eléctrico. Debe llevarla un Pokémon.",
+		"gem": "electric",
+		"hold": true
+	},
+	"grassgem": {
+		"num": 551,
+		"name": "Gema Planta",
+		"pluralName": "Gemas Planta",
+		"pocket": "items",
+		"price": 200,
+		"description": "Joya de un solo uso que potencia los movimientos de tipo Planta. Debe llevarla un Pokémon.",
+		"gem": "grass",
+		"hold": true
+	},
+	"icegem": {
+		"num": 552,
+		"name": "Gema Hielo",
+		"pluralName": "Gemas Hielo",
+		"pocket": "items",
+		"price": 200,
+		"description": "Joya de un solo uso que potencia los movimientos de tipo Hielo. Debe llevarla un Pokémon.",
+		"gem": "ice",
+		"hold": true
+	},
+	"fightinggem": {
+		"num": 553,
+		"name": "Gema Lucha",
+		"pluralName": "Gemas Lucha",
+		"pocket": "items",
+		"price": 200,
+		"description": "Joya de un solo uso que potencia los movimientos de tipo Lucha. Debe llevarla un Pokémon.",
+		"gem": "fighting",
+		"hold": true
+	},
+	"poisongem": {
+		"num": 554,
+		"name": "Gema Veneno",
+		"pluralName": "Gemas Veneno",
+		"pocket": "items",
+		"price": 200,
+		"description": "Joya de un solo uso que potencia los movimientos de tipo Veneno. Debe llevarla un Pokémon.",
+		"gem": "poison",
+		"hold": true
+	},
+	"groundgem": {
+		"num": 555,
+		"name": "Gema Tierra",
+		"pluralName": "Gemas Tierra",
+		"pocket": "items",
+		"price": 200,
+		"description": "Joya de un solo uso que potencia los movimientos de tipo Tierra. Debe llevarla un Pokémon.",
+		"gem": "ground",
+		"hold": true
+	},
+	"flyinggem": {
+		"num": 556,
+		"name": "Gema Voladora",
+		"pluralName": "Gemas Voladora",
+		"pocket": "items",
+		"price": 200,
+		"description": "Joya de un solo uso que potencia los movimientos de tipo Volador. Debe llevarla un Pokémon.",
+		"gem": "flying",
+		"hold": true
+	},
+	"psychicgem": {
+		"num": 557,
+		"name": "Gema Psíquica",
+		"pluralName": "Gemas Psíquica",
+		"pocket": "items",
+		"price": 200,
+		"description": "Joya de un solo uso que potencia los movimientos de tipo Psíquico. Debe llevarla un Pokémon.",
+		"gem": "psychic",
+		"hold": true
+	},
+	"buggem": {
+		"num": 558,
+		"name": "Gema Bicho",
+		"pluralName": "Gemas Bicho",
+		"pocket": "items",
+		"price": 200,
+		"description": "Joya de un solo uso que potencia los movimientos de tipo Bicho. Debe llevarla un Pokémon.",
+		"gem": "bug",
+		"hold": true
+	},
+	"rockgem": {
+		"num": 559,
+		"name": "Gema Roca",
+		"pluralName": "Gemas Roca",
+		"pocket": "items",
+		"price": 200,
+		"description": "Joya de un solo uso que potencia los movimientos de tipo Roca. Debe llevarla un Pokémon.",
+		"gem": "rock",
+		"hold": true
+	},
+	"ghostgem": {
+		"num": 560,
+		"name": "Gema Fantasma",
+		"pluralName": "Gemas Fantasma",
+		"pocket": "items",
+		"price": 200,
+		"description": "Joya de un solo uso que potencia los movimientos de tipo Fantasma. Debe llevarla un Pokémon.",
+		"gem": "ghost",
+		"hold": true
+	},
+	"dragongem": {
+		"num": 561,
+		"name": "Gema Dragón",
+		"pluralName": "Gemas Dragón",
+		"pocket": "items",
+		"price": 200,
+		"description": "Joya de un solo uso que potencia los movimientos de tipo Dragón. Debe llevarla un Pokémon.",
+		"gem": "dragon",
+		"hold": true
+	},
+	"darkgem": {
+		"num": 562,
+		"name": "Gema Siniestra",
+		"pluralName": "Gemas Siniestra",
+		"pocket": "items",
+		"price": 200,
+		"description": "Joya de un solo uso que potencia los movimientos de tipo Siniestro. Debe llevarla un Pokémon.",
+		"gem": "dark",
+		"hold": true
+	},
+	"steelgem": {
+		"num": 563,
+		"name": "Gema Acero",
+		"pluralName": "Gemas Acero",
+		"pocket": "items",
+		"price": 200,
+		"description": "Joya de un solo uso que potencia los movimientos de tipo Acero. Debe llevarla un Pokémon.",
+		"gem": "steel",
+		"hold": true
+	},
+	"normalgem": {
+		"num": 564,
+		"name": "Gema Normal",
+		"pluralName": "Gemas Normal",
+		"pocket": "items",
+		"price": 200,
+		"description": "Joya de un solo uso que potencia los movimientos de tipo Normal. Debe llevarla un Pokémon.",
+		"gem": "normal",
+		"hold": true
+	},
+	"lightball": {
+		"num": 236,
+		"name": "Bolaluminosa",
+		"pluralName": "Bolaluminosas",
+		"pocket": "items",
+		"price": 100,
+		"description": "Asombrosa esfera que debe llevar Pikachu y que aumenta el Ataque y el Ataque Especial.",
+		"users": ["pikachu"],
+		"hold": true
+	},
+	"luckypunch": {
+		"num": 256,
+		"name": "Puño Suerte",
+		"pluralName": "Puños Suerte",
+		"pocket": "items",
+		"price": 10,
+		"description": "Debe llevarlo Chansey. Potencia su índice de golpe crítico.",
+		"users": ["chansey"],
+		"hold": true
+	},
+	"metalpowder": {
+		"num": 257,
+		"name": "Polvo Metálico",
+		"pluralName": "Polvos Metálicos",
+		"pocket": "items",
+		"price": 10,
+		"description": "Debe llevarlo Ditto. Es un polvo muy fino, pero a la vez resistente, que aumentará su Defensa.",
+		"users": ["ditto"],
+		"hold": true
+	},
+	"quickpowder": {
+		"num": 274,
+		"name": "Polvo Veloz",
+		"pluralName": "Polvos Veloces",
+		"pocket": "items",
+		"price": 10,
+		"description": "Este objeto incrementa en un 100% la Velocidad de Ditto en batalla. Este objeto deja de ser efectivo una vez Ditto ha usado Transform. o Impostor.",
+		"users": ["ditto"],
+		"hold": true
+	},
+	"thickclub": {
+		"num": 258,
+		"name": "Hueso Grueso",
+		"pluralName": "Huesos Gruesos",
+		"pocket": "items",
+		"price": 500,
+		"description": "Un extraño tipo de hueso que potencia el Ataque. Suelen llevarlo Cubone o Marowak.",
+		"users": ["cubone","marowak"],
+		"hold": true
+	},
+	"leek": {
+		"num": 259,
+		"name": "Puerro",
+		"pluralName": "Puerros",
+		"pocket": "items",
+		"price": 200,
+		"description": "Es un puerro muy largo que suele llevar Farfetch′d. Aumenta la probabilidad de que logre un golpe crítico.",
+		"users": ["farfetchd"],
+		"hold": true
+	},
+	"souldew": {
+		"num": 225,
+		"name": "Rocío Bondad",
+		"pluralName": "Rocíos Bondad",
+		"pocket": "items",
+		"price": 200,
+		"description": "Un orbe fantástico que deben llevar Latios o Latias. Sube el At. Esp. y la Def. Esp.",
+		"users": ["latios","latias"],
+		"hold": true
+	},
+	"deepseatooth": {
+		"num": 226,
+		"name": "Diente Marino",
+		"pluralName": "Dientes Marinos",
+		"pocket": "items",
+		"price": 200,
+		"description": "Tiene el brillo afilado de la plata y debe llevarlo Clamperl. Sube el At. Esp.",
+		"users": ["clamperl"],
+		"hold": true
+	},
+	"deepseascale": {
+		"num": 227,
+		"name": "Escama Marina",
+		"pluralName": "Escamas Marinas",
+		"pocket": "items",
+		"price": 200,
+		"description": "Tiene un débil brillo rosado y debe llevarla Clamperl. Sube la Def. Esp.",
+		"users": ["clamperl"],
+		"hold": true
+	},
+	"adrenalineorb": {
+		"num": 846,
+		"gen": 7,
+		"name": "Nerviosfera",
+		"pluralName": "Nerviosferas",
+		"pocket": "items",
+		"price": 300,
+		"boosts": {
+			"speed": 1
+		},
+		"description": "Raises holder's Speed by 1 stage if it gets affected by Intimidate. Single use.",
+		"hold": true
+	},
+	"adamantorb": {
+		"num": 135,
+		"gen": 4,
+		"name": "Diamansfera",
+		"pluralName": "Diamansferas",
+		"pocket": "items",
+		"price": 10000,
+		"description": "Una esfera brillante que potencia los ataques de tipo Acero y Dragón. Debe llevarla Dialga.",
+		"users": ["dialga"],
+		"onBasePowerPriority": 15,
+		"hold": true
+	},
+	"lustrousorb": {
+		"num": 136,
+		"name": "Lustresfera",
+		"pluralName": "Lustresferas",
+		"pocket": "items",
+		"price": 10000,
+		"description": "Una bonita esfera que potencia los ataques de tipo Dragón y Agua. Debe llevarla Palkia.",
+		"users": ["palkia"],
+		"hold": true
+	},
+	"griseousorb": {
+		"num": 112,
+		"name": "Griseosfera",
+		"pluralName": "Griseosferas",
+		"pocket": "items",
+		"price": 10000,
+		"description": "Una esfera brillante que potencia los ataques de tipo Dragón y Fantasma. Debe llevarla Giratina.",
+		"users": ["giratina"],
+		"hold": true
+	},
+	"dousedrive": {
+		"num": 116,
+		"name": "HidroROM",
+		"pluralName": "HidroROMs",
+		"pocket": "items",
+		"price": 1000,
+		"description": "Cartucho que convierte Tecno Shock de Genesect en un movimiento de tipo Agua.",
+		"users": ["genesect"],
+		"hold": true
+	},
+	"shockdrive": {
+		"num": 117,
+		"name": "FulgoROM",
+		"pluralName": "FulgoROMs",
+		"pocket": "items",
+		"price": 1000,
+		"description": "Cartucho que convierte Tecno Shock de Genesect en un movimiento de tipo Eléctrico.",
+		"users": ["genesect"],
+		"hold": true
+	},
+	"burndrive": {
+		"num": 118,
+		"name": "PiroROM",
+		"pluralName": "PiroROMs",
+		"pocket": "items",
+		"price": 1000,
+		"description": "Cartucho que convierte Tecno Shock de Genesect en un movimiento de tipo Fuego.",
+		"users": ["genesect"],
+		"hold": true
+	},
+	"chilldrive": {
+		"num": 119,
+		"name": "CrioROM",
+		"pluralName": "CrioROMs",
+		"pocket": "items",
+		"price": 1000,
+		"description": "Cartucho que convierte Tecno Shock de Genesect en un movimiento de tipo Hielo.",
+		"users": ["genesect"],
+		"hold": true
+	},
+	"everstone": {
+		"num": 229,
+		"name": "Piedra Eterna",
+		"pluralName": "Piedras Eternas",
+		"pocket": "items",
+		"price": 200,
+		"description": "El Pokémon que lleve esta piedra mágica no evolucionará."
+	},
+	"dragonscale": {
+		"num": 235,
+		"name": "Escamadragón",
+		"pluralName": "Escamadragones",
+		"pocket": "items",
+		"price": 2100,
+		"description": "Una gruesa y resistente escama que pueden llevar los Pokémon de tipo Dragón cuando son capturados."
+	},
+	"upgrade": {
+		"num": 252,
+		"name": "Mejora",
+		"pluralName": "Mejoras",
+		"pocket": "items",
+		"price": 2100,
+		"description": "Peculiar dispositivo fabricado en Silph S.A. que contiene todo tipo de datos."
+	},
+	"dubiousdisc": {
+		"num": 324,
+		"name": "Disco Extraño",
+		"pluralName": "Discos Extraños",
+		"pocket": "items",
+		"price": 2100,
+		"description": "Dispositivo transparente que contiene datos misteriosos. Es de fabricante desconocido."
+	},
+	"protector": {
+		"num": 321,
+		"name": "Protector",
+		"pluralName": "Protectores",
+		"pocket": "items",
+		"price": 2100,
+		"description": "Dispositivo de protección muy pesado. Algunos Pokémon lo adoran."
+	},
+	"electirizer": {
+		"num": 322,
+		"name": "Electrizador",
+		"pluralName": "Electrizadores",
+		"pocket": "items",
+		"price": 2100,
+		"description": "Este dispositivo contiene una gran cantidad de energía eléctrica. Algunos Pokémon lo adoran."
+	},
+	"magmarizer": {
+		"num": 323,
+		"name": "Magmatizador",
+		"pluralName": "Magmatizadores",
+		"pocket": "items",
+		"price": 2100,
+		"description": "Esta caja contiene una enorme cantidad de energía magmática. Algunos Pokémon lo adoran."
+	},
+	"reapercloth": {
+		"num": 325,
+		"name": "Tela Terrible",
+		"pluralName": "Telas Terribles",
+		"pocket": "items",
+		"price": 2100,
+		"description": "Tela imbuida de una energía espiritual muy potente. Algunos Pokémon la adoran."
+	},
+	"prismscale": {
+		"num": 537,
+		"name": "Escama Bella",
+		"pluralName": "Escamas Bellas",
+		"pocket": "items",
+		"price": 500,
+		"description": "Curiosa piedra que hace evolucionar a determinadas especies de Pokémon. Brilla con los colores del arcoíris."
+	},
+	"ovalstone": {
+		"num": 110,
+		"name": "Piedra Oval",
+		"pluralName": "Piedras Ovales",
+		"pocket": "items",
+		"price": 2100,
+		"description": "Una piedra peculiar que hace evolucionar a algunos Pokémon. Tiene forma de huevo."
+	},
+	"redscarf": {
+		"num": 260,
+		"name": "Pañuelo Rojo",
+		"pluralName": "Pañuelos Rojo",
+		"pocket": "items",
+		"price": 100,
+		"description": "Debe llevarlo un Pokémon. Aumenta el carisma en los concursos."
+	},
+	"bluescarf": {
+		"num": 261,
+		"name": "Pañuelo Azul",
+		"pluralName": "Pañuelos Azul",
+		"pocket": "items",
+		"price": 100,
+		"description": "Debe llevarlo un Pokémon. Aumenta la belleza en los concursos."
+	},
+	"pinkscarf": {
+		"num": 262,
+		"name": "Pañuelo Rosa",
+		"pluralName": "Pañuelos Rosa",
+		"pocket": "items",
+		"price": 100,
+		"description": "Debe llevarlo un Pokémon. Aumenta la dulzura en los concursos."
+	},
+	"greenscarf": {
+		"num": 263,
+		"name": "Pañuelo Verde",
+		"pluralName": "Pañuelos Verde",
+		"pocket": "items",
+		"price": 100,
+		"description": "Debe llevarlo un Pokémon. Aumenta el ingenio en los concursos."
+	},
+	"yellowscarf": {
+		"num": 264,
+		"name": "Pañuelo Amarillo",
+		"pluralName": "Pañuelos Amarillo",
+		"pocket": "items",
+		"price": 100,
+		"description": "Debe llevarlo un Pokémon. Aumenta la dureza en los concursos."
+	},
+	"potion": {
+		"num": 17,
+		"name": "Poción",
+		"pluralName": "Pociones",
+		"pocket": "medicines",
+		"price": 300,
+		"description": "Medicina en spray que cura heridas y restaura 20 PS de un Pokémon."
+	},
+	"superpotion": {
+		"num": 26,
+		"name": "Superpoción",
+		"pluralName": "Superpociones",
+		"pocket": "medicines",
+		"price": 700,
+		"description": "Medicina en spray que cura heridas y restaura 50 PS de un Pokémon."
+	},
+	"hyperpotion": {
+		"num": 25,
+		"name": "Hiperpoción",
+		"pluralName": "Hiperpociones",
+		"pocket": "medicines",
+		"price": 1200,
+		"description": "Medicina en spray que cura heridas y restaura 200 PS de un Pokémon."
+	},
+	"maxpotion": {
+		"num": 24,
+		"name": "Poción Máxima",
+		"pluralName": "Pociones Máximas",
+		"pocket": "medicines",
+		"price": 2500,
+		"description": "Medicina en spray que cura heridas y restaura todos los PS de un Pokémon."
+	},
+	"fullrestore": {
+		"num": 23,
+		"name": "Restaura Todo",
+		"pluralName": "Restaura Todo",
+		"pocket": "medicines",
+		"price": 3000,
+		"description": "Medicina que restaura todos los PS y cura todos los problemas de estado de un Pokémon."
+	},
+	"sacredash": {
+		"num": 44,
+		"name": "Ceniza Sagrada",
+		"pluralName": "Cenizas Sagradas",
+		"pocket": "medicines",
+		"price": 200,
+		"description": "Reanima completamente a los Pokémon debilitados y restaura todos sus PS."
+	},
+	"awakening": {
+		"num": 21,
+		"name": "Despertar",
+		"pluralName": "Despertar",
+		"pocket": "medicines",
+		"price": 250,
+		"description": "Medicina en spray que libera a un Pokémon de las garras del sueño."
+	},
+	"antidote": {
+		"num": 18,
+		"name": "Antídoto",
+		"pluralName": "Antídotos",
+		"pocket": "medicines",
+		"price": 100,
+		"description": "Medicina en spray que contrarresta los efectos del veneno en un Pokémon."
+	},
+	"burnheal": {
+		"num": 19,
+		"name": "Antiquemadura",
+		"pluralName": "Antiquemaduras",
+		"pocket": "medicines",
+		"price": 250,
+		"description": "Medicina en spray que cura las quemaduras a un Pokémon."
+	},
+	"paralyzeheal": {
+		"num": 22,
+		"name": "Antiparalizante",
+		"pluralName": "Antiparalizantes",
+		"pocket": "medicines",
+		"price": 200,
+		"description": "Medicina en spray que cura a un Pokémon paralizado."
+	},
+	"iceheal": {
+		"num": 20,
+		"name": "Antihielo",
+		"pluralName": "Antihielos",
+		"pocket": "medicines",
+		"price": 250,
+		"description": "Medicina en spray que descongela a un Pokémon."
+	},
+	"fullheal": {
+		"num": 27,
+		"name": "Cura Total",
+		"pluralName": "Curas Totales",
+		"pocket": "medicines",
+		"price": 600,
+		"description": "Medicina en spray que cura todos los problemas de estado de un Pokémon."
+	},
+	"lavacookie": {
+		"num": 42,
+		"name": "Galleta Lava",
+		"pluralName": "Galletas Lava",
+		"pocket": "medicines",
+		"price": 1000,
+		"description": "Dulce típico de Pueblo Lavacalda que cura todos los problemas de estado de un Pokémon."
+	},
+	"oldgateau": {
+		"num": 54,
+		"name": "Barrita Plus",
+		"pluralName": "Barritas Plus",
+		"pocket": "medicines",
+		"price": 1000,
+		"description": "Especialidad de la Vieja Mansión. Cura los problemas de estado de un Pokémon."
+	},
+	"casteliacone": {
+		"num": 591,
+		"name": "Porcehelado",
+		"pluralName": "Porcehelados",
+		"pocket": "medicines",
+		"price": 1000,
+		"description": "Especialidad de Ciudad Porcelana. Cura los problemas de estado de un Pokémon."
+	},
+	"revive": {
+		"num": 28,
+		"name": "Revivir",
+		"pluralName": "Revivir",
+		"pocket": "medicines",
+		"price": 1500,
+		"description": "Medicina que reanima a un Pokémon debilitado y restaura la mitad de sus PS."
+	},
+	"maxrevive": {
+		"num": 29,
+		"name": "Revivir Máximo",
+		"pluralName": "Revivir Máximos",
+		"pocket": "medicines",
+		"price": 4000,
+		"description": "Medicina que reanima a un Pokémon debilitado y restaura todos sus PS."
+	},
+	"berryjuice": {
+		"num": 43,
+		"name": "Zumo de Baya",
+		"pluralName": "Zumos de Baya",
+		"pocket": "medicines",
+		"price": 100,
+		"description": "Zumo de bayas 100% natural que restaura 20 PS de un Pokémon."
+	},
+	"ragecandybar": {
+		"num": 504,
+		"name": "Caramelo Furia",
+		"pluralName": "Caramelos Furia",
+		"pocket": "medicines",
+		"price": 1000,
+		"description": "Caramelo típico de Pueblo Caoba, muy popular como souvenir."
+	},
+	"sweetheart": {
+		"num": 134,
+		"name": "Corazón Dulce",
+		"pluralName": "Corazones Dulces",
+		"pocket": "medicines",
+		"price": 100,
+		"description": "Chocolatina de sabor dulce. Restaura 20 PS de un Pokémon."
+	},
+	"freshwater": {
+		"num": 30,
+		"name": "Agua Fresca",
+		"pluralName": "Aguas Frescas",
+		"pocket": "medicines",
+		"price": 200,
+		"description": "Agua de alto contenido mineral que restaura 50 PS de un Pokémon."
+	},
+	"sodapop": {
+		"num": 31,
+		"name": "Refresco",
+		"pluralName": "Refrescos",
+		"pocket": "medicines",
+		"price": 300,
+		"description": "Chispeante bebida gaseosa que restaura 60 PS de un Pokémon."
+	},
+	"lemonade": {
+		"num": 32,
+		"name": "Limonada",
+		"pluralName": "Limonadas",
+		"pocket": "medicines",
+		"price": 350,
+		"description": "Bebida dulce que restaura 80 PS de un Pokémon."
+	},
+	"moomoomilk": {
+		"num": 33,
+		"name": "Leche Mu-mu",
+		"pluralName": "Leches Mu-mu",
+		"pocket": "medicines",
+		"price": 500,
+		"description": "Leche de alto valor nutritivo que restaura 100 PS de un Pokémon."
+	},
+	"energypowder": {
+		"num": 34,
+		"name": "Polvoenergía",
+		"pluralName": "Polvoenergías",
+		"pocket": "medicines",
+		"price": 500,
+		"description": "Polvo medicinal muy amargo que restaura 50 PS de un Pokémon."
+	},
+	"energyroot": {
+		"num": 35,
+		"name": "Raíz Energía",
+		"pluralName": "Raíces Energías",
+		"pocket": "medicines",
+		"price": 800,
+		"description": "Raíz muy amarga que restaura 200 PS de un Pokémon."
+	},
+	"healpowder": {
+		"num": 36,
+		"name": "Polvo Curación",
+		"pluralName": "Polvos Curación",
+		"pocket": "medicines",
+		"price": 450,
+		"description": "Polvos muy amargos que curan todos los problemas de estado de un Pokémon."
+	},
+	"revivalherb": {
+		"num": 37,
+		"name": "Hierba Revivir",
+		"pluralName": "Hierbas Revivir",
+		"pocket": "medicines",
+		"price": 2800,
+		"description": "Hierba muy amarga que reanima a un Pokémon debilitado y restaura todos sus PS."
+	},
+	"ether": {
+		"num": 38,
+		"name": "Éter",
+		"pluralName": "Éteres",
+		"pocket": "medicines",
+		"price": 1200,
+		"description": "Restaura un máximo de 10 PP del ataque que elijas de un Pokémon."
+	},
+	"maxether": {
+		"num": 39,
+		"name": "Éter Máximo",
+		"pluralName": "Éteres Máximos",
+		"pocket": "medicines",
+		"price": 2000,
+		"description": "Restaura completamente los PP del movimiento que elijas de un Pokémon."
+	},
+	"elixir": {
+		"num": 40,
+		"name": "Elixir",
+		"pluralName": "Elíxires",
+		"pocket": "medicines",
+		"price": 3000,
+		"description": "Restaura 10 PP de todos los movimientos aprendidos por un Pokémon."
+	},
+	"maxelixir": {
+		"num": 41,
+		"name": "Elixir Máximo",
+		"pluralName": "Elíxires Máximos",
+		"pocket": "medicines",
+		"price": 4500,
+		"description": "Restaura completamente los PP de todos los movimientos aprendidos por el Pokémon elegido."
+	},
+	"ppup": {
+		"num": 51,
+		"name": "Más PP",
+		"pluralName": "Más PP",
+		"pocket": "medicines",
+		"price": 9800,
+		"description": "Aumenta ligeramente los PP máximos del ataque que elijas de un Pokémon."
+	},
+	"ppmax": {
+		"num": 53,
+		"name": "PP Máximos",
+		"pluralName": "PP Máximos",
+		"pocket": "medicines",
+		"price": 9800,
+		"description": "Aumenta al máximo los PP del ataque que elijas de un Pokémon."
+	},
+	"hpup": {
+		"num": 45,
+		"name": "Más PS",
+		"pluralName": "Más PS",
+		"pocket": "medicines",
+		"price": 9800,
+		"description": "Nutritiva bebida que aumenta los PS de un Pokémon."
+	},
+	"protein": {
+		"num": 46,
+		"name": "Proteína",
+		"pluralName": "Proteínas",
+		"pocket": "medicines",
+		"price": 9800,
+		"description": "Nutritiva bebida que aumenta el Ataque de un Pokémon."
+	},
+	"iron": {
+		"num": 47,
+		"name": "Hierro",
+		"pluralName": "Hierros",
+		"pocket": "medicines",
+		"price": 9800,
+		"description": "Nutritiva bebida que aumenta la Defensa de un Pokémon."
+	},
+	"calcium": {
+		"num": 49,
+		"name": "Calcio",
+		"pluralName": "Calcios",
+		"pocket": "medicines",
+		"price": 9800,
+		"description": "Nutritiva bebida que sube el At. Esp. de un Pokémon."
+	},
+	"zinc": {
+		"num": 52,
+		"name": "Zinc",
+		"pluralName": "Zincs",
+		"pocket": "medicines",
+		"price": 9800,
+		"description": "Nutritiva bebida que aumenta la Defensa Especial de un Pokémon."
+	},
+	"carbos": {
+		"num": 48,
+		"name": "Carburante",
+		"pluralName": "Carburantes",
+		"pocket": "medicines",
+		"price": 9800,
+		"description": "Nutritiva bebida que sube la Velocidad de un Pokémon."
+	},
+	"healthwing": {
+		"num": 565,
+		"name": "Pluma Vigor",
+		"pluralName": "Plumas Vigor",
+		"pocket": "medicines",
+		"price": 3000,
+		"description": "Pluma que aumenta un poco los PS de un Pokémon al subir de nivel."
+	},
+	"musclewing": {
+		"num": 566,
+		"name": "Pluma Músculo",
+		"pluralName": "Plumas Músculo",
+		"pocket": "medicines",
+		"price": 3000,
+		"description": "Pluma que aumenta un poco el Ataque de un Pokémon al subir de nivel."
+	},
+	"resistwing": {
+		"num": 567,
+		"name": "Pluma Aguante",
+		"pluralName": "Plumas Aguante",
+		"pocket": "medicines",
+		"price": 3000,
+		"description": "Pluma que aumenta un poco la Defensa de un Pokémon al subir de nivel."
+	},
+	"geniuswing": {
+		"num": 568,
+		"name": "Pluma Intelecto",
+		"pluralName": "Plumas Intelecto",
+		"pocket": "medicines",
+		"price": 3000,
+		"description": "Pluma que aumenta un poco el Ataque Especial de un Pokémon al subir de nivel."
+	},
+	"cleverwing": {
+		"num": 569,
+		"name": "Pluma Mente",
+		"pluralName": "Plumas Mente",
+		"pocket": "medicines",
+		"price": 3000,
+		"description": "Pluma que aumenta un poco la Defensa Especial de un Pokémon al subir de nivel."
+	},
+	"swiftwing": {
+		"num": 570,
+		"name": "Pluma Ímpetu",
+		"pluralName": "Plumas Ímpetu",
+		"pocket": "medicines",
+		"price": 3000,
+		"description": "Pluma que aumenta un poco la Velocidad de un Pokémon al subir de nivel."
+	},
+	"rarecandy": {
+		"num": 50,
+		"name": "Caramelo Raro",
+		"pluralName": "Caramelos Raros",
+		"pocket": "medicines",
+		"price": 4800,
+		"description": "Caramelo energético que sube a un Pokémon de nivel."
+	},
+	"masterball": {
+		"num": 1,
+		"name": "Master Ball",
+		"pluralName": "Master Balls",
+		"pocket": "pokeballs",
+		"price": 0,
+		"description": "La Poké Ball definitiva. Atrapa a cualquier Pokémon salvaje y no falla nunca."
+	},
+	"ultraball": {
+		"num": 2,
+		"name": "Ultra Ball",
+		"pluralName": "Ultra Balls",
+		"pocket": "pokeballs",
+		"price": 1200,
+		"description": "Poké Ball de rendimiento superior. Tiene más índice de éxito que la Superball."
+	},
+	"greatball": {
+		"num": 3,
+		"name": "Super Ball",
+		"pluralName": "Super Balls",
+		"pocket": "pokeballs",
+		"price": 600,
+		"description": "Poké Ball de alto rendimiento. Tiene un índice de éxito superior al de la Poké Ball."
+	},
+	"pokeball": {
+		"num": 4,
+		"name": "Poké Ball",
+		"pluralName": "Poké Balls",
+		"pocket": "pokeballs",
+		"price": 200,
+		"description": "Dispositivo con diseño capsular que atrapa Pokémon salvajes. Se lanza como una bola contra el blanco."
+	},
+	"safariball": {
+		"num": 5,
+		"name": "Safari Ball",
+		"pluralName": "Safari Balls",
+		"pocket": "pokeballs",
+		"price": 0,
+		"description": "Poké Ball con un diseño de camuflaje que se utiliza únicamente en el Gran Pantano."
+	},
+	"netball": {
+		"num": 6,
+		"name": "Malla Ball",
+		"pluralName": "Malla Balls",
+		"pocket": "pokeballs",
+		"price": 1000,
+		"description": "Es algo distinta a las demás. Funciona especialmente bien con los Pokémon de tipo Agua y Bicho."
+	},
+	"diveball": {
+		"num": 7,
+		"name": "Buceo Ball",
+		"pluralName": "Buceo Balls",
+		"pocket": "pokeballs",
+		"price": 1000,
+		"description": "Es algo distinta a las demás. Funciona especialmente bien con los Pokémon que viven en el mar."
+	},
+	"nestball": {
+		"num": 8,
+		"name": "Nido Ball",
+		"pluralName": "Nido Balls",
+		"pocket": "pokeballs",
+		"price": 1000,
+		"description": "Es algo distinta a las demás. Funciona especialmente bien con los Pokémon salvajes de menor nivel."
+	},
+	"repeatball": {
+		"num": 9,
+		"name": "Acopio Ball",
+		"pluralName": "Acopio Balls",
+		"pocket": "pokeballs",
+		"price": 1000,
+		"description": "Es algo distinta a las demás. Funciona especialmente bien con los Pokémon iguales a los que ya has capturado."
+	},
+	"timerball": {
+		"num": 10,
+		"name": "Turno Ball",
+		"pluralName": "Turno Balls",
+		"pocket": "pokeballs",
+		"price": 1000,
+		"description": "Una Poké Ball algo distinta que va mejorando su rendimiento con cada turno de combate."
+	},
+	"luxuryball": {
+		"num": 11,
+		"name": "Lujo Ball",
+		"pluralName": "Lujo Balls",
+		"pocket": "pokeballs",
+		"price": 1000,
+		"description": "Acogedora Poké Ball que hace más amistosos a los Pokémon salvajes capturados."
+	},
+	"premierball": {
+		"num": 12,
+		"name": "Honor Ball",
+		"pluralName": "Honor Balls",
+		"pocket": "pokeballs",
+		"price": 200,
+		"description": "Es una Poké Ball muy particular que se creó para conmemorar algún acontecimiento."
+	},
+	"duskball": {
+		"num": 13,
+		"name": "Ocaso Ball",
+		"pluralName": "Ocaso Balls",
+		"pocket": "pokeballs",
+		"price": 1000,
+		"description": "Es algo distinta. Hace que sea más fácil capturar a Pokémon salvajes en la oscuridad."
+	},
+	"healball": {
+		"num": 14,
+		"name": "Sana Ball",
+		"pluralName": "Sana Balls",
+		"pocket": "pokeballs",
+		"price": 300,
+		"description": "Poké Ball curativa que restaura los PS de un Pokémon capturado y cura sus problemas de estado."
+	},
+	"quickball": {
+		"num": 15,
+		"name": "Veloz Ball",
+		"pluralName": "Veloz Balls",
+		"pocket": "pokeballs",
+		"price": 1000,
+		"description": "Una Poké Ball algo distinta que potencia el índice de captura si se usa al inicio de un encuentro con Pokémon salvajes."
+	},
+	"cherishball": {
+		"num": 16,
+		"name": "Gloria Ball",
+		"pluralName": "Gloria Balls",
+		"pocket": "pokeballs",
+		"price": 200,
+		"description": "Es una Poké Ball muy particular que se creó para conmemorar algún acontecimiento."
+	},
+	"fastball": {
+		"num": 492,
+		"name": "Rapid Ball",
+		"pluralName": "Rapid Balls",
+		"pocket": "pokeballs",
+		"price": 3000,
+		"description": "Poké Ball algo distinta, especialmente indicada para capturar Pokémon con Velocidad muy alta."
+	},
+	"levelball": {
+		"num": 493,
+		"name": "Nivel Ball",
+		"pluralName": "Nivel Balls",
+		"pocket": "pokeballs",
+		"price": 3000,
+		"description": "Una Poké Ball diseñada para capturar Pokémon de nivel inferior al de tu Pokémon."
+	},
+	"lureball": {
+		"num": 494,
+		"name": "Cebo Ball",
+		"pluralName": "Cebo Balls",
+		"pocket": "pokeballs",
+		"price": 3000,
+		"description": "Poké Ball algo distinta, especialmente indicada para capturar los Pokémon que se han pescado con una Caña."
+	},
+	"heavyball": {
+		"num": 495,
+		"name": "Peso Ball",
+		"pluralName": "Peso Balls",
+		"pocket": "pokeballs",
+		"price": 3000,
+		"description": "Una Poké Ball diseñada para capturar Pokémon muy pesados."
+	},
+	"loveball": {
+		"num": 496,
+		"name": "Amor Ball",
+		"pluralName": "Amor Balls",
+		"pocket": "pokeballs",
+		"price": 3000,
+		"description": "Una Poké Ball diseñada para capturar Pokémon del género opuesto al de tu Pokémon."
+	},
+	"friendball": {
+		"num": 497,
+		"name": "Amigo Ball",
+		"pluralName": "Amigo Balls",
+		"pocket": "pokeballs",
+		"price": 3000,
+		"description": "Una Poké Ball que hace más amistosos a los Pokémon capturados."
+	},
+	"moonball": {
+		"num": 498,
+		"name": "Luna Ball",
+		"pluralName": "Luna Balls",
+		"pocket": "pokeballs",
+		"price": 3000,
+		"description": "Una Poké Ball diseñada para capturar Pokémon que evolucionan con Piedra Lunar."
+	},
+	"sportball": {
+		"num": 499,
+		"name": "Compet Ball",
+		"pluralName": "Compet Balls",
+		"pocket": "pokeballs",
+		"price": 0,
+		"description": "Poké Ball especial para el Concurso de Captura de Bichos."
+	},
+	"beastball": {
+		"num": 851,
+		"name": "Ente Ball",
+		"pluralName": "Ente Balls",
+		"pocket": "pokeballs",
+		"price": 3000,
+		"description": "Una Poké Ball diseñada para capturar Ultraentes."
+	},
+	"tm01":{
+		"num": 328,
+		"name": "MT01",
+		"pluralName": "MT01s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "honeclaws",
+		"description": ""
+	},
+	"tm02":{
+		"num": 329,
+		"name": "MT02",
+		"pluralName": "MT02s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "dragonclaw",
+		"description": ""
+	},
+	"tm03":{
+		"num": 330,
+		"name": "MT03",
+		"pluralName": "MT03s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "psyshock",
+		"description": ""
+	},
+	"tm04":{
+		"num": 331,
+		"name": "MT04",
+		"pluralName": "MT04s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "calmmind",
+		"description": ""
+	},
+	"tm05":{
+		"num": 332,
+		"name": "MT05",
+		"pluralName": "MT05s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "roar",
+		"description": ""
+	},
+	"tm06":{
+		"num": 333,
+		"name": "MT06",
+		"pluralName": "MT06s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "toxic",
+		"description": ""
+	},
+	"tm07":{
+		"num": 334,
+		"name": "MT07",
+		"pluralName": "MT07s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "hail",
+		"description": ""
+	},
+	"tm08":{
+		"num": 335,
+		"name": "MT08",
+		"pluralName": "MT08s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "bulkup",
+		"description": ""
+	},
+	"tm09":{
+		"num": 336,
+		"name": "MT09",
+		"pluralName": "MT09s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "venoshock",
+		"description": ""
+	},
+	"tm10":{
+		"num": 337,
+		"name": "MT10",
+		"pluralName": "MT10s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "hiddenpower",
+		"description": ""
+	},
+	"tm11":{
+		"num": 338,
+		"name": "MT11",
+		"pluralName": "MT11s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "sunnyday",
+		"description": ""
+	},
+	"tm12":{
+		"num": 339,
+		"name": "MT12",
+		"pluralName": "MT12s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "taunt",
+		"description": ""
+	},
+	"tm13":{
+		"num": 340,
+		"name": "MT13",
+		"pluralName": "MT13s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "icebeam",
+		"description": ""
+	},
+	"tm14":{
+		"num": 341,
+		"name": "MT14",
+		"pluralName": "MT14s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "blizzard",
+		"description": ""
+	},
+	"tm15":{
+		"num": 342,
+		"name": "MT15",
+		"pluralName": "MT15s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "hyperbeam",
+		"description": ""
+	},
+	"tm16":{
+		"num": 343,
+		"name": "MT16",
+		"pluralName": "MT16s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "lightscreen",
+		"description": ""
+	},
+	"tm17":{
+		"num": 344,
+		"name": "MT17",
+		"pluralName": "MT17s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "protect",
+		"description": ""
+	},
+	"tm18":{
+		"num": 345,
+		"name": "MT18",
+		"pluralName": "MT18s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "raindance",
+		"description": ""
+	},
+	"tm19":{
+		"num": 346,
+		"name": "MT19",
+		"pluralName": "MT19s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "roost",
+		"description": ""
+	},
+	"tm20":{
+		"num": 347,
+		"name": "MT20",
+		"pluralName": "MT20s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "safeguard",
+		"description": ""
+	},
+	"tm21":{
+		"num": 348,
+		"name": "MT21",
+		"pluralName": "MT21s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "frustration",
+		"description": ""
+	},
+	"tm22":{
+		"num": 349,
+		"name": "MT22",
+		"pluralName": "MT22s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "solarbeam",
+		"description": ""
+	},
+	"tm23":{
+		"num": 350,
+		"name": "MT23",
+		"pluralName": "MT23s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "smackdown",
+		"description": ""
+	},
+	"tm24":{
+		"num": 351,
+		"name": "MT24",
+		"pluralName": "MT24s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "thunderbolt",
+		"description": ""
+	},
+	"tm25":{
+		"num": 352,
+		"name": "MT25",
+		"pluralName": "MT25s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "thunder",
+		"description": ""
+	},
+	"tm26":{
+		"num": 353,
+		"name": "MT26",
+		"pluralName": "MT26s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "earthquake",
+		"description": ""
+	},
+	"tm27":{
+		"num": 354,
+		"name": "MT27",
+		"pluralName": "MT27s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "return",
+		"description": ""
+	},
+	"tm28":{
+		"num": 355,
+		"name": "MT28",
+		"pluralName": "MT28s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "dig",
+		"description": ""
+	},
+	"tm29":{
+		"num": 356,
+		"name": "MT29",
+		"pluralName": "MT29s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "psychic",
+		"description": ""
+	},
+	"tm30":{
+		"num": 357,
+		"name": "MT30",
+		"pluralName": "MT30s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "shadowball",
+		"description": ""
+	},
+	"tm31":{
+		"num": 358,
+		"name": "MT31",
+		"pluralName": "MT31s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "brickbreak",
+		"description": ""
+	},
+	"tm32":{
+		"num": 359,
+		"name": "MT32",
+		"pluralName": "MT32s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "doubleteam",
+		"description": ""
+	},
+	"tm33":{
+		"num": 360,
+		"name": "MT33",
+		"pluralName": "MT33s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "reflect",
+		"description": ""
+	},
+	"tm34":{
+		"num": 361,
+		"name": "MT34",
+		"pluralName": "MT34s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "sludgewave",
+		"description": ""
+	},
+	"tm35":{
+		"num": 362,
+		"name": "MT35",
+		"pluralName": "MT35s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "flamethrower",
+		"description": ""
+	},
+	"tm36":{
+		"num": 363,
+		"name": "MT36",
+		"pluralName": "MT36s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "sludgebomb",
+		"description": ""
+	},
+	"tm37":{
+		"num": 364,
+		"name": "MT37",
+		"pluralName": "MT37s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "sandstorm",
+		"description": ""
+	},
+	"tm38":{
+		"num": 365,
+		"name": "MT38",
+		"pluralName": "MT38s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "fireblast",
+		"description": ""
+	},
+	"tm39":{
+		"num": 366,
+		"name": "MT39",
+		"pluralName": "MT39s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "rocktomb",
+		"description": ""
+	},
+	"tm40":{
+		"num": 367,
+		"name": "MT40",
+		"pluralName": "MT40s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "aerialace",
+		"description": ""
+	},
+	"tm41":{
+		"num": 368,
+		"name": "MT41",
+		"pluralName": "MT41s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "torment",
+		"description": ""
+	},
+	"tm42":{
+		"num": 369,
+		"name": "MT42",
+		"pluralName": "MT42s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "facade",
+		"description": ""
+	},
+	"tm43":{
+		"num": 370,
+		"name": "MT43",
+		"pluralName": "MT43s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "flamecharge",
+		"description": ""
+	},
+	"tm44":{
+		"num": 371,
+		"name": "MT44",
+		"pluralName": "MT44s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "rest",
+		"description": ""
+	},
+	"tm45":{
+		"num": 372,
+		"name": "MT45",
+		"pluralName": "MT45s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "attract",
+		"description": ""
+	},
+	"tm46":{
+		"num": 373,
+		"name": "MT46",
+		"pluralName": "MT46s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "thief",
+		"description": ""
+	},
+	"tm47":{
+		"num": 374,
+		"name": "MT47",
+		"pluralName": "MT47s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "lowsweep",
+		"description": ""
+	},
+	"tm48":{
+		"num": 375,
+		"name": "MT48",
+		"pluralName": "MT48s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "round",
+		"description": ""
+	},
+	"tm49":{
+		"num": 376,
+		"name": "MT49",
+		"pluralName": "MT49s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "echoedvoice",
+		"description": ""
+	},
+	"tm50":{
+		"num": 377,
+		"name": "MT50",
+		"pluralName": "MT50s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "overheat",
+		"description": ""
+	},
+	"tm51":{
+		"num": 378,
+		"name": "MT51",
+		"pluralName": "MT51s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "steelwing",
+		"description": ""
+	},
+	"tm52":{
+		"num": 379,
+		"name": "MT52",
+		"pluralName": "MT52s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "focusblast",
+		"description": ""
+	},
+	"tm53":{
+		"num": 380,
+		"name": "MT53",
+		"pluralName": "MT53s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "energyball",
+		"description": ""
+	},
+	"tm54":{
+		"num": 381,
+		"name": "MT54",
+		"pluralName": "MT54s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "falseswipe",
+		"description": ""
+	},
+	"tm55":{
+		"num": 382,
+		"name": "MT55",
+		"pluralName": "MT55s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "scald",
+		"description": ""
+	},
+	"tm56":{
+		"num": 383,
+		"name": "MT56",
+		"pluralName": "MT56s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "fling",
+		"description": ""
+	},
+	"tm57":{
+		"num": 384,
+		"name": "MT57",
+		"pluralName": "MT57s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "chargebeam",
+		"description": ""
+	},
+	"tm58":{
+		"num": 385,
+		"name": "MT58",
+		"pluralName": "MT58s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "skydrop",
+		"description": ""
+	},
+	"tm59":{
+		"num": 386,
+		"name": "MT59",
+		"pluralName": "MT59s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "incinerate",
+		"description": ""
+	},
+	"tm60":{
+		"num": 387,
+		"name": "MT60",
+		"pluralName": "MT60s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "quash",
+		"description": ""
+	},
+	"tm61":{
+		"num": 388,
+		"name": "MT61",
+		"pluralName": "MT61s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "willowisp",
+		"description": ""
+	},
+	"tm62":{
+		"num": 389,
+		"name": "MT62",
+		"pluralName": "MT62s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "acrobatics",
+		"description": ""
+	},
+	"tm63":{
+		"num": 390,
+		"name": "MT63",
+		"pluralName": "MT63s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "embargo",
+		"description": ""
+	},
+	"tm64":{
+		"num": 391,
+		"name": "MT64",
+		"pluralName": "MT64s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "explosion",
+		"description": ""
+	},
+	"tm65":{
+		"num": 392,
+		"name": "MT65",
+		"pluralName": "MT65s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "shadowclaw",
+		"description": ""
+	},
+	"tm66":{
+		"num": 393,
+		"name": "MT66",
+		"pluralName": "MT66s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "payback",
+		"description": ""
+	},
+	"tm67":{
+		"num": 394,
+		"name": "MT67",
+		"pluralName": "MT67s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "retaliate",
+		"description": ""
+	},
+	"tm68":{
+		"num": 395,
+		"name": "MT68",
+		"pluralName": "MT68s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "gigaimpact",
+		"description": ""
+	},
+	"tm69":{
+		"num": 396,
+		"name": "MT69",
+		"pluralName": "MT69s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "rockpolish",
+		"description": ""
+	},
+	"tm70":{
+		"num": 397,
+		"name": "MT70",
+		"pluralName": "MT70s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "flash",
+		"description": ""
+	},
+	"tm71":{
+		"num": 398,
+		"name": "MT71",
+		"pluralName": "MT71s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "stoneedge",
+		"description": ""
+	},
+	"tm72":{
+		"num": 399,
+		"name": "MT72",
+		"pluralName": "MT72s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "voltswitch",
+		"description": ""
+	},
+	"tm73":{
+		"num": 400,
+		"name": "MT73",
+		"pluralName": "MT73s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "thunderwave",
+		"description": ""
+	},
+	"tm74":{
+		"num": 401,
+		"name": "MT74",
+		"pluralName": "MT74s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "gyroball",
+		"description": ""
+	},
+	"tm75":{
+		"num": 402,
+		"name": "MT75",
+		"pluralName": "MT75s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "swordsdance",
+		"description": ""
+	},
+	"tm76":{
+		"num": 403,
+		"name": "MT76",
+		"pluralName": "MT76s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "strugglebug",
+		"description": ""
+	},
+	"tm77":{
+		"num": 404,
+		"name": "MT77",
+		"pluralName": "MT77s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "psychup",
+		"description": ""
+	},
+	"tm78":{
+		"num": 405,
+		"name": "MT78",
+		"pluralName": "MT78s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "bulldoze",
+		"description": ""
+	},
+	"tm79":{
+		"num": 406,
+		"name": "MT79",
+		"pluralName": "MT79s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "frostbreath",
+		"description": ""
+	},
+	"tm80":{
+		"num": 407,
+		"name": "MT80",
+		"pluralName": "MT80s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "rockslide",
+		"description": ""
+	},
+	"tm81":{
+		"num": 408,
+		"name": "MT81",
+		"pluralName": "MT81s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "xscissor",
+		"description": ""
+	},
+	"tm82":{
+		"num": 409,
+		"name": "MT82",
+		"pluralName": "MT82s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "dragontail",
+		"description": ""
+	},
+	"tm83":{
+		"num": 410,
+		"name": "MT83",
+		"pluralName": "MT83s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "infestation",
+		"description": ""
+	},
+	"tm84":{
+		"num": 411,
+		"name": "MT84",
+		"pluralName": "MT84s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "poisonjab",
+		"description": ""
+	},
+	"tm85":{
+		"num": 412,
+		"name": "MT85",
+		"pluralName": "MT85s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "dreameater",
+		"description": ""
+	},
+	"tm86":{
+		"num": 413,
+		"name": "MT86",
+		"pluralName": "MT86s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "grassknot",
+		"description": ""
+	},
+	"tm87":{
+		"num": 414,
+		"name": "MT87",
+		"pluralName": "MT87s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "swagger",
+		"description": ""
+	},
+	"tm88":{
+		"num": 415,
+		"name": "MT88",
+		"pluralName": "MT88s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "sleeptalk",
+		"description": ""
+	},
+	"tm89":{
+		"num": 416,
+		"name": "MT89",
+		"pluralName": "MT89s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "uturn",
+		"description": ""
+	},
+	"tm90":{
+		"num": 417,
+		"name": "MT90",
+		"pluralName": "MT90s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "substitute",
+		"description": ""
+	},
+	"tm91":{
+		"num": 418,
+		"name": "MT91",
+		"pluralName": "MT91s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "flashcannon",
+		"description": ""
+	},
+	"tm92":{
+		"num": 419,
+		"name": "MT92",
+		"pluralName": "MT92s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "trickroom",
+		"description": ""
+	},
+	"tm93":{
+		"num": 618,
+		"name": "MT93",
+		"pluralName": "MT93s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "wildcharge",
+		"description": ""
+	},
+	"tm94":{
+		"num": 619,
+		"name": "MT94",
+		"pluralName": "MT94s",
+		"pocket": "tms",
+		"price": 1000,
+		"teach": "rocksmash",
+		"description": ""
+	},
+	"tm95":{
+		"num": 620,
+		"name": "MT95",
+		"pluralName": "MT95s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "snarl",
+		"description": ""
+	},
+	"tm96":{
+		"num": 690,
+		"name": "MT96",
+		"pluralName": "MT96s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "naturepower",
+		"description": ""
+	},
+	"tm97":{
+		"num": 691,
+		"name": "MT97",
+		"pluralName": "MT97s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "darkpulse",
+		"description": ""
+	},
+	"tm98":{
+		"num": 692,
+		"name": "MT98",
+		"pluralName": "MT98s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "poweruppunch",
+		"description": ""
+	},
+	"tm99":{
+		"num": 693,
+		"name": "MT99",
+		"pluralName": "MT99s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "dazzlinggleam",
+		"description": ""
+	},
+	"tm100":{
+		"num": 694,
+		"name": "MT100",
+		"pluralName": "MT100s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "confide",
+		"description": ""
+	},
+	"cheriberry": {
+		"num": 149,
+		"gen": 3,
+		"name": "Baya Zreza",
+		"pluralName": "Bayas Zreza",
+		"pocket": "berries",
+		"price": 20,
+		"description": "Los Pokémon pueden llevarla o usarla para recuperarse de la parálisis.",
+		"hold": true
+	},
+	"chestoberry": {
+		"num": 150,
+		"gen": 3,
+		"name": "Baya Atania",
+		"pluralName": "Bayas Atania",
+		"pocket": "berries",
+		"price": 20,
+		"description": "Los Pokémon pueden llevarla o usarla para despertar del sueño.",
+		"hold": true
+	},
+	"pechaberry": {
+		"num": 151,
+		"gen": 3,
+		"name": "Baya Meloc",
+		"pluralName": "Bayas Meloc",
+		"pocket": "berries",
+		"price": 20,
+		"description": "Los Pokémon pueden llevarla o usarla para curarse del envenenamiento.",
+		"hold": true
+	},
+	"rawstberry": {
+		"num": 152,
+		"gen": 3,
+		"name": "Baya Safre",
+		"pluralName": "Bayas Safre",
+		"pocket": "berries",
+		"price": 20,
+		"description": "Los Pokémon pueden llevarla o usarla para curarse las quemaduras.",
+		"hold": true
+	},
+	"aspearberry": {
+		"num": 153,
+		"gen": 3,
+		"name": "Baya Perasi",
+		"pluralName": "Bayas Perasi",
+		"pocket": "berries",
+		"price": 20,
+		"description": "Los Pokémon pueden llevarla o usarla para descongelarse.",
+		"hold": true
+	},
+	"leppaberry": {
+		"num": 154,
+		"gen": 3,
+		"name": "Baya Zanama",
+		"pluralName": "Bayas Zanama",
+		"pocket": "berries",
+		"price": 20,
+		"description": "Los Pokémon pueden llevarla o usarla para restaurar 10 PP de un movimiento.",
+		"hold": true
+	},
+	"oranberry": {
+		"num": 155,
+		"gen": 3,
+		"name": "Baya Aranja",
+		"pluralName": "Bayas Aranja",
+		"pocket": "berries",
+		"price": 20,
+		"description": "Los Pokémon pueden usarla o llevarla para restaurar 10 PS.",
+		"hold": true
+	},
+	"persimberry": {
+		"num": 156,
+		"gen": 3,
+		"name": "Baya Caquic",
+		"pluralName": "Bayas Caquic",
+		"pocket": "berries",
+		"price": 20,
+		"description": "Los Pokémon pueden usarla o llevarla para salir del estado de confusión.",
+		"hold": true
+	},
+	"lumberry": {
+		"num": 157,
+		"gen": 3,
+		"name": "Baya Ziuela",
+		"pluralName": "Bayas Ziuela",
+		"pocket": "berries",
+		"price": 20,
+		"description": "Los Pokémon pueden llevarla o usarla para recuperarse de problemas de estado.",
+		"hold": true
+	},
+	"sitrusberry": {
+		"num": 158,
+		"gen": 3,
+		"name": "Baya Zidra",
+		"pluralName": "Bayas Zidra",
+		"pocket": "berries",
+		"price": 20,
+		"description": "Los Pokémon pueden usarla o llevarla para restaurar algunos PS.",
+		"hold": true
+	},
+	"figyberry": {
+		"num": 159,
+		"gen": 3,
+		"name": "Baya Higog",
+		"pluralName": "Bayas Higog",
+		"pocket": "berries",
+		"price": 20,
+		"description": "Restaura los PS del Pokémon que la usa en un apuro, pero puede causar confusión.",
+		"hold": true
+	},
+	"wikiberry": {
+		"num": 160,
+		"gen": 3,
+		"name": "Baya Wiki",
+		"pluralName": "Bayas Wiki",
+		"pocket": "berries",
+		"price": 20,
+		"description": "Restaura los PS del Pokémon que la usa en un apuro, pero puede causar confusión.",
+		"hold": true
+	},
+	"magoberry": {
+		"num": 161,
+		"gen": 3,
+		"name": "Baya Ango",
+		"pluralName": "Bayas Ango",
+		"pocket": "berries",
+		"price": 20,
+		"description": "Restaura los PS del Pokémon que la usa en un apuro, pero puede causar confusión.",
+		"hold": true
+	},
+	"aguavberry": {
+		"num": 162,
+		"gen": 3,
+		"name": "Baya Guaya",
+		"pluralName": "Bayas Guaya",
+		"pocket": "berries",
+		"price": 20,
+		"description": "Restaura los PS del Pokémon que la usa en un apuro, pero puede causar confusión.",
+		"hold": true
+	},
+	"iapapaberry": {
+		"num": 163,
+		"gen": 3,
+		"name": "Baya Pabaya",
+		"pluralName": "Bayas Pabaya",
+		"pocket": "berries",
+		"price": 20,
+		"description": "Restaura los PS del Pokémon que la usa en un apuro, pero puede causar confusión.",
+		"hold": true
+	},
+	"razzberry": {
+		"num": 164,
+		"gen": 3,
+		"name": "Baya Frambu",
+		"pluralName": "Bayas Frambu",
+		"pocket": "berries",
+		"price": 20,
+		"description": "Si la plantas en tierra suelta, saldrá una planta de Frambu."
+	},
+	"blukberry": {
+		"num": 165,
+		"gen": 3,
+		"name": "Baya Oram",
+		"pluralName": "Bayas Oram",
+		"pocket": "berries",
+		"price": 20,
+		"description": "Si la plantas en tierra suelta, saldrá una planta de Oram."
+	},
+	"nanabberry": {
+		"num": 166,
+		"gen": 3,
+		"name": "Baya Latano",
+		"pluralName": "Bayas Latano",
+		"pocket": "berries",
+		"price": 20,
+		"description": "Si la plantas en tierra suelta, saldrá una planta de Latano."
+	},
+	"wepearberry": {
+		"num": 167,
+		"gen": 3,
+		"name": "Baya Peragu",
+		"pluralName": "Bayas Peragu",
+		"pocket": "berries",
+		"price": 20,
+		"description": "Si la plantas en tierra suelta, saldrá una planta de Peragu."
+	},
+	"pinapberry": {
+		"num": 168,
+		"gen": 3,
+		"name": "Baya Pinia",
+		"pluralName": "Bayas Pinia",
+		"pocket": "berries",
+		"price": 20,
+		"description": "Si la plantas en tierra suelta, saldrá una planta de Pinia."
+	},
+	"pomegberry": {
+		"num": 169,
+		"gen": 3,
+		"name": "Baya Grana",
+		"pluralName": "Bayas Grana",
+		"pocket": "berries",
+		"price": 200,
+		"description": "Si la usas en un Pokémon te ganas su amistad, pero también reduces sus PS."
+	},
+	"kelpsyberry": {
+		"num": 170,
+		"gen": 3,
+		"name": "Baya Algama",
+		"pluralName": "Bayas Algama",
+		"pocket": "berries",
+		"price": 200,
+		"description": "Si la usas en un Pokémon te ganas su amistad, pero reduces su Ataque."
+	},
+	"qualotberry": {
+		"num": 171,
+		"gen": 3,
+		"name": "Baya Ispero",
+		"pluralName": "Bayas Ispero",
+		"pocket": "berries",
+		"price": 200,
+		"description": "Si la usas en un Pokémon te ganas su amistad, pero reduces su Defensa."
+	},
+	"hondewberry": {
+		"num": 172,
+		"gen": 3,
+		"name": "Baya Meluce",
+		"pluralName": "Bayas Meluce",
+		"pocket": "berries",
+		"price": 200,
+		"description": "Si la usas en un Pokémon te ganas su amistad, pero reduces su Ataque Especial."
+	},
+	"grepaberry": {
+		"num": 173,
+		"gen": 3,
+		"name": "Baya Uvav",
+		"pluralName": "Bayas Uvav",
+		"pocket": "berries",
+		"price": 200,
+		"description": "Si la usas en un Pokémon te ganas su amistad, pero reduces su Defensa Especial."
+	},
+	"tamatoberry": {
+		"num": 174,
+		"gen": 3,
+		"name": "Baya Tamate",
+		"pluralName": "Bayas Tamate",
+		"pocket": "berries",
+		"price": 200,
+		"description": "Si la usas en un Pokémon te ganas su amistad, pero baja su Velocidad."
+	},
+	"cornnberry": {
+		"num": 175,
+		"gen": 3,
+		"name": "Baya Mais",
+		"pluralName": "Bayas Mais",
+		"pocket": "berries",
+		"price": 20,
+		"description": "Si la plantas en tierra suelta, saldrá una planta de Mais."
+	},
+	"magostberry": {
+		"num": 176,
+		"gen": 3,
+		"name": "Baya Aostan",
+		"pluralName": "Bayas Aostan",
+		"pocket": "berries",
+		"price": 20,
+		"description": "Si la plantas en tierra suelta, saldrá una planta de Aostan."
+	},
+	"rabutaberry": {
+		"num": 177,
+		"gen": 3,
+		"name": "Baya Rautan",
+		"pluralName": "Bayas Rautan",
+		"pocket": "berries",
+		"price": 20,
+		"description": "Si la plantas en tierra suelta, saldrá una planta de Rautan."
+	},
+	"nomelberry": {
+		"num": 178,
+		"gen": 3,
+		"name": "Baya Monli",
+		"pluralName": "Bayas Monli",
+		"pocket": "berries",
+		"price": 20,
+		"description": "Si la plantas en tierra suelta, saldrá una planta de Monli."
+	},
+	"spelonberry": {
+		"num": 179,
+		"gen": 3,
+		"name": "Baya Wikano",
+		"pluralName": "Bayas Wikano",
+		"pocket": "berries",
+		"price": 20,
+		"description": "Si la plantas en tierra suelta, saldrá una planta de Wikano."
+	},
+	"pamtreberry": {
+		"num": 180,
+		"gen": 3,
+		"name": "Baya Plama",
+		"pluralName": "Bayas Plama",
+		"pocket": "berries",
+		"price": 20,
+		"description": "Si la plantas en tierra suelta, saldrá una planta de Plama."
+	},
+	"watmelberry": {
+		"num": 181,
+		"gen": 3,
+		"name": "Baya Sambia",
+		"pluralName": "Bayas Sambia",
+		"pocket": "berries",
+		"price": 20,
+		"description": "Si la plantas en tierra suelta, saldrá una planta de Sambia."
+	},
+	"durinberry": {
+		"num": 182,
+		"gen": 3,
+		"name": "Baya Rudion",
+		"pluralName": "Bayas Rudion",
+		"pocket": "berries",
+		"price": 20,
+		"description": "Si la plantas en tierra suelta, saldrá una planta de Rudion."
+	},
+	"belueberry": {
+		"num": 183,
+		"gen": 3,
+		"name": "Baya Andano",
+		"pluralName": "Bayas Andano",
+		"pocket": "berries",
+		"price": 20,
+		"description": "Si la plantas en tierra suelta, saldrá una planta de Andano."
+	},
+	"occaberry": {
+		"num": 184,
+		"gen": 3,
+		"name": "Baya Caoca",
+		"pluralName": "Bayas Caoca",
+		"pocket": "berries",
+		"price": 20,
+		"description": "Si la lleva un Pokémon, debilita ataques supereficaces de tipo Fuego.",
+		"hold": true
+	},
+	"passhoberry": {
+		"num": 185,
+		"gen": 3,
+		"name": "Baya Pasio",
+		"pluralName": "Bayas Pasio",
+		"pocket": "berries",
+		"price": 20,
+		"description": "Si la lleva un Pokémon, debilita ataques supereficaces de tipo Agua.",
+		"hold": true
+	},
+	"wacanberry": {
+		"num": 186,
+		"gen": 3,
+		"name": "Baya Gualot",
+		"pluralName": "Bayas Gualot",
+		"pocket": "berries",
+		"price": 20,
+		"description": "Si la lleva un Pokémon, debilita ataques supereficaces de tipo Eléctrico.",
+		"hold": true
+	},
+	"rindoberry": {
+		"num": 187,
+		"gen": 3,
+		"name": "Baya Tamar",
+		"pluralName": "Bayas Tamar",
+		"pocket": "berries",
+		"price": 20,
+		"description": "Si la lleva un Pokémon, debilita ataques supereficaces de tipo Planta.",
+		"hold": true
+	},
+	"yacheberry": {
+		"num": 188,
+		"gen": 3,
+		"name": "Baya Rimoya",
+		"pluralName": "Bayas Rimoya",
+		"pocket": "berries",
+		"price": 20,
+		"description": "Si la lleva un Pokémon, debilita ataques supereficaces de tipo Hielo.",
+		"hold": true
+	},
+	"chopleberry": {
+		"num": 189,
+		"gen": 3,
+		"name": "Baya Pomaro",
+		"pluralName": "Bayas Pomaro",
+		"pocket": "berries",
+		"price": 20,
+		"description": "Si la lleva un Pokémon, debilita ataques supereficaces de tipo Lucha.",
+		"hold": true
+	},
+	"kebiaberry": {
+		"num": 190,
+		"gen": 3,
+		"name": "Baya Kebia",
+		"pluralName": "Bayas Kebia",
+		"pocket": "berries",
+		"price": 20,
+		"description": "Si la lleva un Pokémon, debilita ataques supereficaces de tipo Veneno.",
+		"hold": true
+	},
+	"shucaberry": {
+		"num": 191,
+		"gen": 3,
+		"name": "Baya Acardo",
+		"pluralName": "Bayas Acardo",
+		"pocket": "berries",
+		"price": 20,
+		"description": "Si la lleva un Pokémon, debilita ataques supereficaces de tipo Tierra.",
+		"hold": true
+	},
+	"cobaberry": {
+		"num": 192,
+		"gen": 3,
+		"name": "Baya Kouba",
+		"pluralName": "Bayas Kouba",
+		"pocket": "berries",
+		"price": 20,
+		"description": "Si la lleva un Pokémon, debilita ataques supereficaces de tipo Volador.",
+		"hold": true
+	},
+	"payapaberry": {
+		"num": 193,
+		"gen": 3,
+		"name": "Baya Payapa",
+		"pluralName": "Bayas Payapa",
+		"pocket": "berries",
+		"price": 20,
+		"description": "Si la lleva un Pokémon, debilita ataques supereficaces de tipo Psíquico.",
+		"hold": true
+	},
+	"tangaberry": {
+		"num": 194,
+		"gen": 3,
+		"name": "Baya Yecana",
+		"pluralName": "Bayas Yecana",
+		"pocket": "berries",
+		"price": 20,
+		"description": "Si la lleva un Pokémon, debilita ataques supereficaces de tipo Bicho.",
+		"hold": true
+	},
+	"chartiberry": {
+		"num": 195,
+		"gen": 3,
+		"name": "Baya Alcho",
+		"pluralName": "Bayas Alcho",
+		"pocket": "berries",
+		"price": 20,
+		"description": "Si la lleva un Pokémon, debilita ataques supereficaces de tipo Roca.",
+		"hold": true
+	},
+	"kasibberry": {
+		"num": 196,
+		"gen": 3,
+		"name": "Baya Drasi",
+		"pluralName": "Bayas Drasi",
+		"pocket": "berries",
+		"price": 20,
+		"description": "Si la lleva un Pokémon, debilita ataques supereficaces de tipo Fantasma.",
+		"hold": true
+	},
+	"habanberry": {
+		"num": 197,
+		"gen": 3,
+		"name": "Baya Anjiro",
+		"pluralName": "Bayas Anjiro",
+		"pocket": "berries",
+		"price": 20,
+		"description": "Si la lleva un Pokémon, debilita ataques supereficaces de tipo Dragón.",
+		"hold": true
+	},
+	"colburberry": {
+		"num": 198,
+		"gen": 3,
+		"name": "Baya Dillo",
+		"pluralName": "Bayas Dillo",
+		"pocket": "berries",
+		"price": 20,
+		"description": "Si la lleva un Pokémon, debilita ataques supereficaces de tipo Siniestro.",
+		"hold": true
+	},
+	"babiriberry": {
+		"num": 199,
+		"gen": 3,
+		"name": "Baya Baribá",
+		"pluralName": "Bayas Baribá",
+		"pocket": "berries",
+		"price": 20,
+		"description": "Si la lleva un Pokémon, debilita ataques supereficaces de tipo Acero.",
+		"hold": true
+	},
+	"chilanberry": {
+		"num": 200,
+		"gen": 3,
+		"name": "Baya Chilan",
+		"pluralName": "Bayas Chilan",
+		"pocket": "berries",
+		"price": 20,
+		"description": "Si la lleva un Pokémon, debilita el ataque de tipo Normal de un enemigo.",
+		"hold": true
+	},
+	"liechiberry": {
+		"num": 201,
+		"gen": 3,
+		"name": "Baya Lichi",
+		"pluralName": "Bayas Lichi",
+		"pocket": "berries",
+		"price": 200,
+		"description": "Si la lleva un Pokémon, le subirá el Ataque en un momento de apuro.",
+		"hold": true
+	},
+	"ganlonberry": {
+		"num": 202,
+		"gen": 3,
+		"name": "Baya Gonlan",
+		"pluralName": "Bayas Gonlan",
+		"pocket": "berries",
+		"price": 200,
+		"description": "Si la lleva un Pokémon, le subirá la Defensa en un momento de apuro.",
+		"hold": true
+	},
+	"salacberry": {
+		"num": 203,
+		"gen": 3,
+		"name": "Baya Aslac",
+		"pluralName": "Bayas Aslac",
+		"pocket": "berries",
+		"price": 200,
+		"description": "Si la lleva un Pokémon, le subirá la Velocidad en un momento de apuro.",
+		"hold": true
+	},
+	"petayaberry": {
+		"num": 204,
+		"gen": 3,
+		"name": "Baya Yapati",
+		"pluralName": "Bayas Yapati",
+		"pocket": "berries",
+		"price": 200,
+		"description": "Si la lleva un Pokémon, le subirá el At. Esp. en un momento de apuro.",
+		"hold": true
+	},
+	"apicotberry": {
+		"num": 205,
+		"gen": 3,
+		"name": "Baya Aricoc",
+		"pluralName": "Bayas Aricoc",
+		"pocket": "berries",
+		"price": 200,
+		"description": "Si la lleva un Pokémon, le subirá la Def. Esp. en un momento de apuro.",
+		"hold": true
+	},
+	"lansatberry": {
+		"num": 206,
+		"gen": 3,
+		"name": "Baya Zonlan",
+		"pluralName": "Bayas Zonlan",
+		"pocket": "berries",
+		"price": 200,
+		"description": "Si la lleva un Pokémon, sube su capacidad de dar un golpe crítico en un apuro.",
+		"hold": true
+	},
+	"starfberry": {
+		"num": 207,
+		"gen": 3,
+		"name": "Baya Arabol",
+		"pluralName": "Bayas Arabol",
+		"pocket": "berries",
+		"price": 200,
+		"description": "Si la lleva un Pokémon, aumenta drásticamente 1 característica en un momento de apuro.",
+		"hold": true
+	},
+	"enigmaberry": {
+		"num": 208,
+		"gen": 3,
+		"name": "Baya Enigma",
+		"pluralName": "Bayas Enigma",
+		"pocket": "berries",
+		"price": 20,
+		"description": "Restaura los PS de un Pokémon si la lleva cuando le alcanza un ataque supereficaz.",
+		"hold": true
+	},
+	"micleberry": {
+		"num": 209,
+		"gen": 3,
+		"name": "Baya Lagro",
+		"pluralName": "Bayas Lagro",
+		"pocket": "berries",
+		"price": 200,
+		"description": "Cuando la lleve un Pokémon, le subirá la precisión de un movimiento en un momento de apuro.",
+		"hold": true
+	},
+	"custapberry": {
+		"num": 210,
+		"gen": 3,
+		"name": "Baya Chiri",
+		"pluralName": "Bayas Chiri",
+		"pocket": "berries",
+		"price": 300,
+		"description": "El Pokémon que la lleve podrá actuar en primer lugar una vez cuando se encuentre en un momento de apuro.",
+		"hold": true
+	},
+	"jabocaberry": {
+		"num": 211,
+		"gen": 3,
+		"name": "Baya Jaboca",
+		"pluralName": "Bayas Jaboca",
+		"pocket": "berries",
+		"price": 20,
+		"description": "Si la lleva un Pokémon cuando un enemigo lanza un ataque físico, este también recibirá daño.",
+		"hold": true
+	},
+	"rowapberry": {
+		"num": 212,
+		"gen": 3,
+		"name": "Baya Magua",
+		"pluralName": "Bayas Magua",
+		"pocket": "berries",
+		"price": 20,
+		"description": "Si la lleva un Pokémon cuando un enemigo lanza un ataque especial, este también recibirá daño.",
+		"hold": true
+	},
+	"xattack": {
+		"num": 57,
+		"name": "Ataque X",
+		"pluralName": "Ataque X",
+		"pocket": "battle",
+		"price": 500,
+		"description": "Aumenta el Ataque en combate. Al cambiar de Pokémon, el efecto desaparece."
+	},
+	"xattack2":{
+		"num": 597,
+		"name": "Ataque X 2",
+		"pluralName": "Ataque X 2",
+		"pocket": "battle",
+		"price": 0,
+		"description": "Aumenta ligeramente el Ataque en combate. Al cambiar de Pokémon, el efecto desaparece."
+	},
+	"xattack3":{
+		"num": 603,
+		"name": "Ataque X 3",
+		"pluralName": "Ataque X 3",
+		"pocket": "battle",
+		"price": 0,
+		"description": "Aumenta bastante el Ataque en combate. Al cambiar de Pokémon, el efecto desaparece."
+	},
+	"xattack6":{
+		"num": 609,
+		"name": "Ataque X 6",
+		"pluralName": "Ataque X 6",
+		"pocket": "battle",
+		"price": 0,
+		"description": "Aumenta mucho el Ataque en combate. Al cambiar de Pokémon, el efecto desaparece."
+	},
+	"xdefense": {
+		"num": 58,
+		"name": "Defensa X",
+		"pluralName": "Defensa X",
+		"pocket": "battle",
+		"price": 550,
+		"description": "Aumenta la Defensa en combate. Al cambiar de Pokémon, el efecto desaparece."
+	},
+	"xdefense2":{
+		"num": 596,
+		"name": "Defensa X 2",
+		"pluralName": "Defensa X 2",
+		"pocket": "battle",
+		"price": 0,
+		"description": "Aumenta ligeramente la Defensa en combate. Al cambiar de Pokémon, el efecto desaparece."
+	},
+	"xdefense3":{
+		"num": 602,
+		"name": "Defensa X 3",
+		"pluralName": "Defensa X 3",
+		"pocket": "battle",
+		"price": 0,
+		"description": "Aumenta bastante la Defensa en combate. Al cambiar de Pokémon, el efecto desaparece."
+	},
+	"xdefense6":{
+		"num": 608,
+		"name": "Defensa X 6",
+		"pluralName": "Defensa X 6",
+		"pocket": "battle",
+		"price": 0,
+		"description": "Aumenta mucho la Defensa en combate. Al cambiar de Pokémon, el efecto desaparece."
+	},
+	"xspecial": {
+		"num": 61,
+		"name": "Especial X",
+		"pluralName": "Especial X",
+		"pocket": "battle",
+		"price": 350,
+		"description": "Aumenta el Ataque Especial en combate. Al cambiar de Pokémon, el efecto desaparece."
+	},
+	"xspecial2":{
+		"num": 594,
+		"name": "Especial X 2",
+		"pluralName": "Especial X 2",
+		"pocket": "battle",
+		"price": 0,
+		"description": "Aumenta ligeramente el Ataque Especial en combate. Al cambiar de Pokémon, el efecto desaparece."
+	},
+	"xspecial3":{
+		"num": 600,
+		"name": "Especial X 3",
+		"pluralName": "Especial X 3",
+		"pocket": "battle",
+		"price": 0,
+		"description": "Aumenta bastante el Ataque Especial en combate. Al cambiar de Pokémon, el efecto desaparece."
+	},
+	"xspecial6":{
+		"num": 606,
+		"name": "Especial X 6",
+		"pluralName": "Especial X 6",
+		"pocket": "battle",
+		"price": 0,
+		"description": "Aumenta mucho el Ataque Especial en combate. Al cambiar de Pokémon, el efecto desaparece."
+	},
+	"xspdef": {
+		"num": 62,
+		"name": "Defensa Especial X",
+		"pluralName": "Defensa Especial X",
+		"pocket": "battle",
+		"price": 350,
+		"description": "Aumenta la Defensa Especial en combate. Al cambiar de Pokémon, el efecto desaparece."
+	},
+	"xspdef2":{
+		"num": 595,
+		"name": "Defensa Especial X 2",
+		"pluralName": "Defensa Especial X 2",
+		"pocket": "battle",
+		"price": 0,
+		"description": "Aumenta ligeramente la Defensa Especial en combate. Al cambiar de Pokémon, el efecto desaparece."
+	},
+	"xspdef3":{
+		"num": 601,
+		"name": "Defensa Especial X 3",
+		"pluralName": "Defensa Especial X 3",
+		"pocket": "battle",
+		"price": 0,
+		"description": "Aumenta bastante la Defensa Especial en combate. Al cambiar de Pokémon, el efecto desaparece."
+	},
+	"xspdef6":{
+		"num": 607,
+		"name": "Defensa Especial X 6",
+		"pluralName": "Defensa Especial X 6",
+		"pocket": "battle",
+		"price": 0,
+		"description": "Aumenta mucho la Defensa Especial en combate. Al cambiar de Pokémon, el efecto desaparece."
+	},
+	"xspeed": {
+		"num": 59,
+		"name": "Velocidad X",
+		"pluralName": "Velocidad X",
+		"pocket": "battle",
+		"price": 350,
+		"description": "Aumenta la Velocidad en combate. Al cambiar de Pokémon, el efecto desaparece."
+	},
+	"xspeed2":{
+		"num": 593,
+		"name": "Velocidad X 2",
+		"pluralName": "Velocidad X 2",
+		"pocket": "battle",
+		"price": 0,
+		"description": "Aumenta ligeramente la Velocidad en combate. Al cambiar de Pokémon, el efecto desaparece."
+	},
+	"xspeed3":{
+		"num": 599,
+		"name": "Velocidad X 3",
+		"pluralName": "Velocidad X 3",
+		"pocket": "battle",
+		"price": 0,
+		"description": "Aumenta bastante la Velocidad en combate. Al cambiar de Pokémon, el efecto desaparece."
+	},
+	"xspeed6":{
+		"num": 605,
+		"name": "Velocidad X 6",
+		"pluralName": "Velocidad X 6",
+		"pocket": "battle",
+		"price": 0,
+		"description": "Aumenta mucho la Velocidad en combate. Al cambiar de Pokémon, el efecto desaparece."
+	},
+	"xaccuracy": {
+		"num": 60,
+		"name": "Precisión X",
+		"pluralName": "Precisión X",
+		"pocket": "battle",
+		"price": 950,
+		"description": "Aumenta la precisión de los ataques en combate. Al cambiar de Pokémon, el efecto desaparece."
+	},
+	"xaccuracy2":{
+		"num": 598,
+		"name": "Precisión X 2",
+		"pluralName": "Precisión X 2",
+		"pocket": "battle",
+		"price": 0,
+		"description": "Aumenta ligeramente la Precisión en combate. Al cambiar de Pokémon, el efecto desaparece."
+	},
+	"xaccuracy3":{
+		"num": 604,
+		"name": "Precisión X 3",
+		"pluralName": "Precisión X 3",
+		"pocket": "battle",
+		"price": 0,
+		"description": "Aumenta bastante la Precisión en combate. Al cambiar de Pokémon, el efecto desaparece."
+	},
+	"xaccuracy6":{
+		"num": 610,
+		"name": "Precisión X 6",
+		"pluralName": "Precisión X 6",
+		"pocket": "battle",
+		"price": 0,
+		"description": "Aumenta mucho la Precisión en combate. Al cambiar de Pokémon, el efecto desaparece."
+	},
+	"direhit": {
+		"num": 56,
+		"name": "Directo",
+		"pluralName": "Directo",
+		"pocket": "battle",
+		"price": 650,
+		"description": "Aumenta el índice de golpe crítico en combate. Al cambiar de Pokémon, el efecto desaparece."
+	},
+	"direhit2":{
+		"num": 592,
+		"name": "Directo 2",
+		"pluralName": "Directo 2",
+		"pocket": "battle",
+		"price": 0,
+		"description": "Aumenta la probabilidad de asestar un golpe crítico. Al cambiar de Pokémon, el efecto desaparece.."
+	},
+	"direhit3":{
+		"num": 615,
+		"name": "Directo 3",
+		"pluralName": "Directo 3",
+		"pocket": "battle",
+		"price": 0,
+		"description": "Aumenta mucho la probabilidad de asestar un golpe crítico. Al cambiar de Pokémon, el efecto desaparece."
+	},
+	"guardspec": {
+		"num": 55,
+		"name": "Prot. Especial",
+		"pluralName": "Prot. Especiales",
+		"pocket": "battle",
+		"price": 700,
+		"description": "Evita que bajen las características del equipo Pokémon durante cinco turnos."
+	},
+	"reseturge": {
+		"num": 614,
+		"name": "Quitaestado",
+		"pluralName": "Quitaestados",
+		"pocket": "battle",
+		"price": 0,
+		"description": "Cuando se usa, se anulan los cambios en las características de un Pokémon de tu equipo."
+	},
+	"abilityurge": {
+		"num": 611,
+		"name": "Habilitador",
+		"pluralName": "Habilitadores",
+		"pocket": "battle",
+		"price": 0,
+		"description": "Al usarlo, activa la habilidad de un Pokémon de tu equipo."
+	},
+	"itemurge": {
+		"num": 613,
+		"name": "Activaobjeto",
+		"pluralName": "Activaobjetos",
+		"pocket": "battle",
+		"price": 0,
+		"description": "Cuando se usa, un Pokémon de tu equipo utiliza su objeto inmediatamente."
+	},
+	"itemdrop": {
+		"num": 612,
+		"name": "Tiraobjeto",
+		"pluralName": "Tiraobjetos",
+		"pocket": "battle",
+		"price": 0,
+		"description": "Cuando se usa, un Pokémon de tu equipo pierde su objeto."
+	},
+	"blueflute": {
+		"num": 65,
+		"name": "Flauta Azul",
+		"pluralName": "Flautas Azules",
+		"pocket": "battle",
+		"price": 100,
+		"description": "Flauta de cristal azul cuya melodía despierta a los Pokémon dormidos."
+	},
+	"yellowflute": {
+		"num": 66,
+		"name": "Flauta Amarilla",
+		"pluralName": "Flautas Amarillas",
+		"pocket": "battle",
+		"price": 200,
+		"description": "Flauta de cristal amarillo que espabila a los Pokémon confusos."
+	},
+	"redflute": {
+		"num": 67,
+		"name": "Flauta Roja",
+		"pluralName": "Flautas Rojas",
+		"pocket": "battle",
+		"price": 300,
+		"description": "Flauta de cristal rojo que libera a un Pokémon del enamoramiento."
+	},
+	"pokedoll": {
+		"num": 63,
+		"name": "Poké Muñeco",
+		"pluralName": "Poké Muñecos",
+		"pocket": "battle",
+		"price": 1000,
+		"description": "Un muñeco que atrae a los Pokémon. Puedes utilizarlo para huir de un combate con un Pokémon salvaje."
+	},
+	"fluffytail": {
+		"num": 64,
+		"name": "Cola Skitty",
+		"pluralName": "Colas Skitty",
+		"pocket": "battle",
+		"price": 1000,
+		"description": "Atrae a los Pokémon y sirve para huir de un combate con un Pokémon salvaje."
+	},
+	"poketoy": {
+		"num": 577,
+		"name": "Pokéseñuelo",
+		"pluralName": "Pokéseñuelos",
+		"pocket": "battle",
+		"price": 500,
+		"description": "Un objeto que atrae a los Pokémon. Puedes utilizarlo para huir de un combate con un Pokémon salvaje."
+	},
+	"bicycle": {
+		"num": 450,
+		"name": "Bici",
+		"pluralName": "Bicis",
+		"pocket": "key",
+		"price": 0,
+		"description": "Bicicleta plegable con la que se va más rápido que con deportivas."
+	},
+	"oldrod": {
+		"num": 445,
+		"name": "Caña Vieja",
+		"pluralName": "Cañas Viejas",
+		"pocket": "key",
+		"price": 0,
+		"description": "Una caña de pescar bastante usada y desgastada. Pesca Pokémon salvajes en todo tipo de aguas."
+	},
+	"goodrod": {
+		"num": 446,
+		"name": "Caña Buena",
+		"pluralName": "Cañas Buenas",
+		"pocket": "key",
+		"price": 0,
+		"description": "Una caña de pescar nuevecita y de gran calidad. Pesca Pokémon salvajes en todo tipo de aguas."
+	},
+	"superrod": {
+		"num": 447,
+		"name": "Supercaña",
+		"pluralName": "Supercañas",
+		"pocket": "key",
+		"price": 0,
+		"description": "Una increíble caña de pescar de alta tecnología. Pesca Pokémon salvajes en todo tipo de aguas."
+	},
+	"dowsingmachine": {
+		"num": 471,
+		"name": "Zahorí",
+		"pluralName": "Zahoríes",
+		"pocket": "key",
+		"price": 0,
+		"description": "Aparato de precisión que reacciona con luz y sonido ante los objetos que no se ven e indica su posición."
+	},
+	"pokeradar": {
+		"num": 431,
+		"name": "Poké Radar",
+		"pluralName": "Poké Radares",
+		"pocket": "key",
+		"price": 0,
+		"description": "Busca Pokémon que se esconden en la hierba. La batería se recarga mientras caminas."
+	},
+	"townmap": {
+		"num": 442,
+		"name": "Mapa",
+		"pluralName": "Mapas",
+		"pocket": "key",
+		"price": 0,
+		"description": "Un mapa que puede consultarse en cualquier momento y que te indica dónde te encuentras."
+	},
+	"pokeflute": {
+		"num": 651,
+		"name": "Poké Flauta",
+		"pluralName": "Poké Flautas",
+		"pocket": "key",
+		"price": 7000,
+		"description": "Consigue despertar al instante a cualquier Pokémon y suena de maravilla."
+	},
+	"coincase": {
+		"num": 444,
+		"name": "Monedero",
+		"pluralName": "Monederos",
+		"pocket": "key",
+		"price": 0,
+		"description": "Caña pequeña para guardar fichas."
+	},
+	"sootsack": {
+		"num": 722,
+		"name": "Saco Hollín",
+		"pluralName": "Sacos Hollín",
+		"pocket": "key",
+		"price": 0,
+		"description": "Un saco grande y resistente utilizado para transportar la ceniza volcánicaa."
+	},
+	"silphscope": {
+		"num": 874,
+		"name": "Detector Silph",
+		"pluralName": "Detectores Silph",
+		"pocket": "key",
+		"price": 0,
+		"description": "Dispositivo hecho en SILPH S.A para ver Pokémon invisibles."
+	},
+	"devonscope": {
+		"num": 735,
+		"name": "Detector Devon",
+		"pluralName": "Detectores Devon",
+		"pocket": "key",
+		"price": 0,
+		"description": "Dispositivo hecho en DEVON para ver Pokémon invisibles."
+	},
+	"squirtbottle": {
+		"num": 477,
+		"name": "Regadera",
+		"pluralName": "Regaderas",
+		"pocket": "key",
+		"price": 0,
+		"description": "Una regadera con forma de Squirtle. Ayuda a que las bayas plantadas en tierra suelta crezcan mejor."
+	},
+	"sprayduck": {
+		"num": 448,
+		"name": "Regadera",
+		"pluralName": "Regaderas",
+		"pocket": "key",
+		"price": 0,
+		"description": "Una regadera con forma de Psyduck. Ayuda a que las bayas plantadas en tierra suelta crezcan mejor."
+	},
+	"wailmerpail": {
+		"num": 720,
+		"name": "Regadera",
+		"pluralName": "Regaderas",
+		"pocket": "key",
+		"price": 0,
+		"description": "Una regadera con forma de Wailmer. Ayuda a que las bayas plantadas en tierra suelta crezcan mejor."
+	},
+	"gracidea": {
+		"num": 466,
+		"name": "Gracídea",
+		"pluralName": "Gracídeas",
+		"pocket": "key",
+		"price": 0,
+		"description": "Una flor que se suele regalar en ramos para expresar agradecimiento en ocasiones especiales, como cumpleaños."
+	},
+	"dnasplicers": {
+		"num": 628,
+		"name": "Punta ADN",
+		"pluralName": "Puntas ADN",
+		"pocket": "key",
+		"price": 0,
+		"description": "Punta que permite fusionar a Kyurem con cierto Pokémon con el que, originariamente, formaba un solo ser."
+	},
+	"revealglass": {
+		"num": 638,
+		"name": "Espejo Veraz",
+		"pluralName": "Espejos Veraces",
+		"pocket": "key",
+		"price": 0,
+		"description": "Espejo misterioso que refleja la verdad y devuelve los Pokémon a su forma original."
+	},
+	"ovalcharm": {
+		"num": 631,
+		"name": "Amuleto Oval",
+		"pluralName": "Amuletos Ovales",
+		"pocket": "key",
+		"price": 0,
+		"description": "Misterioso amuleto redondo que aumenta la posibilidad de encontrar Huevos en la Guardería Pokémon."
+	},
+	"shinycharm": {
+		"num": 632,
+		"name": "Amuleto Iris",
+		"pluralName": "Amuletos Iris",
+		"pocket": "key",
+		"price": 0,
+		"description": "Misterioso amuleto brillante que aumenta la probabilidad de encontrar Pokémon variocolores."
+	},
+	"sachet": {
+		"num": 647,
+		"name": "Saquito Fragante",
+		"pluralName": "Saquitos Fragantes",
+		"pocket": "items",
+		"price": 100,
+		"description": "Saquito que desprende un aroma peculiar. Cierto Pokémon lo adora."
+	},
+	"whippeddream": {
+		"num": 646,
+		"name": "Dulce de Nata",
+		"pluralName": "Dulces de Nata",
+		"pocket": "items",
+		"price": 100,
+		"description": "Un dulce a base de suave y esponjosa nata montada. Cierto Pokémon lo adora."
+	},
+	"assaultvest": {
+		"num": 640,
+		"gen": 6,
+		"name": "Chaleco Asalto",
+		"pluralName": "Chalecos Asalto",
+		"pocket": "items",
+		"price": 1000,
+		"description": "Chaleco que potencia la Def. Esp. del Pokémon que lo lleva, pero le impide lanzar ataques de estado.",
+		"hold": true
+	},
+	"venusaurite": {
+		"num": 659,
+		"name": "Venusaurita",
+		"pluralName": "Venusauritas",
+		"pocket": "items",
+		"price": 0,
+		"description": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Venusaur en combate.",
+		"users": ["venusaur"],
+		"hold": true
+	},
+	"charizarditex": {
+		"num": 660,
+		"name": "Charizardita X",
+		"pluralName": "Charizarditas X",
+		"pocket": "items",
+		"price": 0,
+		"description": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Charizard en combate.",
+		"users": ["charizard"],
+		"hold": true
+	},
+	"charizarditey": {
+		"num": 678,
+		"name": "Charizardita Y",
+		"pluralName": "Charizarditas Y",
+		"pocket": "items",
+		"price": 0,
+		"description": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Charizard en combate.",
+		"users": ["charizard"],
+		"hold": true
+	},
+	"blastoisinite": {
+		"num": 661,
+		"name": "Blastoisita",
+		"pluralName": "Blastoisitas",
+		"pocket": "items",
+		"price": 0,
+		"description": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Blastoise en combate.",
+		"users": ["blastoise"],
+		"hold": true
+	},
+	"beedrillite": {
+		"num": 770,
+		"name": "Beedrillita",
+		"pluralName": "Beedrillitas",
+		"pocket": "items",
+		"price": 0,
+		"description": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Beedrill en combate.",
+		"users": ["beedrill"],
+		"hold": true
+	},
+	"gengarite": {
+		"num": 656,
+		"name": "Gengarita",
+		"pluralName": "Gengaritas",
+		"pocket": "items",
+		"price": 0,
+		"description": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Gengar en combate.",
+		"users": ["gengar"],
+		"hold": true
+	},
+	"pinsirite": {
+		"num": 671,
+		"name": "Pinsirita",
+		"pluralName": "Pinsiritas",
+		"pocket": "items",
+		"price": 0,
+		"description": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Pinsir en combate.",
+		"users": ["pinsir"],
+		"hold": true
+	},
+	"kangaskhanite": {
+		"num": 675,
+		"name": "Kangaskhanita",
+		"pluralName": "Kangaskhanitas",
+		"pocket": "items",
+		"price": 0,
+		"description": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Kangaskhan en combate.",
+		"users": ["kangaskhan"],
+		"hold": true
+	},
+	"gyaradosite": {
+		"num": 676,
+		"name": "Gyaradosita",
+		"pluralName": "Gyaradositas",
+		"pocket": "items",
+		"price": 0,
+		"description": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Gyarados en combate.",
+		"users": ["gyarados"],
+		"hold": true
+	},
+	"mewtwonitex": {
+		"num": 662,
+		"name": "Mewtwoita X",
+		"pluralName": "Mewtwoitas X",
+		"pocket": "items",
+		"price": 0,
+		"description": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Mewtwo en combate.",
+		"users": ["mewtwo"],
+		"hold": true
+	},
+	"mewtwonitey": {
+		"num": 663,
+		"name": "Mewtwoita Y",
+		"pluralName": "Mewtwoitas Y",
+		"pocket": "items",
+		"price": 0,
+		"description": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Mewtwo en combate.",
+		"users": ["mewtwo"],
+		"hold": true
+	},
+	"ampharosite": {
+		"num": 658,
+		"name": "Ampharosita",
+		"pluralName": "Ampharositas",
+		"pocket": "items",
+		"price": 0,
+		"description": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Ampharos en combate.",
+		"users": ["ampharos"],
+		"hold": true
+	},
+	"heracronite": {
+		"num": 680,
+		"name": "Heracrossita",
+		"pluralName": "Heracrossitas",
+		"pocket": "items",
+		"price": 0,
+		"description": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Heracross en combate.",
+		"users": ["heracross"],
+		"hold": true
+	},
+	"houndoominite": {
+		"num": 666,
+		"name": "Houndoomita",
+		"pluralName": "Houndoomitas",
+		"pocket": "items",
+		"price": 0,
+		"description": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Houndoom en combate.",
+		"users": ["houndoom"],
+		"hold": true
+	},
+	"steelixite": {
+		"num": 761,
+		"name": "Steelixita",
+		"pluralName": "Steelixitas",
+		"pocket": "items",
+		"price": 0,
+		"description": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Steelix en combate.",
+		"users": ["steelix"],
+		"hold": true
+	},
+	"scizorite": {
+		"num": 670,
+		"name": "Scizorita",
+		"pluralName": "Scizoritas",
+		"pocket": "items",
+		"price": 0,
+		"description": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Scizor en combate.",
+		"users": ["scizor"],
+		"hold": true
+	},
+	"tyranitarite": {
+		"num": 669,
+		"name": "Tyranitarita",
+		"pluralName": "Tyranitaritas",
+		"pocket": "items",
+		"price": 0,
+		"description": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Tyranitar en combate.",
+		"users": ["tyranitar"],
+		"hold": true
+	},
+	"sceptilite": {
+		"num": 753,
+		"name": "Sceptilita",
+		"pluralName": "Sceptilitas",
+		"pocket": "items",
+		"price": 0,
+		"description": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Sceptile en combate.",
+		"users": ["sceptile"],
+		"hold": true
+	},
+	"blazikenite": {
+		"num": 664,
+		"name": "Blazikenita",
+		"pluralName": "Blazikenitas",
+		"pocket": "items",
+		"price": 0,
+		"description": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Blaziken en combate.",
+		"users": ["blaziken"],
+		"hold": true
+	},
+	"swampertite": {
+		"num": 752,
+		"name": "Swampertita",
+		"pluralName": "Swampertitas",
+		"pocket": "items",
+		"price": 0,
+		"description": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Swampert en combate.",
+		"users": ["swampert"],
+		"hold": true
+	},
+	"gardevoirite": {
+		"num": 657,
+		"name": "Gardevoirita",
+		"pluralName": "Gardevoiritas",
+		"pocket": "items",
+		"price": 0,
+		"description": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Gardevoir en combate.",
+		"users": ["gardevoir"],
+		"hold": true
+	},
+	"mawilite": {
+		"num": 681,
+		"name": "Mawilita",
+		"pluralName": "Mawilitas",
+		"pocket": "items",
+		"price": 0,
+		"description": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Mawile en combate.",
+		"users": ["mawile"],
+		"hold": true
+	},
+	"sharpedonite": {
+		"num": 759,
+		"name": "Sharpedonita",
+		"pluralName": "Sharpedonitas",
+		"pocket": "items",
+		"price": 0,
+		"description": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Sharpedo en combate.",
+		"users": ["sharpedo"],
+		"hold": true
+	},
+	"medichamite": {
+		"num": 665,
+		"name": "Medichamita",
+		"pluralName": "Medichamitas",
+		"pocket": "items",
+		"price": 0,
+		"description": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Medicham en combate.",
+		"users": ["medicham"],
+		"hold": true
+	},
+	"altarianite": {
+		"num": 755,
+		"name": "Altarianita",
+		"pluralName": "Altarianitas",
+		"pocket": "items",
+		"price": 0,
+		"description": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Altaria en combate.",
+		"users": ["altaria"],
+		"hold": true
+	},
+	"cameruptite": {
+		"num": 767,
+		"name": "Cameruptita",
+		"pluralName": "Cameruptitas",
+		"pocket": "items",
+		"price": 0,
+		"description": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Camerupt en combate.",
+		"users": ["camerupt"],
+		"hold": true
+	},
+	"banettite": {
+		"num": 668,
+		"name": "Banettita",
+		"pluralName": "Banettitas",
+		"pocket": "items",
+		"price": 0,
+		"description": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Banette en combate.",
+		"users": ["banette"],
+		"hold": true
+	},
+	"absolite": {
+		"num": 677,
+		"name": "Absolita",
+		"pluralName": "Absolitas",
+		"pocket": "items",
+		"price": 0,
+		"description": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Absol en combate.",
+		"users": ["absol"],
+		"hold": true
+	},
+	"glalitite": {
+		"num": 763,
+		"name": "Glalita",
+		"pluralName": "Glalitas",
+		"pocket": "items",
+		"price": 0,
+		"description": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Glalie en combate.",
+		"users": ["glalie"],
+		"hold": true
+	},
+	"salamencite": {
+		"num": 769,
+		"name": "Salamencita",
+		"pluralName": "Salamencitas",
+		"pocket": "items",
+		"price": 0,
+		"description": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Salamence en combate.",
+		"users": ["salamence"],
+		"hold": true
+	},
+	"aggronite": {
+		"num": 667,
+		"name": "Aggronita",
+		"pluralName": "Aggronitas",
+		"pocket": "items",
+		"price": 0,
+		"description": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Aggron en combate.",
+		"users": ["aggron"],
+		"hold": true
+	},
+	"metagrossite": {
+		"num": 758,
+		"name": "Metagrossita",
+		"pluralName": "Metagrossitas",
+		"pocket": "items",
+		"price": 0,
+		"description": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Metagross en combate.",
+		"users": ["metagross"],
+		"hold": true
+	},
+	"lopunnite": {
+		"num": 768,
+		"name": "Lopunnita",
+		"pluralName": "Lopunnitas",
+		"pocket": "items",
+		"price": 0,
+		"description": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Lopunny en combate.",
+		"users": ["lopunny"],
+		"hold": true
+	},
+	"garchompite": {
+		"num": 683,
+		"name": "Garchompita",
+		"pluralName": "Garchompitas",
+		"pocket": "items",
+		"price": 0,
+		"description": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Garchomp en combate.",
+		"users": ["garchomp"],
+		"hold": true
+	},
+	"lucarionite": {
+		"num": 673,
+		"name": "Lucarita",
+		"pluralName": "Lucaritas",
+		"pocket": "items",
+		"price": 0,
+		"description": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Lucario en combate.",
+		"users": ["lucario"],
+		"hold": true
+	},
+	"galladite": {
+		"num": 756,
+		"name": "Galladita",
+		"pluralName": "Galladitas",
+		"pocket": "items",
+		"price": 0,
+		"description": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Gallade en combate.",
+		"users": ["gallade"],
+		"hold": true
+	},
+	"abomasite": {
+		"num": 674,
+		"name": "Abomasnowita",
+		"pluralName": "Abomasnowitas",
+		"pocket": "items",
+		"price": 0,
+		"description": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Abomasnow en combate.",
+		"users": ["abomasnow"],
+		"hold": true
+	},
+	"audinite": {
+		"num": 757,
+		"name": "Audinita",
+		"pluralName": "Audinitas",
+		"pocket": "items",
+		"price": 0,
+		"description": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Audino en combate.",
+		"users": ["audino"],
+		"hold": true
+	},
+	"pidgeotite": {
+		"num": 762,
+		"name": "Pidgeotita",
+		"pluralName": "Pideotitas",
+		"pocket": "items",
+		"price": 0,
+		"description": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Pidgeot en combate.",
+		"users": ["pidgeot"],
+		"hold": true
+	},
+	"alakazite": {
+		"num": 679,
+		"name": "Alakazamita",
+		"pluralName": "Alakazamitas",
+		"pocket": "items",
+		"price": 0,
+		"description": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Alakazam en combate.",
+		"users": ["alakazam"],
+		"hold": true
+	},
+	"aerodactylite": {
+		"num": 672,
+		"name": "Aerodactylita",
+		"pluralName": "Aerodactylitas",
+		"pocket": "items",
+		"price": 0,
+		"description": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Aerodactyl en combate..",
+		"users": ["aerodactyl"],
+		"hold": true
+	},
+	"slowbronite": {
+		"num": 760,
+		"name": "Slowbronita",
+		"pluralName": "Slowbronitas",
+		"pocket": "items",
+		"price": 0,
+		"description": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Slowbro en combate.",
+		"users": ["slowbro"],
+		"hold": true
+	},
+	"sablenite": {
+		"num": 754,
+		"name": "Sableynita",
+		"pluralName": "Sableynitas",
+		"pocket": "items",
+		"price": 0,
+		"description": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Sableye en combate.",
+		"users": ["sableye"],
+		"hold": true
+	},
+	"manectite": {
+		"num": 682,
+		"name": "Manectricita",
+		"pluralName": "Manectricitas",
+		"pocket": "items",
+		"price": 0,
+		"description": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Manectric en combate.",
+		"users": ["manectric"],
+		"hold": true
+	},
+	"latiasite": {
+		"num": 684,
+		"name": "Latiasita",
+		"pluralName": "Latiasitas",
+		"pocket": "items",
+		"price": 0,
+		"description": "Una de las misteriosas Mega Piedras. Dásela a Latias y esta piedra le permitirá Mega Evolucionar en batalla.",
+		"users": ["latias"],
+		"hold": true
+	},
+	"latiosite": {
+		"num": 685,
+		"name": "Latiosita",
+		"pluralName": "Latiositas",
+		"pocket": "items",
+		"price": 0,
+		"description": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Latios en combate.",
+		"users": ["latios"],
+		"hold": true
+	},
+	"diancite": {
+		"num": 764,
+		"name": "Diancita",
+		"pluralName": "Diancitas",
+		"pocket": "items",
+		"price": 0,
+		"description": "Una de las misteriosas Megapiedras. Permite megaevolucionar a Diancie en combate.",
+		"users": ["diancie"],
+		"hold": true
+	},
+	"redorb": {
+		"num": 534,
+		"name": "Prisma Rojo",
+		"pluralName": "Prismas Rojos",
+		"pocket": "items",
+		"price": 0,
+		"description": "Piedra carmesí de la que se dice que guarda una estrecha relación con las leyendas de Hoenn.",
+		"hold": true
+	},
+	"blueorb": {
+		"num": 535,
+		"name": "Prisma Azul",
+		"pluralName": "Prismas Azules",
+		"pocket": "items",
+		"price": 0,
+		"description": "Piedra añil que, según dicen, guarda una estrecha relación con las leyendas de Hoenn.",
+		"hold": true
+	},
+	"megaring": {
+		"num": 696,
+		"name": "Mega Aro",
+		"pluralName": "Mega Aros",
+		"pocket": "key",
+		"price": 0,
+		"description": "Aro que sirve para activar el poder de la Mega Evolución."
+	},
+	"prisonbottle": {
+		"num": 765,
+		"name": "Vasija Castigo",
+		"pluralName": "Vasijas Castigo",
+		"pocket": "key",
+		"price": 0,
+		"description": "Vasija en la que se halla confinado el poder de cierto Pokémon desde hace mucho tiempo."
+	},
+	"abilitycapsule": {
+		"num": 645,
+		"name": "Cápsula Habilidad",
+		"pluralName": "Cápsulas Habilidad",
+		"pocket": "medicines",
+		"price": 10000,
+		"description": "Cápsula que les permite cambiar de habilidad a los Pokémon que poseen dos."
+	},
+	"lumiosegalette": {
+		"num": 708,
+		"name": "Crêpe Luminalia",
+		"pluralName": "Crêpes Luminalia",
+		"pocket": "medicines",
+		"price": 1000,
+		"description": "Postre típico de Ciudad Luminalia. Cura los problemas de estado de un Pokémon."
+	},
+	"snowball": {
+		"num": 649,
+		"name": "Bola de Nieve",
+		"pluralName": "Bolas de Nieve",
+		"pocket": "items",
+		"price": 200,
+		"description": "Objeto de un solo uso. Aumenta el Ataque del Pokémon que lo lleva si este recibe un ataque de tipo hielo.",
+		"hold": true
+	},
+	"luminousmoss": {
+		"num": 648,
+		"name": "Musgo Brillante",
+		"pluralName": "Musgos Brillantes",
+		"pocket": "items",
+		"price": 200,
+		"description": "Objeto de un solo uso. Aumenta la Def. Esp. del Pokémon que la lleva si este recibe un ataque de tipo agua.",
+		"hold": true
+	},
+	"fairygem": {
+		"num": 715,
+		"name": "Gema Hada",
+		"pluralName": "Gemas Hada",
+		"pocket": "items",
+		"price": 200,
+		"description": "Joya de un solo uso que potencia los movimientos de tipo Hada. Debe llevarla un Pokémon.",
+		"gem": "fairy",
+		"hold": true
+	},
+	"pixieplate": {
+		"num": 644,
+		"name": "Tabla Duende",
+		"pluralName": "Tablas Duende",
+		"pocket": "items",
+		"price": 0,
+		"description": "Tabla de piedra que potencia los movimientos de tipo hada. Debe llevarla un Pokémon.",
+		"plate": "fairy",
+		"hold": true
+	},
+	"weaknesspolicy": {
+		"num": 639,
+		"name": "Seguro Debilidad",
+		"pluralName": "Seguros Debilidad",
+		"pocket": "items",
+		"price": 1000,
+		"description": "Aumenta mucho el Atq. y el At. Esp. cuando el Pokémon que lo lleva recibe un ataque frente al cual es débil",
+		"hold": true
+	},
+	"jawfossil": {
+		"num": 710,
+		"name": "Fósil Mandíbula",
+		"pluralName": "Fósiles Mandíbula",
+		"pocket": "items",
+		"price": 1000,
+		"description": "Fósil de un Pokémon prehistórico terrestre. Parece ser parte de una mandíbula.",
+		"fossil": "tyrunt"
+	},
+	"sailfossil": {
+		"num": 711,
+		"name": "Fósil Aleta",
+		"pluralName": "Fósiles Aleta",
+		"pocket": "items",
+		"price": 1000,
+		"description": "Fósil de un Pokémon prehistórico marino. Parece ser parte de una aleta.",
+		"fossil": "amaura"
+	},
+	"marangaberry": {
+		"num": 688,
+		"name": "Baya Maranga",
+		"pluralName": "Bayas Maranga",
+		"pocket": "berries",
+		"price": 20,
+		"description": "Aumenta la defensa especial cuando el Pokémon recibe un ataque especial.",
+		"hold": true
+	},
+	"keeberry": {
+		"num": 687,
+		"name": "Baya Biglia",
+		"pluralName": "Bayas Biglia",
+		"pocket": "berries",
+		"price": 20,
+		"description": "Aumenta la defensa cuando el pokémon recibe un ataque físico.",
+		"hold": true
+	},
+	"roseliberry": {
+		"num": 686,
+		"name": "Baya Hibis",
+		"pluralName": "Bayas Hibis",
+		"pocket": "berries",
+		"price": 20,
+		"description": "Debilita ataques super eficaces de tipo hada.",
+		"hold": true
+	},
+	"rustedshield": {
+		"num": 1104,
+		"name": "Escudo Oxidado",
+		"pluralName": "Escudos Oxidados",
+		"pocket": "items",
+		"price": 0,
+		"description": "Cuenta una antigua leyenda que un valiente héroe asió este escudo para hacer frente a un cataclismo.",
+		"hold": true
+	},
+	"rustedsword": {
+		"num": 1103,
+		"name": "Espada Oxidada",
+		"pluralName": "Espadas Oxidadas",
+		"pocket": "items",
+		"price": 0,
+		"description": "Cuenta una antigua leyenda que un valiente héroe blandió esta espada para hacer frente a un cataclismo.",
+		"hold": true
+	},
+	"safetygoggles": {
+		"num": 650,
+		"name": "Gafa Protectora",
+		"pluralName": "Gafas Protectoras",
+		"pocket": "items",
+		"price": 3000,
+		"description": "Gafa que protege de los efectos adversos del clima y del polvo lanzado por los rivales.",
+		"hold": true
+	},
+	"tartapple": {
+		"num": 1117,
+		"name": "Manzana Ácida",
+		"pluralName": "Manzanas Ácidas",
+		"pocket": "items",
+		"price": 100,
+		"description": "Curiosa manzana, de sabor particularmente ácido, que hace evolucionar a determinadas especies de Pokémon."
+	},
+	"sweetapple": {
+		"num": 1116,
+		"name": "Manzana Dulce",
+		"pluralName": "Manzanas Dulces",
+		"pocket": "items",
+		"price": 100,
+		"description": "Curiosa manzana, de sabor particularmente dulce, que hace evolucionar a determinadas especies de Pokémon."
+	},
+	"crackedpot": {
+		"num": 1253,
+		"name": "Tetera Agrietada",
+		"pluralName": "Teteras Agrietadas",
+		"pocket": "items",
+		"price": 100,
+		"description": "Curiosa tetera que hace evolucionar a determinadas especies de Pokémon. Pese a estar agrietada, sirve un té exquisito."
+	},
+	"utilityumbrella": {
+		"num": 1123,
+		"name": "Parasol Multiuso",
+		"pluralName": "Parasoles Multiuso",
+		"pocket": "items",
+		"price": 100,
+		"description": "El portador se vuelve invulnerable a los efectos de los climas lluvioso y soleado.",
+		"hold": true
+	},
+	"heavydutyboots": {
+		"num": 1120,
+		"name": "Botas Gruesas",
+		"pluralName": "Botas Gruesas",
+		"pocket": "items",
+		"price": 100,
+		"description": "Anula los efectos de aquello que se coloca a los pies del Pokémon para obstaculizarlo, como las trampas.",
+		"hold": true
+	},
+	"roomservice": {
+		"num": 1122,
+		"name": "Servicio Raro",
+		"pluralName": "Servicios Raros",
+		"pocket": "items",
+		"price": 100,
+		"description": "Si lo lleva un Pokémon, reduce la Velocidad cuando se usa Espacio Raro.",
+		"hold": true
+	},
+	"ejectpack": {
+		"num": 1119,
+		"name": "Mochila Escape",
+		"pluralName": "Mochilas Escape",
+		"pocket": "items",
+		"price": 100,
+		"description": "Si el portador ve reducidas sus características, será sustituido por otro Pokémon del equipo.",
+		"hold": true
+	},
+	"blunderpolicy": {
+		"num": 1121,
+		"name": "Seguro Fallo",
+		"pluralName": "Seguros Fallo",
+		"pocket": "items",
+		"price": 100,
+		"description": "Aumenta mucho la Velocidad cuando el Pokémon erra el movimiento debido a la precisión.",
+		"hold": true
+	},
+	"throatspray": {
+		"num": 1118,
+		"name": "Espray Bucal",
+		"pluralName": "Esprays Bucales",
+		"pocket": "items",
+		"price": 100,
+		"description": "Aumenta el Ataque Especial al emplear un movimiento que se sirva del sonido.",
+		"hold": true
+	},
+	"hm01":{
+		"num": 420,
+		"name": "MO01",
+		"pluralName": "MO01s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "cut",
+		"description": ""
+	},
+	"hm02":{
+		"num": 421,
+		"name": "MO02",
+		"pluralName": "MO02s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "fly",
+		"description": ""
+	},
+	"hm03":{
+		"num": 422,
+		"name": "MO03",
+		"pluralName": "MO03s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "surf",
+		"description": ""
+	},
+	"hm04":{
+		"num": 423,
+		"name": "MO04",
+		"pluralName": "MO04s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "strength",
+		"description": ""
+	},
+	"hm05":{
+		"num": 424,
+		"name": "MO05",
+		"pluralName": "MO05s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "waterfall",
+		"description": ""
+	},
+	"hm06":{
+		"num": 425,
+		"name": "MO06",
+		"pluralName": "MO06s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "dive",
+		"description": ""
+	},
+	"hm07":{
+		"num": 426,
+		"name": "MO05",
+		"pluralName": "MO05s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "defog",
+		"description": ""
+	},
+	"hm08":{
+		"num": 427,
+		"name": "MO06",
+		"pluralName": "MO06s",
+		"pocket": "tms",
+		"price": 0,
+		"teach": "rockclimb",
+		"description": ""
+	},
+	"protectivepads": {
+		"num": 880,
+		"name": "Paracontacto",
+		"pluralName": "Paracontactos",
+		"pocket": "items",
+		"price": 0,
+		"description": "Protege al Pokémon de los efectos que le produciría el contacto directo en combate.",
+		"hold": true
+	},
+	"terrainextender": {
+		"num": 879,
+		"name": "Cubresuelos",
+		"pluralName": "Cubresuelos",
+		"pocket": "items",
+		"price": 0,
+		"description": "Al llevarlo, prolonga la duración de los campos creados por el Pokémon en el terreno de combate.",
+		"hold": true
+	},
+	"electricseed": {
+		"num": 881,
+		"name": "Semilla Electro",
+		"pluralName": "Semillas Electro",
+		"pocket": "items",
+		"price": 0,
+		"description": "Aumenta la Defensa del portador si el terreno está cubierto por un Campo Eléctrico.",
+		"hold": true
+	},
+	"psychicseed": {
+		"num": 882,
+		"name": "Semilla Psique",
+		"pluralName": "Semillas Psique",
+		"pocket": "items",
+		"price": 0,
+		"description": "Aumenta la Defensa Especial del portador si el terreno está cubierto por un Campo Psíquico.",
+		"hold": true
+	},
+	"mistyseed": {
+		"num": 883,
+		"name": "Semilla Bruma",
+		"pluralName": "Semillas Bruma",
+		"pocket": "items",
+		"price": 0,
+		"description": "Aumenta la Defensa Especial del portador si el terreno está cubierto por un Campo de Niebla.",
+		"hold": true
+	},
+	"grassyseed": {
+		"num": 884,
+		"name": "Semilla Hierba",
+		"pluralName": "Semillas Hierba",
+		"pocket": "items",
+		"price": 0,
+		"description": "Aumenta la Defensa del portador si el terreno está cubierto por un Campo de Hierba.",
+		"hold": true
+	},
+	"icestone": {
+		"num": 849,
+		"name": "Piedra Hielo",
+		"pluralName": "Piedras Hielo",
+		"pocket": "items",
+		"price": 2100,
+		"description": "Curiosa piedra que hace evolucionar a determinadas especies de Pokémon. Tiene un patrón nevado."
+	},
+	"nsolarizer": {
+		"num": 943,
+		"name": "Necrosol",
+		"pluralName": "Necrosoles",
+		"pocket": "key",
+		"price": 0,
+		"description": "Artefacto que permite fusionar a Necrozma, ávido de luz, con Solgaleo."
+	},
+	"nlunarizer": {
+		"num": 944,
+		"name": "Necroluna",
+		"pluralName": "Necrolunas",
+		"pocket": "key",
+		"price": 0,
+		"description": "Artefacto que permite fusionar a Necrozma, ávido de luz, con Lunala."
+	},
+	"rednectar": {
+		"num": 853,
+		"name": "Néctar Rojo",
+		"pluralName": "Néctares Rojos",
+		"pocket": "items",
+		"price": 0,
+		"description": "Néctar de ciertas flores de los Jardines de Ula-Ula, capaz de hacer cambiar de forma a una determinada especie de Pokémon."
+	},
+	"yellownectar": {
+		"num": 854,
+		"name": "Néctar Amarillo",
+		"pluralName": "Néctares Amarillos",
+		"pocket": "items",
+		"price": 0,
+		"description": "Néctar de ciertas flores de los Jardines de Melemele, capaz de hacer cambiar de forma a una determinada especie de Pokémon."
+	},
+	"pinknectar": {
+		"num": 855,
+		"name": "Néctar Rosa",
+		"pluralName": "Néctares Rosas",
+		"pocket": "items",
+		"price": 0,
+		"description": "Néctar de ciertas flores de los parterres de la Avenida Royale, capaz de hacer cambiar de forma a una determinada especie de Pokémon."
+	},
+	"purplenectar": {
+		"num": 856,
+		"name": "Néctar Violeta",
+		"pluralName": "Néctares Violetas",
+		"pocket": "items",
+		"price": 0,
+		"description": "Néctar de ciertas flores de los Jardines de Poni, capaz de hacer cambiar de forma a una determinada especie de Pokémon."
+	},
+	"fightingmemory": {
+		"num": 904,
+		"name": "Disco Lucha",
+		"pluralName": "Discos Lucha",
+		"pocket": "items",
+		"price": 0,
+		"description": "Disco de datos que contiene información relativa al tipo Lucha. Permite cambiar de tipo a cierto Pokémon.",
+		"memory": "fighting",
+		"hold": true
+	},
+	"flyingmemory": {
+		"num": 905,
+		"name": "Disco Volador",
+		"pluralName": "Discos Volador",
+		"pocket": "items",
+		"price": 0,
+		"description": "Disco de datos que contiene información relativa al tipo Volador. Permite cambiar de tipo a cierto Pokémon.",
+		"memory": "flying",
+		"hold": true
+	},
+	"poisonmemory": {
+		"num": 906,
+		"name": "Disco Veneno",
+		"pluralName": "Discos Veneno",
+		"pocket": "items",
+		"price": 0,
+		"description": "Disco de datos que contiene información relativa al tipo Veneno. Permite cambiar de tipo a cierto Pokémon.",
+		"memory": "poison",
+		"hold": true
+	},
+	"groundmemory": {
+		"num": 907,
+		"name": "Disco Tierra",
+		"pluralName": "Discos Tierra",
+		"pocket": "items",
+		"price": 0,
+		"description": "Disco de datos que contiene información relativa al tipo Tierra. Permite cambiar de tipo a cierto Pokémon.",
+		"memory": "ground",
+		"hold": true
+	},
+	"rockmemory": {
+		"num": 908,
+		"name": "Disco Roca",
+		"pluralName": "Discos Roca",
+		"pocket": "items",
+		"price": 0,
+		"description": "Disco de datos que contiene información relativa al tipo Roca. Permite cambiar de tipo a cierto Pokémon.",
+		"memory": "rock",
+		"hold": true
+	},
+	"bugmemory": {
+		"num": 909,
+		"name": "Disco Bicho",
+		"pluralName": "Discos Bicho",
+		"pocket": "items",
+		"price": 0,
+		"description": "Disco de datos que contiene información relativa al tipo Bicho. Permite cambiar de tipo a cierto Pokémon.",
+		"memory": "bug",
+		"hold": true
+	},
+	"ghostmemory": {
+		"num": 910,
+		"name": "Disco Fantasma",
+		"pluralName": "Discos Fantasma",
+		"pocket": "items",
+		"price": 0,
+		"description": "Disco de datos que contiene información relativa al tipo Fantasma. Permite cambiar de tipo a cierto Pokémon.",
+		"memory": "ghost",
+		"hold": true
+	},
+	"steelmemory": {
+		"num": 911,
+		"name": "Disco Acero",
+		"pluralName": "Discos Acero",
+		"pocket": "items",
+		"price": 0,
+		"description": "Disco de datos que contiene información relativa al tipo Acero. Permite cambiar de tipo a cierto Pokémon.",
+		"memory": "steel",
+		"hold": true
+	},
+	"firememory": {
+		"num": 912,
+		"name": "Disco Fuego",
+		"pluralName": "Discos Fuego",
+		"pocket": "items",
+		"price": 0,
+		"description": "Disco de datos que contiene información relativa al tipo Fuego. Permite cambiar de tipo a cierto Pokémon.",
+		"memory": "fire",
+		"hold": true
+	},
+	"watermemory": {
+		"num": 913,
+		"name": "Disco Agua",
+		"pluralName": "Discos Agua",
+		"pocket": "items",
+		"price": 0,
+		"description": "Disco de datos que contiene información relativa al tipo Agua. Permite cambiar de tipo a cierto Pokémon.",
+		"memory": "water",
+		"hold": true
+	},
+	"grassmemory": {
+		"num": 914,
+		"name": "Disco Planta",
+		"pluralName": "Discos Planta",
+		"pocket": "items",
+		"price": 0,
+		"description": "Disco de datos que contiene información relativa al tipo Planta. Permite cambiar de tipo a cierto Pokémon.",
+		"memory": "grass",
+		"hold": true
+	},
+	"electricmemory": {
+		"num": 915,
+		"name": "Disco Eléctrico",
+		"pluralName": "Discos Eléctrico",
+		"pocket": "items",
+		"price": 0,
+		"description": "Disco de datos que contiene información relativa al tipo Eléctrico. Permite cambiar de tipo a cierto Pokémon.",
+		"memory": "electric",
+		"hold": true
+	},
+	"psychicmemory": {
+		"num": 916,
+		"name": "Disco Psíquico",
+		"pluralName": "Discos Psíquico",
+		"pocket": "items",
+		"price": 0,
+		"description": "Disco de datos que contiene información relativa al tipo Psíquico. Permite cambiar de tipo a cierto Pokémon.",
+		"memory": "psychic",
+		"hold": true
+	},
+	"icememory": {
+		"num": 917,
+		"name": "Disco Hielo",
+		"pluralName": "Discos Hielo",
+		"pocket": "items",
+		"price": 0,
+		"description": "Disco de datos que contiene información relativa al tipo Hielo. Permite cambiar de tipo a cierto Pokémon.",
+		"memory": "ice",
+		"hold": true
+	},
+	"dragonmemory": {
+		"num": 918,
+		"name": "Disco Dragón",
+		"pluralName": "Discos Dragón",
+		"pocket": "items",
+		"price": 0,
+		"description": "Disco de datos que contiene información relativa al tipo Dragón. Permite cambiar de tipo a cierto Pokémon.",
+		"memory": "dragon",
+		"hold": true
+	},
+	"darkmemory": {
+		"num": 919,
+		"name": "Disco Siniestro",
+		"pluralName": "Discos Siniestro",
+		"pocket": "items",
+		"price": 0,
+		"description": "Disco de datos que contiene información relativa al tipo Siniestro. Permite cambiar de tipo a cierto Pokémon.",
+		"memory": "dark",
+		"hold": true
+	},
+	"fairymemory": {
+		"num": 920,
+		"name": "Disco Hada",
+		"pluralName": "Discos Hada",
+		"pocket": "items",
+		"price": 0,
+		"description": "Disco de datos que contiene información relativa al tipo Hada. Permite cambiar de tipo a cierto Pokémon.",
+		"memory": "fairy",
+		"hold": true
+	},
+	"solganiumz": {
+		"name": "Solgaleostal Z",
+		"pluralName": "Solgaleostales Z",
+		"onTakeItem": false,
+		"pocket": "items",
+		"zMove": "searingsunrazesmash",
+		"users": ["solgaleo", "necrozma"],
+		"num": 921,
+		"gen": 7,
+		"description": "Solgaleo or Dusk Mane Necrozma with Sunsteel Strike can use a special Z-Move.",
+		"hold": true
+	},
+	"lunaliumz": {
+		"name": "Lunalastal Z",
+		"pluralName": "Lunalastales Z",
+		"onTakeItem": false,
+		"pocket": "items",
+		"zMove": "menacingmoonrazemaelstrom",
+		"users": ["lunala", "necrozma"],
+		"num": 922,
+		"gen": 7,
+		"description": "Lunala or Dawn Wings Necrozma with Moongeist Beam can use a special Z-Move.",
+		"hold": true
+	},
+	"ultranecroziumz": {
+		"num": 923,
+		"gen": 7,
+		"name": "Ultranecrostal Z",
+		"pluralName": "Ultranecrostales Z",
+		"pocket": "items",
+		"zMove": "lightthatburnsthesky",
+		"users": ["necrozma"],
+		"price": 0,
+		"description": "Cristal que confiere el Poder Z al movimiento Géiser Fotónico de Necrozma.",
+		"hold": true
+	},
+	"aloraichiumz": {
+		"name": "Alo-Raistal Z",
+		"pluralName": "Alo-Raistales Z",
+		"pocket": "items",
+		"zMove": "stokedsparksurfer",
+		"users": ["raichu"],
+		"num": 803,
+		"gen": 7,
+		"description": "If held by an Alolan Raichu with Thunderbolt, it can use Stoked Sparksurfer.",
+		"hold": true
+	},
+	"decidiumz": {
+		"name": "Dueyestal Z",
+		"pluralName": "Dueyestales Z",
+		"onTakeItem": false,
+		"pocket": "items",
+		"zMove": "sinisterarrowraid",
+		"users": ["decidueye"],
+		"num": 798,
+		"gen": 7,
+		"description": "If held by a Decidueye with Spirit Shackle, it can use Sinister Arrow Raid.",
+		"hold": true
+	},
+	"inciniumz": {
+		"name": "Incinostal Z",
+		"pluralName": "Incinostales Z",
+		"onTakeItem": false,
+		"pocket": "items",
+		"zMove": "maliciousmoonsault",
+		"users": ["incineroar"],
+		"num": 799,
+		"gen": 7,
+		"description": "If held by an Incineroar with Darkest Lariat, it can use Malicious Moonsault.",
+		"hold": true
+	},
+	"primariumz": {
+		"name": "Primastal Z",
+		"pluralName": "Primastales Z",
+		"onTakeItem": false,
+		"pocket": "items",
+		"zMove": "oceanicoperetta",
+		"users": ["primarina"],
+		"num": 800,
+		"gen": 7,
+		"description": "If held by a Primarina with Sparkling Aria, it can use Oceanic Operetta.",
+		"hold": true
+	},
+	"eeviumz": {
+		"name": "Eeveestal Z",
+		"pluralName": "Eeveestales Z",
+		"onTakeItem": false,
+		"pocket": "items",
+		"zMove": "extremeevoboost",
+		"users": ["eevee"],
+		"num": 805,
+		"gen": 7,
+		"description": "If held by an Eevee with Last Resort, it can use Extreme Evoboost.",
+		"hold": true
+	},
+	"kommoniumz": {
+		"name": "Kommostal Z",
+		"pluralName": "Kommostales Z",
+		"onTakeItem": false,
+		"pocket": "items",
+		"zMove": "clangoroussoulblaze",
+		"users": ["kommoo"],
+		"num": 926,
+		"gen": 7,
+		"description": "If held by a Kommo-o with Clanging Scales, it can use Clangorous Soulblaze.",
+		"hold": true
+	},
+	"lycaniumz": {
+		"name": "Lycanrostal Z",
+		"pluralName": "Lycanrostales Z",
+		"onTakeItem": false,
+		"pocket": "items",
+		"zMove": "splinteredstormshards",
+		"users": ["lycanroc"],
+		"num": 925,
+		"gen": 7,
+		"description": "If held by a Lycanroc forme with Stone Edge, it can use Splintered Stormshards.",
+		"hold": true
+	},
+	"marshadiumz": {
+		"name": "Marshastal Z",
+		"pluralName": "Marshastales Z",
+		"onTakeItem": false,
+		"pocket": "items",
+		"zMove": "soulstealing7starstrike",
+		"users": ["marshadow"],
+		"num": 802,
+		"gen": 7,
+		"description": "If held by Marshadow with Spectral Thief, it can use Soul-Stealing 7-Star Strike.",
+		"hold": true
+	},
+	"mewniumz": {
+		"name": "Mewstal Z",
+		"pluralName": "Mewstales Z",
+		"onTakeItem": false,
+		"pocket": "items",
+		"zMove": "genesissupernova",
+		"users": ["mew"],
+		"num": 806,
+		"gen": 7,
+		"description": "If held by a Mew with Psychic, it can use Genesis Supernova.",
+		"hold": true
+	},
+	"mimikiumz": {
+		"name": "Mimikyustal Z",
+		"pluralName": "Mimikyustales Z",
+		"onTakeItem": false,
+		"pocket": "items",
+		"zMove": "letssnuggleforever",
+		"users": ["mimikyu"],
+		"num": 924,
+		"gen": 7,
+		"description": "If held by a Mimikyu with Play Rough, it can use Let's Snuggle Forever.",
+		"hold": true
+	},
+	"pikashuniumz": {
+		"name": "Ash-Pikastal Z",
+		"pluralName": "Ash-Pikastales Z",
+		"onTakeItem": false,
+		"pocket": "items",
+		"zMove": "tenmillionvoltthunderbolt",
+		"users": ["pikachu"],
+		"num": 836,
+		"gen": 7,
+		"description": "If held by cap Pikachu with Thunderbolt, it can use 10,000,000 Volt Thunderbolt.",
+		"hold": true
+	},
+	"pikaniumz": {
+		"name": "Pikastal Z",
+		"pluralName": "Pikastales Z",
+		"onTakeItem": false,
+		"pocket": "items",
+		"zMove": "catastropika",
+		"users": ["pikachu"],
+		"num": 794,
+		"gen": 7,
+		"description": "If held by a Pikachu with Volt Tackle, it can use Catastropika.",
+		"hold": true
+	},
+	"snorliumz": {
+		"name": "Snorlastal Z",
+		"pluralName": "Snorlastales Z",
+		"onTakeItem": false,
+		"pocket": "items",
+		"zMove": "pulverizingpancake",
+		"users": ["snorlax"],
+		"num": 804,
+		"gen": 7,
+		"description": "If held by a Snorlax with Giga Impact, it can use Pulverizing Pancake.",
+		"hold": true
+	},
+	"tapuniumz": {
+		"name": "Tapustal Z",
+		"pluralName": "Tapustales Z",
+		"onTakeItem": false,
+		"pocket": "items",
+		"zMove": "guardianofalola",
+		"users": ["tapukoko", "tapulele", "tapubulu", "tapufini"],
+		"num": 801,
+		"gen": 7,
+		"description": "If held by a Tapu with Nature's Madness, it can use Guardian of Alola.",
+		"hold": true
+	},
+	"darkiniumz": {
+		"name": "Nictostal Z",
+		"pluralName": "Nictostales Z",
+		"plate": "dark",
+		"onTakeItem": false,
+		"pocket": "items",
+		"zMove": "blackholeeclipse",
+		"num": 791,
+		"gen": 7,
+		"description": "If holder has a Dark move, this item allows it to use a Dark Z-Move.",
+		"hold": true
+	},
+	"dragoniumz": {
+		"name": "Dracostal Z",
+		"pluralName": "Dracostales Z",
+		"plate": "dragon",
+		"onTakeItem": false,
+		"pocket": "items",
+		"zMove": "devastatingdrake",
+		"num": 790,
+		"gen": 7,
+		"description": "If holder has a Dragon move, this item allows it to use a Dragon Z-Move.",
+		"hold": true
+	},
+	"electriumz": {
+		"name": "Electrostal Z",
+		"pluralName": "Electrostales Z",
+		"plate": "electric",
+		"onTakeItem": false,
+		"pocket": "items",
+		"zMove": "gigavolthavoc",
+		"num": 779,
+		"gen": 7,
+		"description": "If holder has an Electric move, this item allows it to use an Electric Z-Move.",
+		"hold": true
+	},
+	"fairiumz": {
+		"name": "Feeristal Z",
+		"pluralName": "Feeristales Z",
+		"plate": "fairy",
+		"onTakeItem": false,
+		"pocket": "items",
+		"zMove": "twinkletackle",
+		"num": 793,
+		"gen": 7,
+		"description": "If holder has a Fairy move, this item allows it to use a Fairy Z-Move.",
+		"hold": true
+	},
+	"fightiniumz": {
+		"name": "Lizastal Z",
+		"pluralName": "Lizastales Z",
+		"plate": "fighting",
+		"onTakeItem": false,
+		"pocket": "items",
+		"zMove": "alloutpummeling",
+		"num": 782,
+		"gen": 7,
+		"description": "If holder has a Fighting move, this item allows it to use a Fighting Z-Move.",
+		"hold": true
+	},
+	"firiumz": {
+		"name": "Pirostal Z",
+		"pluralName": "Pirostales Z",
+		"plate": "fire",
+		"onTakeItem": false,
+		"pocket": "items",
+		"zMove": "infernooverdrive",
+		"num": 777,
+		"gen": 7,
+		"description": "If holder has a Fire move, this item allows it to use a Fire Z-Move.",
+		"hold": true
+	},
+	"flyiniumz": {
+		"name": "Aerostal Z",
+		"pluralName": "Aerostales Z",
+		"plate": "flying",
+		"onTakeItem": false,
+		"pocket": "items",
+		"zMove": "supersonicskystrike",
+		"num": 785,
+		"gen": 7,
+		"description": "If holder has a Flying move, this item allows it to use a Flying Z-Move.",
+		"hold": true
+	},
+	"ghostiumz": {
+		"name": "Espectrostal Z",
+		"pluralName": "Espectrostales Z",
+		"plate": "ghost",
+		"onTakeItem": false,
+		"pocket": "items",
+		"zMove": "neverendingnightmare",
+		"num": 789,
+		"gen": 7,
+		"description": "If holder has a Ghost move, this item allows it to use a Ghost Z-Move.",
+		"hold": true
+	},
+	"grassiumz": {
+		"name": "Fitostal Z",
+		"pluralName": "Fitostales Z",
+		"plate": "grass",
+		"onTakeItem": false,
+		"pocket": "items",
+		"zMove": "bloomdoom",
+		"num": 780,
+		"gen": 7,
+		"description": "If holder has a Grass move, this item allows it to use a Grass Z-Move.",
+		"hold": true
+	},
+	"groundiumz": {
+		"name": "Geostal Z",
+		"pluralName": "Geostales Z",
+		"plate": "ground",
+		"onTakeItem": false,
+		"pocket": "items",
+		"zMove": "tectonicrage",
+		"num": 784,
+		"gen": 7,
+		"description": "If holder has a Ground move, this item allows it to use a Ground Z-Move.",
+		"hold": true
+	},
+	"iciumz": {
+		"name": "Criostal Z",
+		"pluralName": "Criostales Z",
+		"plate": "ice",
+		"onTakeItem": false,
+		"pocket": "items",
+		"zMove": "subzeroslammer",
+		"num": 781,
+		"gen": 7,
+		"description": "If holder has an Ice move, this item allows it to use an Ice Z-Move.",
+		"hold": true
+	},
+	"normaliumz": {
+		"name": "Normastal Z",
+		"pluralName": "Normastales Z",
+		"onTakeItem": false,
+		"pocket": "items",
+		"zMove": "breakneckblitz",
+		"num": 776,
+		"gen": 7,
+		"description": "If holder has a Normal move, this item allows it to use a Normal Z-Move.",
+		"hold": true
+	},
+	"poisoniumz": {
+		"name": "Toxistal Z",
+		"pluralName": "Toxistales Z",
+		"plate": "poison",
+		"onTakeItem": false,
+		"pocket": "items",
+		"zMove": "aciddownpour",
+		"num": 783,
+		"gen": 7,
+		"description": "If holder has a Poison move, this item allows it to use a Poison Z-Move.",
+		"hold": true
+	},
+	"wateriumz": {
+		"name": "Hidrostal Z",
+		"pluralName": "Hidrostales Z",
+		"plate": "water",
+		"onTakeItem": false,
+		"pocket": "items",
+		"zMove": "hydrovortex",
+		"num": 778,
+		"gen": 7,
+		"description": "If holder has a Water move, this item allows it to use a Water Z-Move.",
+		"hold": true
+	},
+	"buginiumz": {
+		"name": "Insectostal Z",
+		"pluralName": "Insectostales Z",
+		"plate": "bug",
+		"onTakeItem": false,
+		"pocket": "items",
+		"zMove": "savagespinout",
+		"num": 787,
+		"gen": 7,
+		"description": "If holder has a Bug move, this item allows it to use a Bug Z-Move.",
+		"hold": true
+	},
+	"psychiumz": {
+		"name": "Psicostal Z",
+		"pluralName": "Psicostales Z",
+		"plate": "psychic",
+		"onTakeItem": false,
+		"pocket": "items",
+		"zMove": "shatteredpsyche",
+		"num": 786,
+		"gen": 7,
+		"description": "If holder has a Psychic move, this item allows it to use a Psychic Z-Move.",
+		"hold": true
+	},
+	"rockiumz": {
+		"name": "Litostal Z",
+		"pluralName": "Litostales Z",
+		"plate": "rock",
+		"onTakeItem": false,
+		"pocket": "items",
+		"zMove": "continentalcrush",
+		"num": 788,
+		"gen": 7,
+		"description": "If holder has a Rock move, this item allows it to use a Rock Z-Move.",
+		"hold": true
+	},
+	"steeliumz": {
+		"name": "Metalostal Z",
+		"pluralName": "Metalostales Z",
+		"plate": "steel",
+		"onTakeItem": false,
+		"pocket": "items",
+		"zMove": "corkscrewcrash",
+		"num": 792,
+		"gen": 7,
+		"description": "If holder has a Steel move, this item allows it to use a Steel Z-Move.",
+		"hold": true
+	}
+}

@@ -1,0 +1,60 @@
+newmtl in10_kabe05
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in10_kabe05.png
+map_d in10_kabe05.png
+newmtl in10_kabe03
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in10_kabe03.png
+map_d in10_kabe03.png
+newmtl in10_kabe01
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in10_kabe01.png
+map_d in10_kabe01.png
+newmtl in10_suna01
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in10_suna01.png
+map_d in10_suna01.png
+newmtl in10_dan01
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in10_dan01.png
+map_d in10_dan01.png
+newmtl in45_gate02
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in45_gate02.png
+map_d in45_gate02.png
+newmtl in10_tile03
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in10_tile03.png
+map_d in10_tile03.png
+newmtl in10_tile05
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in10_tile05.png
+map_d in10_tile05.png
+newmtl in10_tile06
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in10_tile06.png
+map_d in10_tile06.png
+newmtl in14_light_a
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd in14_light_a.png
+map_d in14_light_a.png

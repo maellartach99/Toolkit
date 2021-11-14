@@ -1,0 +1,46 @@
+newmtl lambert1
+Ka 0.0000 0.0000 0.0000
+Kd 0.4078 0.4078 0.4078
+d 1.0000
+newmtl c04_gym_c
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c04_gym_c.png
+map_d c04_gym_c.png
+newmtl h_kage
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h_kage.png
+map_d h_kage.png
+newmtl c04_gym_e
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 0.0000
+map_Kd c04_gym_e.png
+map_d c04_gym_e.png
+newmtl c04_gym_f
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c04_gym_f.png
+map_d c04_gym_f.png
+newmtl c04_gym_b
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c04_gym_b.png
+map_d c04_gym_b.png
+newmtl c04_gym_a
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c04_gym_a.png
+map_d c04_gym_a.png
+newmtl c04_gym_d
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c04_gym_d.png
+map_d c04_gym_d.png

@@ -1,0 +1,36 @@
+newmtl t_light
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd t_light.png
+map_d t_light.png
+newmtl mado
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd mado.png
+map_d mado.png
+newmtl shadow
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd shadow.png
+map_d shadow.png
+newmtl tower01
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd tower01.png
+map_d tower01.png
+newmtl tower02
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd tower02.png
+map_d tower02.png
+newmtl tower03
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd tower03.png
+map_d tower03.png

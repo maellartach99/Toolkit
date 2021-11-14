@@ -1,0 +1,18 @@
+newmtl ele01_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd ele01_1.png
+map_d ele01_1.png
+newmtl ele02_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd ele02_1.png
+map_d ele02_1.png
+newmtl ele03_1
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd ele03_1.png
+map_d ele03_1.png

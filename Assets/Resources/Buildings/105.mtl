@@ -1,0 +1,18 @@
+newmtl c01arch_a_1
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c01arch_a_1.png
+map_d c01arch_a_1.png
+newmtl h_kage_1
+Ka 0.0000 0.0000 0.0000
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h_kage_1.png
+map_d h_kage_1.png
+newmtl c01arch_b_1
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c01arch_b_1.png
+map_d c01arch_b_1.png

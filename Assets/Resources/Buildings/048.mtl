@@ -1,0 +1,120 @@
+newmtl c5zou01
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c5zou01.png
+map_d c5zou01.png
+newmtl t_light04_2
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd t_light04_2.png
+map_d t_light04_2.png
+newmtl c5zou01
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c5zou01.png
+map_d c5zou01.png
+newmtl t_light03
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd t_light03.png
+map_d t_light03.png
+newmtl t_light04
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd t_light04.png
+map_d t_light04.png
+newmtl t_light04_2
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd t_light04_2.png
+map_d t_light04_2.png
+newmtl t_light01
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd t_light01.png
+map_d t_light01.png
+newmtl c5zou01
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c5zou01.png
+map_d c5zou01.png
+newmtl c5kadan
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c5kadan.png
+map_d c5kadan.png
+newmtl h_kage
+Ka 0.9725 0.9725 0.9725
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd h_kage.png
+map_d h_kage.png
+newmtl c5hana
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c5hana.png
+map_d c5hana.png
+newmtl t_light02
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd t_light02.png
+map_d t_light02.png
+newmtl t_light03
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd t_light03.png
+map_d t_light03.png
+newmtl t_light02
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd t_light02.png
+map_d t_light02.png
+newmtl c5zou
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c5zou.png
+map_d c5zou.png
+newmtl c5zou2
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c5zou2.png
+map_d c5zou2.png
+newmtl c5zou_2
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c5zou_2.png
+map_d c5zou_2.png
+newmtl c5zou2
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd c5zou2.png
+map_d c5zou2.png
+newmtl t_light04
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd t_light04.png
+map_d t_light04.png
+newmtl t_light04_2
+Ka 0.7843 0.7843 0.7843
+Kd 0.7843 0.7843 0.7843
+d 1.0000
+map_Kd t_light04_2.png
+map_d t_light04_2.png
