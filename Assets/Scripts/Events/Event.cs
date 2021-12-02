@@ -43,11 +43,17 @@ public class Event : MonoBehaviour
 	}
 	void Update()
 	{
-		if (Trigger == Triggers.Accept)
+		if (Input.GetKeyDown(KeyCode.A))
 		{
-			if (Vector3.Distance(transform.position,Player.transform.position) < 2)
-				if (Input.GetKeyDown(KeyCode.A))
+			if (Trigger == Triggers.Accept)
+			{
+				RaycastHit raycastHit;
+				bool hit = Physics.BoxCast(Player.transform.position+Vector3.up/2,Vector3.one/2,
+					Player.transform.Find("Model").forward, out raycastHit, Quaternion.identity,1f);
+
+				if (hit && raycastHit.transform.gameObject == gameObject)
 					UI.StartCoroutine(Execute(Stop,Commands));
+			}
 		}
 
 		if (Trigger == Triggers.Update)
