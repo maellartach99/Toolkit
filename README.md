@@ -52,3 +52,9 @@ Esta carpeta contiene todos los scripts del juego.
 - En la carpeta Events están los scripts que pretenden simular el sistema de eventos de RPG Maker.
 
 - En la carpeta Pokemon están todos los scripts relacionados con las mecánicas propias de un juego de Pokemon.
+
+## Créditos
+
+* 3DStoUnity
+  * Manurocker95
+  * Opeious

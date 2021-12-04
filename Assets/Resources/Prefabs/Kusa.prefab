@@ -91,7 +91,6 @@ GameObject:
   m_Component:
   - component: {fileID: 7793672107964444176}
   - component: {fileID: 7793672107964444177}
-  - component: {fileID: 112985503133280445}
   m_Layer: 0
   m_Name: Kusa
   m_TagString: Untagged
@@ -129,19 +128,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 0.5, z: 1}
   m_Center: {x: 0, y: 0.25, z: 0}
---- !u!114 &112985503133280445
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7793672107964444175}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c31d58ad84534444284fbe3f6403ed5f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  size: {x: 1, y: 0.5, z: 1}
 --- !u!1 &7793672108643864647
 GameObject:
   m_ObjectHideFlags: 0

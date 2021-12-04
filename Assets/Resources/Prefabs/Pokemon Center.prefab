@@ -252,7 +252,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5258212831398483861}
-  - component: {fileID: 4307940537041219277}
   - component: {fileID: 5065350275763328161}
   m_Layer: 0
   m_Name: Pokemon Center
@@ -278,19 +277,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &4307940537041219277
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4878308906328657199}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c31d58ad84534444284fbe3f6403ed5f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  size: {x: 0.5, y: 0.5, z: 0.5}
 --- !u!65 &5065350275763328161
 BoxCollider:
   m_ObjectHideFlags: 0
